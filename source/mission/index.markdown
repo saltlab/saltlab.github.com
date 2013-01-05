@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "about"
+title: "Mission"
 date: 2013-01-03 12:36
 comments: false
 sharing: false
