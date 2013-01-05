@@ -8,7 +8,7 @@ footer: false
 ---
 
 <div>
-Most of the software tools resulting from our research projects are open-source and available on <a href="https://github.com/saltlab/">GitHub</a>.</div>
+Most software tools resulting from our research projects are open-source and some are available on <a href="https://github.com/saltlab/">GitHub</a>.</div>
 	
 <p>	
 <ul>
