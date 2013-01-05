@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.com/atom.xml" rel="self"/>
   <link href="http://saltlab.github.com/"/>
-  <updated>2013-01-03T22:56:14-08:00</updated>
+  <updated>2013-01-05T00:30:19-08:00</updated>
   <id>http://saltlab.github.com/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,5 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ICST'13]]></title>
+    <link href="http://saltlab.github.com/blog/2013/01/04/icst13/"/>
+    <updated>2013-01-04T17:42:00-08:00</updated>
+    <id>http://saltlab.github.com/blog/2013/01/04/icst13</id>
+    <content type="html"><![CDATA[<h2>Efficient JavaScript Mutation Testing</h2>
+
+<p>Shabnam Mirshokraie, Ali Mesbah, and Karthik Pattabiraman (2013). Efficient JavaScript Mutation Testing. In Proceedings of the 6th IEEE International Conference on Software Testing, Verification and Validation, (ICST’13).</p>
+
+<blockquote><p>Abstract: Mutation testing is an effective test adequacy assessment technique. However, it suffers from two main issues. First, there is a high computational cost in executing the test suite against a potentially large pool of generated mutants. Second, there is much effort involved in filtering out equivalent mutants, which are syntactically different but semantically identical to the original program. Prior work has mainly focused on detecting equivalent mutants after the mutation generation phase, which is computationally expensive and has limited efficiency. In this paper, we propose a technique that leverages static and dynamic program analysis to guide the mutation generation process a-priori towards parts of the code that are error-prone or likely to influence the program’s output. Further, we focus on the JAVASCRIPT language, and propose a set of mutation operators that are specific to web applications. We implement our approach in a tool called MUTANDIS. We empirically evaluate MUTANDIS on a number of web applications to assess the efficacy of the approach.</p></blockquote>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress]]></title>
+    <link href="http://saltlab.github.com/blog/2013/01/02/Octopress/"/>
+    <updated>2013-01-02T06:29:00-08:00</updated>
+    <id>http://saltlab.github.com/blog/2013/01/02/Octopress</id>
+    <content type="html"><![CDATA[<p>SALT lab&#8217;s website is migrated to GitHub and is now based on Octopress!</p>
+]]></content>
+  </entry>
   
 </feed>
