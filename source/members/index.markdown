@@ -1,17 +1,17 @@
 ---
 layout: page
 title: "Members"
-date: 2013-01-03 12:36
+date: 2013-01-20 11:36
 comments: false
 sharing: false
 footer: false
 ---
 
-<strong>Principal Investigator</strong>
+<strong>Principal Investigators</strong>
 
 <ul>
-	<li>
-	<a href="http://www.ece.ubc.ca/~amesbah/">Ali Mesbah</a>, PhD, P.Eng.</li>
+	<li><a href="http://www.ece.ubc.ca/~amesbah/">Ali Mesbah</a>, PhD, P.Eng.</li>
+	<li><a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>, PhD, P.Eng.</li>
 </ul>
 
 <strong>PhD Students</strong>
