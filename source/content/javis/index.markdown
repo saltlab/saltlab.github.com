@@ -18,4 +18,4 @@ footer: false
 		<a href="http://ece.ubc.ca/~janab/Docs/500URLs.zip" style="font-family: Times; font-size: medium; line-height: normal;">Data for the 500 URLs</a>&nbsp;<span style="color: rgb(0, 0, 0); font-family: Times; font-size: medium; line-height: normal;">(50% Alexa, 50% Random)</span></li>
 </ul>
 <p>
-	Tool Implementation: <a href="http://salt.ece.ubc.ca/javis.zip">Javis</a></p>
+	Tool Implementation: <a href="https://github.com/saltlab/javis">Javis</a></p>
