@@ -15,7 +15,7 @@ Most software tools resulting from our research projects are open-source and som
 	<li>
 		<a href="http://crawljax.com">Crawljax</a>: A dynamic event-based crawler for Ajax-based web applications</li>
 	<li>
-		CILLA: Automated CSS rule analyzer</li>
+		<a href="https://github.com/saltlab/cilla">CILLA</a>: Automated CSS rule analyzer</li>
 	<li>
 		<a href="http://ece.ubc.ca/~frolino/projects/autoflox/">AutoFLox</a>:&nbsp;Automatic fault localizer for JavaScript</li>
 	<li>

@@ -20,6 +20,6 @@ The empirical data for all the fifteen experimental objects produced by Cilla in
 		<strong><a href="http://www.ece.ubc.ca/~amesbah/cilla/empirical_data.zip">Download (zip)</a></strong></li>
 </ul>
 <p>
-	The tool implementation, including the binary and source code of Cilla:&nbsp;<strong><a href="http://www.ece.ubc.ca/~amesbah/cilla/cilla-1.0.zip">Download (cilla-1.0.zip)</a>&nbsp;</strong></p>
+	The tool implementation of Cilla is available <a href="https://github.com/saltlab/cilla">here</a>.</p>
 <p>
 	Paper: <b>Automated Analysis of CSS Rules to Support Style Maintenance</b>, ICSE 2012.</p>
