@@ -8,4 +8,4 @@ footer: false
 ---
 
 <p>
-	Our tool and experimental data are available on <a href="#">this page</a>.</p>
+	Our tool (FeedEx) and experimental data are available on <a href="http://www.ece.ubc.ca/~aminmf/feedex.html">this page</a>.</p>

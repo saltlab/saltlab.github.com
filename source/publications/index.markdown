@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "publications"
-date: 2013-01-03 12:36
+date: 2013-03-04 12:36
 comments: false
 sharing: false
 footer: false
@@ -15,9 +15,18 @@ footer: false
 
 <tr><td class="year">2013</td></tr>
 
+<tr><td class="pub"><ul><li class="pub">Vahid Garousi, Ali Mesbah, Aysu Betin Can, and Shabnam Mirshokraie (2013).
+<b><a href="http://www.ece.ubc.ca/~amesbah/docs/ist13.pdf">A Systematic Mapping Study of Web Application Testing</a></b>. 
+ <i>Information and Software Technology (<a href="http://www.journals.elsevier.com/information-and-software-technology/" target="_blank">IST</a>)</i>.
+</li></ul></td></tr>
+
+<tr><td class="pub"><ul><li class="pub">James Lo, Eric Wohlstadter, and Ali Mesbah (2013). 
+<b>Imagen: Runtime Migration of Browser Sessions for JavaScript Web Applications</b>. 
+In <i>Proceedings of the International World Wide Web Conference (<a href="http://www2013.org" target="_blank">WWW'13</a>)</i>. 11 pages. ACM. (Acceptance rate 15%)
+</li></ul></td></tr>
 
 <tr><td class="pub"><ul><li class="pub"><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a>,  <a class="author" href="http://ece.ubc.ca/~amesbah/">Ali Mesbah</a>, and <a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a> (2013). 
-<b><a href="http://www.ece.ubc.ca/~shabnamm/doc/mirshokraie-icst13.pdf">Efficient JavaScript Mutation Testing</a></b>. In <i>Proceedings of the 6<sup>th</sup> IEEE International Conference on Software Testing, Verification and Validation, (<a href="http://www.icst.lu" target="_blank">ICST'13</a>)</i>. 10 pages. IEEE Computer Society.
+<b><a href="http://www.ece.ubc.ca/~shabnamm/doc/mirshokraie-icst13.pdf">Efficient JavaScript Mutation Testing</a></b>. In <i>Proceedings of the 6<sup>th</sup> IEEE International Conference on Software Testing, Verification and Validation, (<a href="http://www.icst.lu" target="_blank">ICST'13</a>)</i>. 10 pages. IEEE Computer Society. (Acceptance rate 25%)
 </li></ul></td></tr>
 
 
