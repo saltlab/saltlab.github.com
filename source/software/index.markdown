@@ -24,5 +24,8 @@ Most software tools resulting from our research projects are open-source and som
 		<a href="https://github.com/saltlab/mutandis/">Mutandis</a>: JavaScript Mutation Testing Tool</li>
 	<li>
 		<a href="http://ece.ubc.ca/~frolino/projects/vejovis/">Vejovis</a>: DOM-Related JavaScript Error Repair Tool</li>
+
+	<li>
+		<a href="/content/javis">Javis</a>: Client-side Hidden-Web Analyzer</li>	
 </ul>
 </p>
