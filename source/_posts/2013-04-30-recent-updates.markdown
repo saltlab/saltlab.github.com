@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "ICWE'13"
+title: "Hidden-web induced by client-side scripting: An empirical study (ICWE 2013)"
 date: 2013-04-30 13:43
 comments: true
 categories: 
 ---
 
-## Hidden-Web Induced by Client-Side Scripting: An Empirical Study
+Zahra Behfarshad and Ali Mesbah. **Hidden-web induced by client-side scripting: An empirical study**. In *Proceedings of the International Conference on Web Engineering (ICWE)*, 15 pages. Springer, 2013.
 
 {% blockquote %}
 Abstract: Client-side JavaScript is increasingly used for enhancing web
