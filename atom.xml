@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.com/atom.xml" rel="self"/>
   <link href="http://saltlab.github.com/"/>
-  <updated>2013-05-21T19:04:45-07:00</updated>
+  <updated>2013-05-28T11:30:41-07:00</updated>
   <id>http://saltlab.github.com/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -14,11 +14,39 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ICWE'13]]></title>
+    <title type="html"><![CDATA[An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)]]></title>
+    <link href="http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/"/>
+    <updated>2013-05-28T11:25:00-07:00</updated>
+    <id>http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013</id>
+    <content type="html"><![CDATA[<p>Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. <strong>An empirical study of client-side JavaScript bugs</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
+
+<blockquote><p>Abstract—Context: Client-side JavaScript is widely used in web<br/>applications to improve user-interactivity and minimize clientserver<br/>communications. Unfortunately, web applications are<br/>prone to JavaScript faults. While prior studies have demonstrated<br/>the prevalence of these faults, no attempts have been made to<br/>determine their root causes and consequences.<br/>Objective: The goal of our study is to understand the root causes<br/>and impacts of JavaScript faults and how the results can impact<br/>JavaScript programmers, testers and tool developers.<br/>Method: We perform an empirical study of 317 bug reports from<br/>12 bug repositories. The bug reports are thoroughly examined<br/>to classify and extract information about the fault’s cause (the<br/>error) and consequence (the failure and impact).<br/>Result: The majority (65%) of JavaScript faults are DOM-related,<br/>meaning they are caused by faulty interactions of the JavaScript<br/>code with the Document Object Model (DOM). Further, 80% of<br/>the highest impact JavaScript faults are DOM-related. Finally,<br/>most JavaScript faults originate from programmer mistakes<br/>committed in the JavaScript code itself, as opposed to other web<br/>application components such as the server-side or HTML code.<br/>Conclusion: Given the prevalence of DOM-related faults,<br/>JavaScript programmers need development tools that can help<br/>them reason about the DOM. Also, testers should prioritize<br/>detection of DOM-related faults as most high impact faults belong<br/>to this category. Finally, developers can use the error patterns we<br/>found to design more powerful static analysis tools for JavaScript.</p></blockquote>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Real Challenges in Mobile App Development (ESEM 2013)]]></title>
+    <link href="http://saltlab.github.com/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/"/>
+    <updated>2013-05-28T11:11:00-07:00</updated>
+    <id>http://saltlab.github.com/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013</id>
+    <content type="html"><![CDATA[<p> Mona Erfani Joorabchi, Ali Mesbah, and Philippe Kruchten. <strong>Real challenges in mobile app development</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
+
+<blockquote><p>Abstract—Context: Mobile app development is a relatively new phenomenon that is increasing rapidly due to the ubiquity and popularity of smartphones among end-users. Objective: The goal of our study is to gain an understanding of the main challenges developers face in practice when they build apps for different mobile devices. Method: We conducted a qualitative study, following a Grounded Theory approach, in which we interviewed 12 senior mobile developers from 9 different companies, followed by a semi-structured survey, with 188 respondents from the mobile development community. Results: The outcome is an overview of the current challenges faced by mobile developers in practice, such as developing apps across multiple platforms, lack of robust monitoring, analysis, and testing tools, and emulators that are slow or miss many features of mobile devices. Conclusion: Based on our findings of the current practices and challenges, we highlight areas that require more attention from the research and development community.</p></blockquote>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hidden-web induced by client-side scripting: An empirical study (ICWE 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/04/30/recent-updates/"/>
     <updated>2013-04-30T13:43:00-07:00</updated>
     <id>http://saltlab.github.com/blog/2013/04/30/recent-updates</id>
-    <content type="html"><![CDATA[<h2>Hidden-Web Induced by Client-Side Scripting: An Empirical Study</h2>
+    <content type="html"><![CDATA[<p>Zahra Behfarshad and Ali Mesbah. <strong>Hidden-web induced by client-side scripting: An empirical study</strong>. In <em>Proceedings of the International Conference on Web Engineering (ICWE)</em>, 15 pages. Springer, 2013.</p>
 
 <blockquote><p>Abstract: Client-side JavaScript is increasingly used for enhancing web<br/>application functionality, interactivity, and responsiveness. Through the<br/>execution of JavaScript code in browsers, the DOM tree representing a<br/>webpage at runtime, can be incrementally updated without requiring a<br/>URL change. This dynamically updated content is hidden from general<br/>search engines. In this paper, we present the rst empirical study on measuring and characterizing the hidden-web induced as a result of client-side JavaScript execution. Our study reveals that this type of hidden-web<br/>content is prevalent in online web applications today: from the 500 websites we analyzed, 95% contain client-side hidden-web content; On those websites that contain client-side hidden-web content, (1) on average, 62%<br/>of the web states are hidden, (2) per hidden state, there is an average of<br/>19 kilobytes of data that is hidden from which 0.6 kilobytes contain textual content, (3) the DIV element is the most common clickable element<br/>used (61%) to initiate this type of hidden-web state transition, and (4)<br/>on average 25 minutes is required to dynamically crawl 50 DOM states.<br/>Further, our study indicates that there is a correlation between DOM<br/>tree size and hidden-web content, but no correlation exists between the<br/>amount of JavaScript code and client-side hidden-web.</p></blockquote>
 
@@ -48,7 +76,7 @@
     <link href="http://saltlab.github.com/blog/2013/01/02/Octopress/"/>
     <updated>2013-01-02T06:29:00-08:00</updated>
     <id>http://saltlab.github.com/blog/2013/01/02/Octopress</id>
-    <content type="html"><![CDATA[<p>SALT lab&#8217;s website is migrated to GitHub and is now based on Octopress!</p>
+    <content type="html"><![CDATA[<p>SALT lab&rsquo;s website is migrated to GitHub and is now based on Octopress!</p>
 ]]></content>
   </entry>
   
