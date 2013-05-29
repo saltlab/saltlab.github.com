@@ -98,3 +98,8 @@ google_analytics_tracking_id: UA-37396198-1
 
 # Facebook Like
 facebook_like: false
+
+# BibTex Citation plugin
+citation:
+    citation_style: plugins/ieee.csl
+    citation_locale: en
