@@ -3,7 +3,7 @@ layout: post
 title: "Real Challenges in Mobile App Development (ESEM 2013)"
 date: 2013-05-28 11:11
 comments: true
-categories: 
+categories: papers
 ---
 
 

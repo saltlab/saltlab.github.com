@@ -3,7 +3,7 @@ layout: post
 title: "An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)"
 date: 2013-05-28 11:25
 comments: true
-categories: 
+categories: papers
 ---
 
 Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. **An empirical study of client-side JavaScript bugs**. In *Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*, 10 pages. IEEE Computer Society, 2013.
