@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.com/atom.xml" rel="self"/>
   <link href="http://saltlab.github.com/"/>
-  <updated>2013-05-28T23:08:15-07:00</updated>
+  <updated>2013-05-29T20:50:01-07:00</updated>
   <id>http://saltlab.github.com/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -56,15 +56,13 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[ICST'13]]></title>
+    <title type="html"><![CDATA[Efficient JavaScript Mutation Testing (ICST 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/01/04/icst13/"/>
     <updated>2013-01-04T17:42:00-08:00</updated>
     <id>http://saltlab.github.com/blog/2013/01/04/icst13</id>
-    <content type="html"><![CDATA[<h2>Efficient JavaScript Mutation Testing</h2>
+    <content type="html"><![CDATA[<p>Shabnam Mirshokraie, Ali Mesbah, and Karthik Pattabiraman (2013). <strong>Efficient JavaScript Mutation Testing</strong>. In <em>Proceedings of the 6th IEEE International Conference on Software Testing, Verification and Validation, (ICST’13)</em>.</p>
 
-<p>Shabnam Mirshokraie, Ali Mesbah, and Karthik Pattabiraman (2013). Efficient JavaScript Mutation Testing. In Proceedings of the 6th IEEE International Conference on Software Testing, Verification and Validation, (ICST’13).</p>
-
-<blockquote><p>Abstract: Mutation testing is an effective test adequacy assessment technique. However, it suffers from two main issues. First, there is a high computational cost in executing the test suite against a potentially large pool of generated mutants. Second, there is much effort involved in filtering out equivalent mutants, which are syntactically different but semantically identical to the original program. Prior work has mainly focused on detecting equivalent mutants after the mutation generation phase, which is computationally expensive and has limited efficiency. In this paper, we propose a technique that leverages static and dynamic program analysis to guide the mutation generation process a-priori towards parts of the code that are error-prone or likely to influence the program’s output. Further, we focus on the JAVASCRIPT language, and propose a set of mutation operators that are specific to web applications. We implement our approach in a tool called MUTANDIS. We empirically evaluate MUTANDIS on a number of web applications to assess the efficacy of the approach.</p></blockquote>
+<blockquote><p>Abstract: Mutation testing is an effective test adequacy assessment technique. However, it suffers from two main issues. First, there is a high computational cost in executing the test suite against a potentially large pool of generated mutants. Second, there is much effort involved in filtering out equivalent mutants, which are syntactically different but semantically identical to the original program. Prior work has mainly focused on detecting equivalent mutants after the mutation generation phase, which is computationally expensive and has limited efficiency. In this paper, we propose a technique that leverages static and dynamic program analysis to guide the mutation generation process a-priori towards parts of the code that are error-prone or likely to influence the program’s output. Further, we focus on the JavaScript language, and propose a set of mutation operators that are specific to web applications. We implement our approach in a tool called Mutandis. We empirically evaluate Mutandis on a number of web applications to assess the efficacy of the approach.</p></blockquote>
 
 
 
