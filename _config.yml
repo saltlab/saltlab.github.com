@@ -106,7 +106,7 @@ citation:
 
 # This plugin handles bibtex publications
 scholar:
-  style: ieee
+  style: source/_bibtex/ieee.csl
   locale: en
   sort_by: year
   order: descending
@@ -121,3 +121,7 @@ scholar:
 
   query: "@*"      
   #query: "@*[public!=no]"    
+
+jekyll-scholar-extras:
+  bib_paper: url
+  bib_presentation: slides  

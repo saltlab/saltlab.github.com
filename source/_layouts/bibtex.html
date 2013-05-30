@@ -37,12 +37,16 @@ no_sidebar: true
     <h3>Citation</h3>
     <div id="publications">
         <p>{{page.entry.citeproc}}</p>
+		{% if page.entry.note %}
+		<p>{{ page.entry.note }}</p>
+		{% endif %}
+	    
     </div>   
     
     <h3>BibTeX</h3>
-    {% codeblock lang:latex %}
-    {{ page.entry.bibtex }} 
-    {% endcodeblock %}
+	{% highlight bash tabsize=2 %}
+	 {{ page.entry.bibtex }} 
+	{% endhighlight %}
 
 
     {% unless page.footer == false %}

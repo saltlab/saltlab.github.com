@@ -9,5 +9,6 @@ footer: false
 <div id="publications">
     
 {% bibliography_hdp %}
+
         
 </div>

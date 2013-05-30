@@ -18,7 +18,8 @@ footer: false
 <strong>Postdocs</strong>
 
 <ul>
-	<li>Mehdi Mirzaaghaei</li>
+	<li><a href="
+	http://www.ece.ubc.ca/~mehdi/">Mehdi Mirzaaghaei</a>, PhD</li>
 </ul>
 
 
@@ -26,17 +27,17 @@ footer: false
 
 <ul>
 	<li>
-		<a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a> (Sep 2011 - )<sup>*1</sup></li>
+		<a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a> (Sep 2011 - )</li>
 	<li>
 		<a href="http://www.ece.ubc.ca/~merfani/">Mona Erfani Joorabchi</a> (Jan 2012 - )</li>
 	<li>
-		<a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012 - )<sup>*1</sup></li>
+		<a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012 - )</li>
 	<li>
 		<a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012 - )</li>
 	<li>
-		<a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 - )<sup>*1</sup></li>
+		<a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 - )</li>
 	<li>
-		<a href="http://www.cs.ubc.ca/~tklo/">James Lo</a> (Jan 2013 - )<sup>*2</sup></li>
+		<a href="http://www.cs.ubc.ca/~tklo/">James Lo</a> (Jan 2013 - ), co-supervised with Prof. <a href="http://www.cs.ubc.ca/~wohlstad/">Eric Wohlstadter</a></p></li> 
 
 </ul>
 
@@ -47,11 +48,11 @@ footer: false
 	<li>
 		Jana Behfarshad (Sep 2011 - )</li>
 	<li>
-		Sheldon&nbsp;Sequeira (Sep 2012 - )<sup>*1</sup></li>
+		Sheldon&nbsp;Sequeira (Sep 2012 - )</li>
 	<li>
 		Golnaz Gharachorlu (Sep 2012 - )</li>
 	<li>
-		Kartik Bajaj (Jan 2013 - )<sup>*1</sup></li>
+		Kartik Bajaj (Jan 2013 - )</li>
 		
 </ul>
 
@@ -67,7 +68,14 @@ footer: false
 	<li>
 		Jeremy Hewett(Sep 2012 - )</li>
 </ul>
+
+<strong>Visiting Students (Internships)</strong>
+<ul>
+	<li><a href="http://alex.nederlof.com">Alex Nederlof</a> (2013), TU Delft</li>
+	<li>Mohamed Ali (2013), NSERC USRA</li>
+	<li>Nainy Argawal (2013), Mitacs Global Link</li>
+</ul>
+
+
 <p>
-<sup>*1</sup> co-supervised with Prof. <a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a></br>
-<sup>*2</sup> co-supervised with Prof. <a href="http://www.cs.ubc.ca/~wohlstad/">Eric Wohlstadter</a></p>
 
