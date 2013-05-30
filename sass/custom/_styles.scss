@@ -17,3 +17,121 @@ margin: 18px;
 font-size: 11pt;
 
 }
+
+// Publications Formatting
+#publications{
+    // Quotes
+    q:before {
+        content: "\201C";
+    }
+    q:after {
+        content: "\201D";
+    }
+    q {
+        font-style: normal;
+		font-weight: bold;
+		text-decoration: underline;
+    }
+    // Italics
+    i {
+        font-style: italic;
+    }
+    // Links
+    a:before {
+        content: "(";
+    }
+    a:after {
+        content: ")";
+    }
+    a {
+        font-family: $sans;
+        font-size: 80%;
+    }
+}
+
+// Theorem-like Environments
+
+.theorem {
+    display: block;
+    margin: 12px 0;
+    font-style: italic;
+}
+.theorem:before {
+    content: "Theorem.";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.lemma {
+    display: block;
+    margin: 12px 0;
+    font-style: italic;
+}
+.lemma:before {
+    content: "Lemma.";
+    font-weight: bold;
+    font-style: normal;
+}
+
+.proof {
+    display: block;
+    margin: 12px 0;
+    font-style: normal;
+}
+.proof:before {
+    content: "Proof.";
+    font-style: italic;
+}
+.proof:after {
+    content: "\25FC";
+    float:right;
+}
+
+.definition {
+    display: block;
+    margin: 12px 0;
+    font-style: normal;
+}
+.definition:before {
+    content: "Definition.";
+    font-weight: bold;
+    font-style: normal;
+}
+
+// Table styling
+
+* + table {
+  border-style:solid;
+  border-width:1px;
+  border-color:#e7e3e7;
+}
+ 
+* + table th, * + table td {
+  border-style:dashed;
+  border-width:1px;
+  border-color:#e7e3e7;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+ 
+* + table th {
+  border-style:solid;
+  font-weight:bold;
+  background: url("/images/noise.png?1330434582") repeat scroll left top #F7F3F7;
+}
+ 
+* + table th[align="left"], * + table td[align="left"] {
+  text-align:left;
+}
+ 
+* + table th[align="right"], * + table td[align="right"] {
+  text-align:right;
+}
+ 
+* + table th[align="center"], * + table td[align="center"] {
+  text-align:center;
+}
+
+* + table img {
+  max-width: none !important;
+}

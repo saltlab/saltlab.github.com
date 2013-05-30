@@ -1,0 +1,62 @@
+---
+layout: default
+comments: false
+sharing: false
+footer: false
+no_sidebar: true
+---
+
+<div>
+<article role="article">
+    <header>
+    <h2 class="entry-title">
+        {% if site.titlecase and page.titlecase != false %}
+            {{ page.entry.title | titlecase }}
+        {% else %}
+            {{ page.entry.title }}
+        {% endif %} 
+    </h2>
+    <h3> 
+        {% if page.entry.url == empty or page.entry.url == nil %}
+        {% else %}
+        [<a href="{{page.entry.url}}">PDF</a>]&nbsp;
+        {% endif %}
+        {% if page.entry.pptlink1 == empty or page.entry.pptlink1 == nil %}
+        {% else %}
+        [<a href="{{page.entry.pptlink1}}">PPT</a>]
+        {% endif %}
+    </h3>
+</header>
+
+    {% if page.entry.abstract %}
+    <h3>Abstract</h3>
+
+    <p>{{ page.entry.abstract }}</p>
+    {% endif %}
+    
+    <h3>Citation</h3>
+    <div id="publications">
+        <p>{{page.entry.citeproc}}</p>
+    </div>   
+    
+    <h3>BibTeX</h3>
+    {% codeblock lang:latex %}
+    {{ page.entry.bibtex }} 
+    {% endcodeblock %}
+
+
+    {% unless page.footer == false %}
+    <footer>
+        <p class="meta">{% include post/meta.html %}{% include custom/page_meta.html %}</p>
+        {% unless page.sharing == false %}
+        {% include post/sharing.html %}
+        {% endunless %}
+    </footer>
+    {% endunless %}
+</article>
+{% if page.comments == true %}{% include comments.html %}{% endif %}
+</div>
+{% unless page.sidebar == false or site.default_sidebar == false %}
+<aside class="sidebar">
+</aside>
+{% endunless %}

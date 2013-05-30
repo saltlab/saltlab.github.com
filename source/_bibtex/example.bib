@@ -1,0 +1,285 @@
+% Zachary T. Harmany, Ph.D.
+% Publications
+
+%===============================================================================
+% NEED LOCAL PDF LINK FOR...
+%===============================================================================
+- harmany-tip2012-spiraltap
+- raginsky-tsp2011-expanderpcs
+- raginsky-tsp2010-poissoncs
+- harmany-ssp2009-spiral
+- harmany-tip2011-cake
+- harmany-spie2011-adaptivecca
+- harmany-spie2011-tissuequantificaiton
+- salmon-icassp2012-poissonpca
+- hernandez-icassp2011-boundedgradientprojection
+- thompson-icassp2011-videolcgp
+- salmon-jmiv2012-poissonpca
+
+%===============================================================================
+% Journal Papers
+%===============================================================================
+
+@article{salmon-jmiv2012-poissonpca,
+arxiv = {1206.0338},
+title = {{Poisson} noise reduction with non-local {PCA}},
+author = {Salmon, Joseph and Harmany, Zachary T. and Deledalle, Charles-Alban and Willett, Rebecca M.},
+journal = {({submitted to}) Journal of Mathematical Imaging and Vision},
+year = {2012},
+abstract = {Photon-limited imaging arises when the number of photons collected by a sensor array is small relative to the number of detector elements. Photon limitations are an important concern for many applications such as spectral imaging, night vision, nuclear medicine, and astronomy. Typically a Poisson distribution is used to model these observations, and the inherent heteroscedasticity of the data combined with standard noise removal methods yields significant artifacts. This paper introduces a novel denoising algorithm for photon-limited images which combines elements of dictionary learning and sparse patch-based representations of images. The method employs both an adaptation of Principal Component Analysis (PCA) for Poisson noise and recently developed sparsity-regularized convex optimization algorithms for photon-limited images. A comprehensive empirical evaluation of the proposed method helps characterize the performance of this approach relative to other state-of-the-art denoising methods.  The results reveal that, despite its conceptual simplicity, Poisson PCA-based denoising appears to be highly competitive in very low light regimes.}
+}
+
+
+@article{harmany-tip2011-cake,
+arxiv = {1111.7247},
+title = {{Spatio-temporal} compressed sensing with coded apertures and keyed exposures},
+author = {Harmany, Zachary T. and Marcia, Roummel F. and Willett, Rebecca M.},
+journal = {({submitted to}) {IEEE} Transactions on Image Processing (under revision)},
+year = {2011},
+abstract = {Optical systems which measure independent random projections of a scene according to compressed sensing (CS) theory face a myriad of practical challenges related to the size of the physical platform, photon efficiency, the need for high temporal resolution, and fast reconstruction in video settings. This paper describes a coded aperture and keyed exposure approach to compressive measurement in optical systems. The proposed projections satisfy the Restricted Isometry Property for sufficiently sparse scenes, and hence are compatible with theoretical guarantees on the video reconstruction quality. These concepts can be implemented in both space and time via either amplitude modulation or phase shifting, and this paper describes the relative merits of the two approaches in terms of theoretical performance, noise and hardware considerations, and experimental results. Fast numerical algorithms which account for the nonnegativity of the projections and temporal correlations in a video sequence are developed and applied to microscopy and short-wave infrared data.}
+}
+
+@article{harmany-tip2012-spiraltap,
+doi = {10.1109/TIP.2011.2168410},
+arxiv = {1005.4274},
+title = {This is {SPIRAL-TAP:} {Sparse} {Poisson} {Intensity} {Reconstruction} {ALgorithms}{---}{Theory} and {Practice}},
+author = {Harmany, Zachary T. and Marcia, Roummel F. and Willett, Rebecca M.},
+journal = {{IEEE} Transactions on Image Processing},
+volume = {21},
+number = {3},
+month = mar,
+year = {2012},
+pages = {1084--1096},
+abstract = {Observations in many applications consist of counts of discrete events, such as photons hitting a detector, which cannot be effectively modeled using an additive bounded or Gaussian noise model, and instead require a Poisson noise model. As a result, accurate reconstruction of a spatially or temporally distributed phenomenon {($f^\star$)} from Poisson data {($y$)} cannot be effectively accomplished by minimizing a conventional penalized least-squares objective function. The problem addressed in this paper is the estimation of {$f^\star$} from {$y$} in an inverse problem setting, where the number of unknowns may potentially be larger than the number of observations and {$f^\star$} admits sparse approximation. The optimization formulation considered in this paper uses a penalized negative Poisson log-likelihood objective function with nonnegativity constraints (since Poisson intensities are naturally nonnegative). In particular, the proposed approach incorporates key ideas of using separable quadratic approximations to the objective function at each iteration and penalization terms related to {$\ell_1$} norms of coefficient vectors, total variation seminorms, and partition-based multiscale estimation methods.}
+}
+ 
+@article{raginsky-tsp2011-expanderpoissoncs,
+doi = {10.1109/TSP.2011.2157913},
+arxiv = {1007.2377},
+title = {Performance bounds for expander-based compressed sensing in {Poisson} noise},
+author = {Raginsky, Maxim and Jafarpour, Sina and Harmany, Zachary T. and Marcia, Roummel F. and 
+Willett, Rebecca M. and Calderbank, Robert},
+journal = {{IEEE} Transactions on Signal Processing},
+volume = {59},
+number = {9},
+month = sep,
+year = {2011},
+pages = {4139--4153},
+abstract = {This paper provides performance bounds for compressed sensing in the presence of Poisson noise using expander graphs. The Poisson noise model is appropriate for a variety of applications, including low-light imaging and digital streaming, where the signal-independent and/or bounded noise models used in the compressed sensing literature are no longer applicable. In this paper, we develop a novel sensing paradigm based on expander graphs and propose a maximum a posteriori {(MAP)} algorithm for recovering sparse or compressible signals from Poisson observations. The geometry of the expander graphs and the positivity of the corresponding sensing matrices play a crucial role in establishing the bounds on the signal reconstruction error of the proposed algorithm. We support our results with experimental demonstrations of reconstructing average packet arrival rates and instantaneous packet counts at a router in a communication network, where the arrivals of packets in each flow follow a Poisson process.}
+}    
+    
+@article{raginsky-tsp2010-poissoncs,
+doi = {10.1109/TSP.2010.2049997},
+arxiv = {0910.5146},
+title = {Compressed sensing performance bounds under {Poisson} noise},
+author = {Raginsky, Maxim and Willett, Rebecca M. and Harmany, Zachary T. and Marcia, Roummel F.},
+journal = {{IEEE} Transactions on Signal Processing},
+volume = {58},
+number = {8},
+month = aug, 
+year = {2010},
+pages = {3990--4002},
+abstract = {This paper describes performance bounds for compressed sensing (CS) where the underlying sparse or compressible (sparsely approximable) signal is a vector of nonnegative intensi- ties whose measurements are corrupted by Poisson noise. In this setting, standard CS techniques cannot be applied directly for several reasons. First, the usual signal-independent and/or bounded noise models do not apply to Poisson noise, which is nonadditive and signal-dependent. Second, the CS matrices typically considered are not feasible in real optical systems because they do not adhere to important constraints, such as nonnegativity and photon flux preservation. Third, the typical {$\ell_2$-$\ell_1$} minimization leads to overfitting in the high-intensity regions and oversmoothing in the low-intensity areas. In this paper, we describe how a feasible positivity- and flux-preserving sensing matrix can be constructed, and then analyze the performance of a CS reconstruction approach for Poisson data that minimizes an objective function consisting of a negative Poisson log likelihood term and a penalty term which measures signal sparsity. We show that, as the overall intensity of the underlying signal increases, an upper bound on the reconstruction error decays at an appropriate rate (depending on the compressibility of the signal), but that for a fixed signal intensity, the error bound actually grows with the number of measurements or sensors. This surprising fact is both proved theoretically and justified based on physical intuition.}
+}
+
+
+%===============================================================================
+% Conference Papers
+%===============================================================================
+
+@inproceedings{oh-icip2013-spiralx,
+title = {Poisson image reconstruction with total variation regularization},
+author = {Oh, Albert K. and Harmany, Zachary T. and Willett, Rebecca M.},
+booktitle = {{IEEE} International Conference on Image Processing {(ICIP)}},
+year = {2013},
+abstract = {In fields such as astronomy and medicine, many imaging modalities operate in the photon-limited realm because of the low photon counts available over a reasonable exposure time. Photon-limited observations are often modeled as the composite of a linear operator, such as a blur or tomographic projection, applied to a scene of interest, followed by Poisson noise draws for each pixel. One method to reconstruct the underlying scene intensity is to minimize a penalized Poisson negative log-likelihood. This paper presents a new model that solves for and regularizes the logarithm of the true scene, and focuses on the special case of total variation regularization. This method yields considerable gains when used in conjunction with cross-validation, where weighting of the regularization term is automatically determined using observed data.}
+}
+
+
+@inproceedings{harmany-isbi2008-fmri,
+doi = {10.1109/ISBI.2008.4541055},
+title = {Controlling the error in {fMRI:} Hypothesis testing or set estimation?},
+author = {Harmany, Zachary T. and Willett, Rebecca M. and Singh, Aarti and Nowak, Robert D.},
+booktitle = {{IEEE} International Symposium on Biomedical Imaging {(ISBI)}},
+month = may,
+year = {2008},
+pages = {552--555},
+abstract = {This paper describes a new methodology and associated theoretical analysis for rapid and accurate extraction of activation regions from functional {MRI} data. Most {fMRI} data analysis methods in use today adopt a hypothesis testing approach, in which the {BOLD} signals in individual voxels or clusters of voxels are compared to a threshold. In order to obtain statistically meaningful results, the testing must be limited to very small numbers of voxels/clusters or the threshold must be set extremely high. Furthermore, voxelization introduces partial volume effects {(PVE)}, which present a persistent error in the localization of activity that no testing procedure can overcome. We abandon the multiple hypothesis testing approach in this paper, and instead advocate a new approach based on set estimation. Rather then attempting to control the probability of error, our method aims to control the spatial volume of the error. To do this, we view the activation regions as level sets of the statistical parametric map {(SPM)} under consideration. The estimation of the level sets, in the presence of noise, is then treated as a statistical inference problem. We propose a level set estimator and show that the expected volume of the error is proportional to the sidelength of a voxel. Since {PVEs} are unavoidable and produce errors of the same order, this is the smallest error volume achievable. Experiments demonstrate the advantages of this new theory and methodology, and the statistical reasonability of controlling the volume of the error rather than the probability of error.},
+}
+
+% Note: This doi doesn't seem to be working at present    
+@inproceedings{harmany-ssp2012-valuemultispectral,
+doi={10.1109/SSP.2012.6319670},
+title = {The value of multispectral observations in photon-limited quantitative tissue analysis},
+author = {Harmany, Zachary T. and Jiang, Xin and Willett, Rebecca M.},
+booktitle = {{IEEE} Statistical Signal Processing Workshop {(SSP)}},
+month = aug,
+year = {2012},
+pages = {237--240},
+abstract = {Multispectral fluorescence data can be used within sparse decomposition methods to separate key cellular structures, even when the number of photons per spectral band is very small. However, there are two key costs associated with multispectral data acquisition: (a) for a fixed data acquisition time, increasing the number of spectral bands means decreasing the number of photons (and hence SNR) per band, and (b) the optical system becomes more complex and expensive. These costs lead to important tradeoffs between the information content and the noise of the observations. This paper describes a mathematical framework for assessing this tradeoff and supporting experimental results.},
+}
+        
+@inproceedings{willett-icip2010-poissontv,
+doi = {10.1109/ICIP.2010.5649600},
+title = {Poisson image reconstruction with total variation regularization},
+author = {Willett, Rebecca M. and Harmany, Zachary T. and Marcia, Roummel F.},
+booktitle = {{IEEE} International Conference on Image Processing {(ICIP)}},
+month = sep,
+year = {2010},
+pages = {4177--4180},
+abstract = {This paper describes an optimization framework for reconstructing nonnegative image intensities from linear projections contaminated with Poisson noise. Such Poisson inverse problems arise in a variety of applications, ranging from medical imaging to astronomy. A total variation regularization term is used to counter the ill-posedness of the inverse problem and results in reconstructions that are piecewise smooth. The proposed algorithm sequentially approximates the objective function with a regularized quadratic surrogate which can easily be minimized. Unlike alternative methods, this approach ensures that the natural nonnegativity constraints are satisfied without placing prohibitive restrictions on the nature of the linear projections to ensure computational tractability. The resulting algorithm is computationally efficient and outperforms similar methods using wavelet-sparsity or partition-based regularization.}
+}
+
+@inproceedings{harmany-icip2010-lcgp,
+doi = {10.1109/ICIP.2010.5652815},
+title = {Gradient projection for linearly constrained convex optimization in sparse signal recovery},
+author = {Harmany, Zachary T. and Thompson, Daniel O. and Willett, Rebecca M. and Marcia, Roummel F.},
+booktitle = {{IEEE} International Conference on Image Processing {(ICIP)}},
+month = sep,
+year = {2010},
+pages = {3361--3364},
+abstract = {The {$\ell_2$-$\ell_1$} compressed sensing minimization problem can be solved efficiently by gradient projection. In imaging applications, the signal of interest corresponds to nonnegative pixel intensities; thus, with additional nonnegativity constraints on the reconstruction, the resulting constrained minimization problem becomes more challenging to solve. In this paper, we propose a gradient projection approach for sparse signal recovery where the reconstruction is subject to nonnegativity constraints. Numerical results are presented to demonstrate the effectiveness of this approach.}
+}
+
+@inproceedings{harmany-spie2010-spiralout,
+doi = {10.1117/12.850771},
+title = {{SPIRAL} out of convexity: Sparsity-regularized algorithms for photon-limited imaging},
+author = {Harmany, Zachary T. and Marcia, Roummel F. and Willett, Rebecca M.},
+booktitle = {Proceedings of {SPIE}},
+year = {2010},
+pages = {75330R--75330R-12},
+abstract = {The observations in many applications consist of counts of discrete events, such as photons hitting a detector, which cannot be effectively modeled using an additive bounded or Gaussian noise model, and instead require a Poisson noise model. As a result, accurate reconstruction of a spatially or temporally distributed phenomenon ({$f^\star$}) from Poisson data ({$y$}) cannot be accomplished by minimizing a conventional {$\ell_2$-$\ell_1$} objective function. The problem addressed in this paper is the estimation of {$f^\star$} from y in an inverse problem setting, where (a) the number of unknowns may potentially be larger than the number of observations and (b) {$f^\star$} admits a sparse representation. The optimization formulation considered in this paper uses a negative Poisson log-likelihood objective function with nonnegativity constraints (since Poisson intensities are naturally nonnegative). This paper describes computational methods for solving the constrained sparse Poisson inverse problem. In particular, the proposed approach incorporates key ideas of using quadratic separable approximations to the objective function at each iteration and computationally efficient partition-based multiscale estimation methods.}
+}
+
+@inproceedings{harmany-isbi2010-photonlimited,
+doi = {10.1109/ISBI.2010.5490062},
+title = {Sparsity-regularized photon-limited imaging},
+author = {Harmany, Zachary T. and Marcia, Roummel F. and Willett, Rebecca 
+M.},
+booktitle = {{IEEE} International Symposium on Biomedical Imaging: From Nano to Macro {(ISBI)}},
+month = apr,
+year = {2010},
+pages = {772--775},
+abstract = {In many medical imaging applications (e.g., {SPECT}, {PET)}, the data are a count of the number of photons incident on a detector array. When the number of photons is small, the measurement process is best modeled with a Poisson distribution. The problem addressed in this paper is the estimation of an underlying intensity from photon-limited projections where the intensity admits a sparse or low-complexity representation. This approach is based on recent inroads in sparse reconstruction methods inspired by compressed sensing. However, unlike most recent advances in this area, the optimization formulation we explore uses a penalized negative Poisson log-likelihood objective function with nonnegativity constraints (since Poisson intensities are naturally nonnegative). This paper describes computational methods for solving the nonnegatively constrained sparse Poisson inverse problem. In particular, the proposed approach incorporates sequential separable quadratic approximations to the log-likelihood and computationally efficient partition-based multiscale estimation methods.}
+}
+    
+@inproceedings{marcia-spie2009-ccaimaging,
+doi = {10.1117/12.803795},
+title = {Compressive coded aperture imaging},
+author = {Marcia, Roummel F. and Harmany, Zachary T. and Willett, Rebecca M.},
+booktitle = {Proceedings of {SPIE} Computational Imaging {VII}},
+year = {2009},
+pages = {72460G--72460G-13},
+abstract = {Nonlinear image reconstruction based upon sparse representations of images has recently received widespread attention with the emerging framework of compressed sensing (CS). This theory indicates that, when feasible, judicious selection of the type of distortion induced by measurement systems may dramatically improve our ability to perform image reconstruction. However, applying compressed sensing theory to practical imaging systems poses a key challenge: physical constraints typically make it infeasible to actually measure many of the random projections described in the literature, and therefore, innovative and sophisticated imaging systems must be carefully designed to effectively exploit CS theory. In video settings, the performance of an imaging system is characterized by both pixel resolution and field of view. In this work, we propose compressive imaging techniques for improving the performance of video imaging systems in the presence of constraints on the focal plane array size. In particular, we describe a novel yet practical approach that combines coded aperture imaging to enhance pixel resolution with superimposing subframes of a scene onto a single focal plane array to increase field of view. Specifically, the proposed method superimposes coded observations and uses wavelet-based sparsity recovery algorithms to reconstruct the original subframes. We demonstrate the effectiveness of this approach by reconstructing with high resolution the constituent images of a video sequence.}
+}
+    
+@inproceedings{marcia-spie2010-cca,
+doi = {10.1117/12.849487},
+title = {Compressive coded apertures for high-resolution imaging},
+author = {Marcia, Roummel F. and Harmany, Zachary T. and Willett, Rebecca M.},
+booktitle = {Proceedings of {SPIE}},
+volume = {7723},
+number = {1},
+month = apr,
+year = {2010},
+pages = {772304--772304-11},
+abstract = {Traditionally, optical sensors have been designed to collect the most directly interpretable and intuitive measurements possible. However, recent advances in the fields of image reconstruction, inverse problems, and compressed sensing indicate that substantial performance gains may be possible in many contexts via computational methods. In particular, by design- ing optical sensors to deliberately collect ``incoherent'' measurements of a scene, we can use sophisticated computational methods to infer more information about critical scene structure and content. In this paper, we explore the potential of physically realizable systems for acquiring such measurements. Specifically, we describe how given a fixed size focal plane array, compressive measurements using coded apertures combined with sophisticated optimization algorithms can significantly increase image quality and resolution.}
+}
+
+@inproceedings{harmany-ssp2009-spiral,
+doi = {10.1109/SSP.2009.5278495},
+title = {Sparse {Poisson} intensity reconstruction algorithms},
+author = {Harmany, Zachary T. and Marcia, Roummel F. and Willett, Rebecca M.},
+booktitle = {{IEEE} Workshop on Statistical Signal Processing ({SSP})},
+month = sept,
+year = {2009},
+pages = {634--637},
+abstract = {The observations in many applications consist of counts of discrete events, such as photons hitting a detector, which cannot be effectively modeled using an additive bounded or Gaussian noise model, and instead require a Poisson noise model. As a result, accurate reconstruction of a spatially or temporally distributed phenomenon ({$f$}) from Poisson data ({$y$}) cannot be accomplished by minimizing a conventional {$\ell_2$-$\ell_1$} objective function. The problem addressed in this paper is the estimation of {$f$} from {$y$} in an inverse problem setting, where (a) the number of unknowns may potentially be larger than the number of observations and (b) f admits a sparse approximation in some basis. The optimization formulation considered in this paper uses a negative Poisson log-likelihood objective function with nonnegativity constraints (since Poisson intensities are naturally nonnegative). This paper describes computational methods for solving the constrained sparse Poisson inverse problem. In particular, the proposed approach incorporates key ideas of using quadratic separable approximations to the objective function at each iteration and computationally efficient partition-based multiscale estimation methods.}
+}
+    
+@inproceedings{harmany-spie2011-adaptivecca,
+doi = {10.1117/12.892726},
+title = {Motion-adaptive compressive coded apertures},
+author = {Harmany, Zachary T. and Oh, Albert K. and Marcia, Roummel F. and Willett, Rebecca M.},
+booktitle = {Proceedings of {SPIE}},
+volume = {8165},
+number = {1},
+month = sep,
+year = {2011},
+pages = {81651C--81651C-5},
+abstract = {This paper describes an adaptive compressive coded aperture imaging system for video based on motion-compensated video sparsity models. In particular, motion models based on optical flow and sparse deviations from optical flow (i.e. salient motion) can be used to (a) predict future video frames from previous compressive measurements, (b) perform reconstruction using efficient online convex programming techniques, and (c) adapt the coded aperture to yield higher reconstruction fidelity in the vicinity of this salient motion.}
+}    
+
+@inproceedings{harmany-spie2011-tissuequantificaiton,
+doi = {10.1117/12.892856},
+title = {Tissue quantification in photon-limited microendoscopy},
+author = {Harmany, Zachary T. and Mueller, Jenna and Brown, J. Quincy and Ramanujam, Nimmi and Willett, Rebecca M.},
+booktitle = {Proceedings of {SPIE}},	
+volume = {8138},
+number = {1},
+month = sep,
+year = {2011},
+pages = {81380F--81380F-6},
+abstract = {This paper explores the use of Poisson sparse decomposition methods for computationally separating tumor nuclei from normal tissue structures in photon-limited microendoscopic images. Sparse decomposition tools are a natural fit for this application with promising preliminary results. However, there are significant the tradeoffs among different algorithms used for Poisson sparse decomposition which are described in detail and demonstrated via simulation.}
+}
+
+@inproceedings{salmon-icassp2012-poissonpca,
+doi = {10.1109/ICASSP.2012.6288081},
+title = {Poisson noise reduction with non-local {PCA}},
+author = {Salmon, Joseph and Deledalle, Charles-Alban and Willett, Rebecca M. and Harmany, Zachary T.},
+booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing {(ICASSP)}},
+month = mar,
+year = {2012},
+pages = {1109--1112},
+abstract = {Photon limitations arise in spectral imaging, nuclear medicine, astronomy and night vision. The Poisson distribution used to model this noise has variance equal to its mean so blind application of standard noise removals methods yields significant artifacts. Recently, overcomplete dictionaries combined with sparse learning techniques have become extremely popular in image reconstruction. The aim of the present work is to demonstrate that for the task of image denoising, nearly state-of-the-art results can be achieved using small dictionaries only, provided that they are learned directly from the noisy image. To this end, we introduce patch-based denoising algorithms which perform an adaptation of {PCA} {(Principal} Component Analysis) for Poisson noise. We carry out a comprehensive empirical evaluation of the performance of our algorithms in terms of accuracy when the photon count is really low. The results reveal that, despite its simplicity, {PCA-flavored} denoising appears to be competitive with other state-of-the-art denoising algorithms.}
+}
+
+@inproceedings{hernandez-icassp2011-boundedgradientprojection,
+doi = {10.1109/ICASSP.2011.5946562},
+title = {Bounded gradient projection methods for sparse signal recovery},
+author = {Hernandez, James and Harmany, Zachary T. and Thompson, Daniel O. and Marcia, Roummel F.},
+booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing {(ICASSP)}},
+month = may,	
+year = {2011},
+pages = {949--952},
+abstract = {The {$\ell_2$-$\ell_1$} sparse signal minimization problem can be solved efficiently by gradient projection. In many applications, the signal to be estimated is known to lie in some range of values. With these additional constraints on the estimate, the resulting constrained minimization problem is more challenging to solve. In previous work, we proposed a gradient projection approach for solving this type of minimization problem with nonnegativity constraints. In this paper, we generalize this approach to solve any bound-constrained {$\ell_2$-$\ell_1$} minimization problem. Our method is based on solving the Lagrangian dual problem, and we show that by constraining the solution to known a priori bounds within the optimization method, we can obtain a more accurate estimate than simply thresholding the solution from the unconstrained minimization problem. Numerical results are presented to demonstrate the effectiveness of this approach.}
+}
+
+@inproceedings{thompson-icassp2011-videolcgp,
+doi = {10.1109/ICASSP.2011.5946657},
+title = {Sparse video recovery using linearly constrained gradient projection},
+author = {Thompson, Daniel O. and Harmany, Zachary T. and Marcia, Roummel F.},
+booktitle = {{IEEE} International Conference on Acoustics, Speech and Signal Processing {(ICASSP)}},
+month = may,
+year = {2011},
+pages = {1329--1332},
+abstract = {This paper concerns the reconstruction of a temporally-varying scene from a video sequence of noisy linear projections. Assuming that each video frame is sparse or compressible in some basis, this inverse problem can be formulated as an {$\ell_2$-$\ell_1$} minimization problem, which can be solved efficiently using gradient projection. Since the signal of interest corresponds to nonnegative pixel intensities, additional nonnegativity constraints are included in the minimization problem, rendering the optimization problem more difficult to solve but with a greater potential for more accurate reconstructions. In this paper, we propose a method for reconstructing a video sequence that incorporates nonnegativity constraints and exploits inter-frame correlations to improve upon the naive approach of solving each frame independently. We present numerical experiments to demonstrate the effectiveness of this approach.}
+}
+
+@inproceedings{harmany-icassp2013-rebel,
+title = {{REBEL:} Convex relaxations for {Poisson} {GLRT}},
+author = {Harmany, Zachary T. and Malloy, Matthew L. and Bhargava, Aniruddha and Rao, Nikhil and Wright, Stephen J.},
+booktitle = {(submitted to) {IEEE} International Conference on Acoustics, Speech and Signal Processing {(ICASSP)}},
+year = {2013},
+abstract = {This paper proposes an adaptive method for detection of sparse signals generated from a Poisson distribution, motivated by the problem of preventing nuclear fuel from crossing secure borders.  The procedure, termed REBEL, is based on a convex relaxation of a generalized likelihood ratio test (GLRT). The relaxed problem is solved using iterative methods.  In the case of 1-sparse signals, the proposed algorithm is shown to be optimal in terms of minimizing the false positive and false negative rates as the sample size grows.}
+}
+
+%===============================================================================
+% Book Chapters
+%===============================================================================
+
+@incollection{marcia-odip2011-compressiveopticalimaging,
+doi = {10.1002/9783527635245.ch22},
+title = {Compressive optical imaging: {Architectures} and algorithms},
+author = {Marcia, Roummel F. and Willett, Rebecca M. and Harmany, Zachary T.},
+booktitle = {Optical and Digital Image Processing: Fundamentals and Applications},
+editor = {Cristobal, Gabriel and Schelkens, Peter and Thienpont, Hugo},
+publisher = {{Wiley-VCH} Verlag {GmbH} \& Co},
+month = apr,
+year = {2011},
+pages = {485--505},
+abstract = {Many traditional optical sensors are designed to collect directly interpretable and intuitive measurements. For instance, a standard digital camera directly measures the intensity of a scene at different spatial locations to form a pixel array. Recent advances in the fields of image reconstruction, inverse problems, and compressive sensing (CS) indicate, however, that substantial performance gains may be possible in many contexts via less direct measurements combined with computational methods. In particular, CS allows for the extraction of high-resolution images from relatively small focal plane arrays (FPAs). The basic idea of CS theory is that when the image of interest is very sparse or highly compressible in some basis (i.e., most basis coefficients are small or zero-valued), relatively few well- chosen observations suffice to reconstruct the most significant non-zero components. In particular, judicious selection of the type of image transformation introduced by measurement systems may dramatically improve our ability to extract high-quality images from a limited number of measurements. By designing optical sensors to collect measurements of a scene according to CS theory, we can use sophisticated computational methods to infer critical scene structure and content.}
+}
+
+    
+            

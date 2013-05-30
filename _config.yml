@@ -103,3 +103,21 @@ facebook_like: false
 citation:
     citation_style: plugins/ieee.csl
     citation_locale: en
+
+# This plugin handles bibtex publications
+scholar:
+  style: ieee
+  locale: en
+  sort_by: year
+  order: descending
+
+  source: source/_bibtex
+  bibliography: biblio
+
+  details_dir:    publications
+  details_layout: bibtex.html
+  details_link:   Details
+  pdf_dir: publications
+
+  query: "@*"      
+  #query: "@*[public!=no]"    
