@@ -8,7 +8,7 @@ footer: false
 ---
 
 <div>
-Most software tools resulting from our research projects are open-source and some are available on <a href="https://github.com/saltlab/">GitHub</a>.</div>
+Most of the software tools resulting from our research projects are open-sourced and many are available on <a href="https://github.com/saltlab/">GitHub</a>.</div>
 	
 <p>	
 <ul>
@@ -27,5 +27,8 @@ Most software tools resulting from our research projects are open-source and som
 
 	<li>
 		<a href="/content/javis">Javis</a>: Client-side Hidden-Web Analyzer</li>	
+	<li>
+		<a href="/content/jsnose">JSNose</a>: JavaScript Code Smell Detector</li>	
+		
 </ul>
 </p>
