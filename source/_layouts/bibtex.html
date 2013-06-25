@@ -27,12 +27,6 @@ no_sidebar: true
         {% endif %}
     </h3>
 </header>
-
-    {% if page.entry.abstract %}
-    <h3>Abstract</h3>
-
-    <p>{{ page.entry.abstract }}</p>
-    {% endif %}
     
     <h3>Citation</h3>
     <div id="publications">
@@ -42,6 +36,12 @@ no_sidebar: true
 		{% endif %}
 	    
     </div>   
+
+   {% if page.entry.abstract %}
+    <h3>Abstract</h3>
+
+    <p>{{ page.entry.abstract }}</p>
+    {% endif %}
     
     <h3>BibTeX</h3>
 	{% highlight bash tabsize=2 %}
