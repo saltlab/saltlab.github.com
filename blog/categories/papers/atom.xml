@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.com/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.com/"/>
-  <updated>2013-06-21T16:59:06-07:00</updated>
+  <updated>2013-06-25T15:53:49-07:00</updated>
   <id>http://saltlab.github.com/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JSNose: Detecting JavaScript Code  Smells (SCAM 2013)]]></title>
+    <link href="http://saltlab.github.com/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/"/>
+    <updated>2013-06-25T15:38:00-07:00</updated>
+    <id>http://saltlab.github.com/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013</id>
+    <content type="html"><![CDATA[<p><a href="/publications/amin_scam13.html"><strong>JSNose: Detecting JavaScript Code  Smells</strong></a> accepted at SCAM 2013.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)]]></title>
