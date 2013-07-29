@@ -45,7 +45,7 @@
 
 </head>
 
-<body   >
+<body   class="no-sidebar"  >
   <header role="banner"><hgroup>
   <h1><img width="50px" border="0" style="vertical-align:middle;" src="/images/s4r.png">  <a href="/">SALT Lab</a></h1>
   
@@ -130,71 +130,6 @@
 </article>
 
 </div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/07/12/best-paper-award-at-icwe-13/">Best Paper Award at ICWE'13</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/">JSNose: Detecting JavaScript Code Smells (SCAM 2013)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/">An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/">Real Challenges in Mobile App Development (ESEM 2013)</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/04/30/recent-updates/">Hidden-web Induced by Client-side Scripting: An Empirical Study (ICWE 2013)</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-  <a href="https://github.com/saltlab">@saltlab</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'saltlab',
-            count: 5,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-
-
-
-  
-</aside>
 
 
     </div>
