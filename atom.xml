@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.com/atom.xml" rel="self"/>
   <link href="http://saltlab.github.com/"/>
-  <updated>2013-07-12T10:10:03+02:00</updated>
+  <updated>2013-07-26T23:38:16-07:00</updated>
   <id>http://saltlab.github.com/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Best Paper Award at ICWE'13]]></title>
     <link href="http://saltlab.github.com/blog/2013/07/12/best-paper-award-at-icwe-13/"/>
-    <updated>2013-07-12T09:56:00+02:00</updated>
+    <updated>2013-07-12T09:56:00-07:00</updated>
     <id>http://saltlab.github.com/blog/2013/07/12/best-paper-award-at-icwe-13</id>
     <content type="html"><![CDATA[<p>Our <a href="http://salt.ece.ubc.ca/publications/jana_icwe13.html">paper</a> received the <a href="http://icwe2013.webengineering.org/Contents/Item/Display/257">Best Paper Award</a> at ICWE 2013.</p>
 ]]></content>
@@ -25,7 +25,7 @@
   <entry>
     <title type="html"><![CDATA[JSNose: Detecting JavaScript Code  Smells (SCAM 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/"/>
-    <updated>2013-06-25T15:38:00+02:00</updated>
+    <updated>2013-06-25T15:38:00-07:00</updated>
     <id>http://saltlab.github.com/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013</id>
     <content type="html"><![CDATA[<p><a href="http://saltlab.github.com/publications/amin_scam13.html"><strong>JSNose: Detecting JavaScript Code  Smells</strong></a> accepted at SCAM 2013.</p>
 ]]></content>
@@ -34,7 +34,7 @@
   <entry>
     <title type="html"><![CDATA[An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/"/>
-    <updated>2013-05-28T11:25:00+02:00</updated>
+    <updated>2013-05-28T11:25:00-07:00</updated>
     <id>http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013</id>
     <content type="html"><![CDATA[<p>Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. <strong>An empirical study of client-side JavaScript bugs</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
 
@@ -48,7 +48,7 @@
   <entry>
     <title type="html"><![CDATA[Real Challenges in Mobile App Development (ESEM 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/"/>
-    <updated>2013-05-28T11:11:00+02:00</updated>
+    <updated>2013-05-28T11:11:00-07:00</updated>
     <id>http://saltlab.github.com/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013</id>
     <content type="html"><![CDATA[<p> Mona Erfani Joorabchi, Ali Mesbah, and Philippe Kruchten. <strong>Real challenges in mobile app development</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
 
@@ -62,7 +62,7 @@
   <entry>
     <title type="html"><![CDATA[Hidden-web induced by client-side scripting: An empirical study (ICWE 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/04/30/recent-updates/"/>
-    <updated>2013-04-30T13:43:00+02:00</updated>
+    <updated>2013-04-30T13:43:00-07:00</updated>
     <id>http://saltlab.github.com/blog/2013/04/30/recent-updates</id>
     <content type="html"><![CDATA[<p>Zahra Behfarshad and Ali Mesbah. <strong>Hidden-web induced by client-side scripting: An empirical study</strong>. In <em>Proceedings of the International Conference on Web Engineering (ICWE)</em>, 15 pages. Springer, 2013.</p>
 
@@ -76,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[Efficient JavaScript Mutation Testing (ICST 2013)]]></title>
     <link href="http://saltlab.github.com/blog/2013/01/04/icst13/"/>
-    <updated>2013-01-04T17:42:00+01:00</updated>
+    <updated>2013-01-04T17:42:00-08:00</updated>
     <id>http://saltlab.github.com/blog/2013/01/04/icst13</id>
     <content type="html"><![CDATA[<p>Shabnam Mirshokraie, Ali Mesbah, and Karthik Pattabiraman (2013). <strong>Efficient JavaScript Mutation Testing</strong>. In <em>Proceedings of the 6th IEEE International Conference on Software Testing, Verification and Validation, (ICST’13)</em>.</p>
 
@@ -90,7 +90,7 @@
   <entry>
     <title type="html"><![CDATA[Octopress]]></title>
     <link href="http://saltlab.github.com/blog/2013/01/02/Octopress/"/>
-    <updated>2013-01-02T06:29:00+01:00</updated>
+    <updated>2013-01-02T06:29:00-08:00</updated>
     <id>http://saltlab.github.com/blog/2013/01/02/Octopress</id>
     <content type="html"><![CDATA[<p>SALT lab&rsquo;s website is migrated to GitHub and is now based on Octopress!</p>
 ]]></content>
