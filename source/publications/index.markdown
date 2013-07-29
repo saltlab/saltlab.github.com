@@ -4,6 +4,7 @@ title: "Publications"
 comments: false
 sharing: false
 footer: false
+sidebar: false
 ---
 
 <div id="publications">
