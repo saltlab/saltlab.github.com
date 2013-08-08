@@ -106,14 +106,14 @@ citation:
 
 # This plugin handles bibtex publications
 scholar:
-  style: source/_bibtex/ieee.csl
+  style: source/_bibtex/custom-ieee.csl
   locale: en
   sort_by: year
   order: descending
 
   source: source/_bibtex
   bibliography: biblio
-
+  
   details_dir:    publications
   details_layout: bibtex.html
   details_link:   Details
@@ -125,3 +125,4 @@ scholar:
 jekyll-scholar-extras:
   bib_paper: url
   bib_presentation: slides  
+  
