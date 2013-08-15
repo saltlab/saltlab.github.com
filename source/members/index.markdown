@@ -7,7 +7,10 @@ sharing: false
 footer: false
 ---
 
+<img src="/members/group-photo.png" border="0"/>
+
 <strong>Principal Investigators</strong>
+
 
 <ul>
 	<li><a href="http://www.ece.ubc.ca/~amesbah/">Ali Mesbah</a>, PhD, P.Eng.</li>
