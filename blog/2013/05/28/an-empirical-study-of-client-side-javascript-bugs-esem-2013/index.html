@@ -1,0 +1,270 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013) - SALT Lab</title>
+  <meta name="author" content="SALT Lab">
+
+  
+  <meta name="description" content="Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. An empirical study of client-side JavaScript bugs. In Proceedings of the ACM/IEEE &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="SALT Lab" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Varela" rel="stylesheet" type="text/css">
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37396198-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><img width="50px" border="0" style="vertical-align:middle;" src="/images/s4r.png">  <a href="/">SALT Lab</a></h1>
+  
+    <h2>Software AnaLysis and Testing (SALT) Lab</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:saltlab.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">News</a></li>
+  <li><a href="/mission">Mission</a></li>
+  <li><a href="/members">Members</a></li>
+  <li><a href="/publications">Publications</a></li>
+  <li><a href="/software">Software</a></li>
+  <li><a href="/prospectivestudents">Prospective Students</a></li>
+  <li><a href="/sponsors">Sponsors</a></li>
+<!--  <li><a href="/blog/archives">Archives</a></li> -->
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-05-28T11:25:00-07:00" pubdate data-updated="true">May 28<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. <strong>An empirical study of client-side JavaScript bugs</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
+
+<blockquote><p>Abstract—Context: Client-side JavaScript is widely used in web applications to improve user-interactivity and minimize clientserver communications. Unfortunately, web applications are prone to JavaScript faults. While prior studies have demonstrated the prevalence of these faults, no attempts have been made to determine their root causes and consequences. Objective: The goal of our study is to understand the root causes and impacts of JavaScript faults and how the results can impact JavaScript programmers, testers and tool developers. Method: We perform an empirical study of 317 bug reports from 12 bug repositories. The bug reports are thoroughly examined to classify and extract information about the fault’s cause (the error) and consequence (the failure and impact). Result: The majority (65%) of JavaScript faults are DOM-related, meaning they are caused by faulty interactions of the JavaScript code with the Document Object Model (DOM). Further, 80% of the highest impact JavaScript faults are DOM-related. Finally, most JavaScript faults originate from programmer mistakes committed in the JavaScript code itself, as opposed to other web application components such as the server-side or HTML code. Conclusion: Given the prevalence of DOM-related faults, JavaScript programmers need development tools that can help them reason about the DOM. Also, testers should prioritize detection of DOM-related faults as most high impact faults belong to this category. Finally, developers can use the error patterns we found to design more powerful static analysis tools for JavaScript.</p></blockquote>
+
+
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">SALT Lab</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-05-28T11:25:00-07:00" pubdate data-updated="true">May 28<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/papers/'>papers</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/" data-via="" data-counturl="http://saltlab.github.com/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/" title="Previous Post: Real Challenges in Mobile App Development (ESEM 2013)">&laquo; Real Challenges in Mobile App Development (ESEM 2013)</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/" title="Next Post: JSNose: Detecting JavaScript Code  Smells (SCAM 2013)">JSNose: Detecting JavaScript Code  Smells (SCAM 2013) &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/07/12/best-paper-award-at-icwe-13/">Best Paper Award at ICWE'13</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/">JSNose: Detecting JavaScript Code Smells (SCAM 2013)</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/">An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/">Real Challenges in Mobile App Development (ESEM 2013)</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/04/30/recent-updates/">Hidden-web Induced by Client-side Scripting: An Empirical Study (ICWE 2013)</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/saltlab">@saltlab</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'saltlab',
+            count: 5,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - SALT Lab -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
