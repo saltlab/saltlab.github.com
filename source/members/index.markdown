@@ -65,7 +65,7 @@ footer: false
 	<li>
 		Andy Hu (Sep 2011 - )</li>
 	<li>
-		Prabhjot Singh (Sep 2011 - )</li>
+		Prabhjot Singh (Sep 2011 - Mar 2013)</li>
 	<li>
 		Charanpreet Toor (Sep 2012 - )</li>
 	<li>
