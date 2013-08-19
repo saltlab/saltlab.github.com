@@ -8,4 +8,10 @@ footer: false
 ---
 
 <p>
-	Our tool (FeedEx) and experimental data are available on <a href="http://www.ece.ubc.ca/~aminmf/feedex.html">this page</a>.</p>
+	<ul>
+		<li>FeedEx tool implementation is on <a href="https://github.com/saltlab/FeedEx" tareget="_blank">GitHub</a></li>
+	    <li>The empirical study details are available on <a href="http://www.ece.ubc.ca/~aminmf/feedex.html">this page</a>.</li>
+		<li>Paper: <a href="http://salt.ece.ubc.ca/publications/amin_issre13.html">Feedback-directed Exploration of Web Applications to Derive Test Models</a></li> 
+	</ul>
+</p>	
+	

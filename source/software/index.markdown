@@ -29,6 +29,9 @@ Most of the software tools resulting from our research projects are open-sourced
 		<a href="/content/javis">Javis</a>: Client-side Hidden-Web Analyzer</li>	
 	<li>
 		<a href="/content/jsnose">JSNose</a>: JavaScript Code Smell Detector</li>	
+	<li>
+		<a href="/content/feedex">FeedEx</a>: Feedback-direction exploration of web applications</li>	
+		
 		
 </ul>
 </p>
