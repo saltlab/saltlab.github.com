@@ -224,7 +224,7 @@
           </group>
         </if>
         <else-if type="paper-conference">
-          <group delimiter=", " suffix=" ">
+          <group delimiter=", " suffix="">
             <text macro="title"/>
             <text macro="event"/>
             <text macro="issued"/>
