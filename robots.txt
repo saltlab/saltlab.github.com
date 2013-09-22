@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://saltlab.github.com/sitemap.xml 
+Sitemap: http://saltlab.github.io/sitemap.xml 
