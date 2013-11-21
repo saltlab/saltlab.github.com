@@ -19,6 +19,7 @@ footer: false
  <li><a href="http://www.lockheedmartin.com">Lockheed Martin</a></li>
  <li><a href="http://www.icics.ubc.ca">Institute for Computing Information and Cognitive Systems (ICICS)</a></li>
  <li><a href="http://www.mitacs.ca">Mitacs</a></li>
+ <li><a href="http://www.intel.ca/content/www/ca/en/homepage.html">Intel</a></li>
 
 </ul>
 </p>
