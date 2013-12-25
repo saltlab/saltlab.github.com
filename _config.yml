@@ -116,7 +116,7 @@ scholar:
   
   details_dir:    publications
   details_layout: bibtex.html
-  details_link:   Details
+  details_link:   BibTex
   pdf_dir: publications
 
   query: "@*"      
