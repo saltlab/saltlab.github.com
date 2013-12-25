@@ -1,6 +1,19 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+h1 {
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+
+#content .blog-index article h1 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 11pt;  
+}
+
 .year {
 
 font-weight: bold;
@@ -8,8 +21,8 @@ font-weight: bold;
 }
 
 ul {
-
-margin: 18px;
+  font-size: 11pt;  
+  margin: 18px;
 }
 
 .pub {
@@ -19,7 +32,17 @@ font-size: 11pt;
 }
 
 // Publications Formatting
-#publications{
+#publications {
+    font-size: 10pt;
+
+    #paper-title {
+      font-style: bold;
+      font-size: 10.5pt;
+    }
+
+    #paper-notes {
+      font-size: 11pt;
+    }
     // Quotes
     q:before {
         content: "\201C";
