@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-01-02T11:52:10-08:00</updated>
+  <updated>2014-01-15T22:49:54-08:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Two Papers at ICSE 2014]]></title>
+    <link href="http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014/"/>
+    <updated>2014-01-15T22:32:00-08:00</updated>
+    <id>http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014</id>
+    <content type="html"><![CDATA[<p>We have two papers accepted in the research track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>:</p>
+
+<ul>
+<li><a href="http://saltlab.github.io/publications/saba_clematis.html"><strong>Understanding JavaScript Event-based Interactions</strong></a></li>
+<li><a href="http://saltlab.github.io/publications/frolin_vejovis.html"><strong>Vejovis: Suggesting Fixes for JavaScript Faults</strong></a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Feedback-directed Exploration of Web Applications to Derive Test Models (ISSRE'13)]]></title>
