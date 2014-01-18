@@ -31,14 +31,18 @@ font-size: 11pt;
 
 }
 
+strong, b {
+  font-weight: bold;
+}
+
 // Publications Formatting
 #publications {
-    font-size: 10pt;
-    line-height: 12pt;
+    font-size: 11pt;
+    line-height: 19px;
+    font-family: Georgia, "Times New Roman", Times, serif;
 
     #paper-title {
       font-style: bold;
-      font-size: 10.5pt;
     }
 
     #paper-notes {

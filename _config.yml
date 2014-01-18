@@ -116,7 +116,7 @@ scholar:
   
   details_dir:    publications
   details_layout: bibtex.html
-  details_link:   BibTex
+  details_link:   Details
   pdf_dir: publications
 
   query: "@*"      
@@ -124,5 +124,5 @@ scholar:
 
 jekyll-scholar-extras:
   bib_paper: url
-  bib_presentation: slides  
+  bib_presentation: slides
   
