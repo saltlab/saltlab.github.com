@@ -39,10 +39,11 @@ footer: false
 
 <strong>MASc Students</strong></p>
 <ul>
-	<li>Keheliya Gallaba (Jan 2014)</li>
+	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (Jan 2014)</li>
 	<li>Kartik Bajaj (Jan 2013)</li>
 	<li>Golnaz Gharachorlu (Sep 2012)</li>
-    <li>Sheldon Sequeira (Sep 2012)</li>
+    <li>Sheldon Sequeira (Sep 2012)</li> 
+    
 	<li>Alireza Zarei (Sep 2011)</li>
 </ul>
 
