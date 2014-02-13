@@ -43,8 +43,6 @@ footer: false
 	<li>Kartik Bajaj (Jan 2013)</li>
 	<li>Golnaz Gharachorlu (Sep 2012)</li>
     <li>Sheldon Sequeira (Sep 2012)</li> 
-    
-	<li>Alireza Zarei (Sep 2011)</li>
 </ul>
 
 <strong>MEng Students</strong>
@@ -55,6 +53,7 @@ footer: false
 
 <strong>Alumni</strong>
 <ul>
+	<li>Alireza Zarei (MASc 2014)</li>
 	<li>Zahra Behfarshad (MASc 2013)</li>
 	<li><a href="http://alex.nederlof.com">Alex Nederlof</a> (MSc 2013), co-supervised with Prof. <a href="http://www.st.ewi.tudelft.nl/~arie/">Arie van Deursen</a></li>
 	<li>Jeremy Hewett (MEng 2013)</li>
