@@ -21,6 +21,12 @@ no_sidebar: true
         {% else %}
         [<a href="{{page.entry.url}}">PDF</a>]&nbsp;
         {% endif %}
+
+         {% if page.entry.report == empty or page.entry.report == nil %}
+        {% else %}
+        [<a href="{{page.entry.report}}">Technical Report</a>]
+        {% endif %}
+
         {% if page.entry.pptlink1 == empty or page.entry.pptlink1 == nil %}
         {% else %}
         [<a href="{{page.entry.pptlink1}}">PPT</a>]

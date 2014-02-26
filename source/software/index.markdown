@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "software"
+title: "Software"
 date: 2013-01-03 12:36
 comments: false
 sharing: false
@@ -30,10 +30,13 @@ Most of the software tools resulting from our research projects are open-sourced
 	<li>
 		<a href="/content/jsnose">JSNose</a>: JavaScript Code Smell Detector</li>	
 	<li>
-		<a href="/content/feedex">FeedEx</a>: Feedback-direction exploration of web applications</li>	
+		<a href="/content/feedex">FeedEx</a>: Feedback-directed exploration of web applications</li>	
 		
 	<li>
 		<a href="/software/pythia/">Pythia</a>: JavaScript Test Case with Oracle Generation</li>	
-		
+	
+	<li>
+		<a href="/software/clematis/">Clematis</a>: Understanding JavaScript Event-based Interactions</li>	 
+	
 </ul>
 </p>
