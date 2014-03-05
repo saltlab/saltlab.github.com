@@ -37,12 +37,18 @@
   </info>
   <!-- Macros -->
   
+  <macro name="title">
+    <text variable="title" quotes="true" 
+         prefix="&lt;span id='paper-title' style='font-weight:bold' &gt;" 
+         suffix="&lt;/span&gt;"/> 
+  </macro>
+
   <macro name="urlaccess">
     <choose>
       <if variable="URL">
           <text variable="URL"
-                prefix="&lt;a style='margin-right:20px' href=&#34;" 
-                suffix="&#34;&gt;[url]&lt;/a&gt;"/> 
+                prefix="&lt;br/&gt;  &lt;a href=&#34;" 
+                suffix="&#34;&gt;PDF&lt;/a&gt;"/> 
       </if>
     </choose>
   </macro>
@@ -127,11 +133,8 @@
       </group>
     </group>
   </macro>
-  <macro name="title">
-    <text variable="title" quotes="true" 
-         prefix="&lt;span id='paper-title' style='font-weight:bold' &gt;" 
-         suffix="&lt;/span&gt;"/> 
-  </macro>
+
+
   <macro name="publisher">
     <choose>
       <if type=" bill book chapter graphic legal_case legislation motion_picture paper-conference song" match="any">
@@ -206,7 +209,7 @@
   </citation>
   <!-- Bibliography -->
   <bibliography entry-spacing="0" second-field-align="flush">
-    <layout suffix=".">
+    <layout suffix="">
       <!-- Citation Number -->
       <text variable="citation-number" prefix="[" suffix="]"/>
       <!-- Author(s) -->
@@ -215,16 +218,19 @@
       <choose>
         <!-- Specific Formats -->
         <if type="article-journal">
-          <group delimiter=", ">
+          <group delimiter=", " suffix=". ">
             <text macro="title"/>
             <text variable="container-title" font-style="italic" form="short"/>
             <text macro="locators"/>
             <text macro="page"/>
             <text macro="issued"/>
           </group>
+           <group delimiter=", " suffix=" ">
+              <text macro="urlaccess"/>        
+          </group>  
         </if>
         <else-if type="paper-conference">
-          <group delimiter=", " suffix="">
+          <group delimiter=", " suffix=". ">
             <text macro="title"/>
             <text macro="event"/>
             <text macro="issued"/>
@@ -232,7 +238,11 @@
             <text macro="page"/>
             <text macro="publisher"/>
             <text macro="award"/>
-          </group>
+          </group>  
+          <group delimiter=", " suffix=" ">
+              <text macro="urlaccess"/>        
+          </group>  
+          
         </else-if>
         <else-if type="report">
           <group delimiter=", ">
