@@ -35,6 +35,7 @@ strong, b {
   font-weight: bold;
 }
 
+
 // Publications Formatting
 #publications {
     font-size: 11pt;
@@ -43,6 +44,10 @@ strong, b {
 
     #paper-title {
       font-style: bold;
+    }
+
+    li {
+     margin: 0px 20px 10px 0;
     }
 
     #paper-notes {

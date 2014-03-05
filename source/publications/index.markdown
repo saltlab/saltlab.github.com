@@ -9,7 +9,7 @@ sidebar: false
 
 <div id="publications">
     
-{% bibliography_hdp %}
+{% bibliography %}
 
         
 </div>
