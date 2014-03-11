@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-03-04T23:50:32-08:00</updated>
+  <updated>2014-03-11T07:55:54-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Two papers at MSR 2014]]></title>
+    <link href="http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/"/>
+    <updated>2014-03-11T07:43:19-07:00</updated>
+    <id>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014</id>
+    <content type="html"><![CDATA[<p>Two papers accepted in the research track of <a href="http://2014.msrconf.org">MSR'14</a>:</p>
+
+<ul>
+<li><a href="/publications/mona_msr14.html"><strong>Works For Me! Characterizing Non-Reproducible Bug Reports</strong></a></li>
+<li><a href="/publications/kartik_msr14.html"><strong>Mining Questions Asked by Web Developers</strong></a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Two Papers at ICSE 2014]]></title>
@@ -54,17 +69,6 @@
     <content type="html"><![CDATA[<p>Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. <strong>An empirical study of client-side JavaScript bugs</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
 
 <p><blockquote><p>Abstract—Context: Client-side JavaScript is widely used in web applications to improve user-interactivity and minimize clientserver communications. Unfortunately, web applications are prone to JavaScript faults. While prior studies have demonstrated the prevalence of these faults, no attempts have been made to determine their root causes and consequences. Objective: The goal of our study is to understand the root causes and impacts of JavaScript faults and how the results can impact JavaScript programmers, testers and tool developers. Method: We perform an empirical study of 317 bug reports from 12 bug repositories. The bug reports are thoroughly examined to classify and extract information about the fault’s cause (the error) and consequence (the failure and impact). Result: The majority (65%) of JavaScript faults are DOM-related, meaning they are caused by faulty interactions of the JavaScript code with the Document Object Model (DOM). Further, 80% of the highest impact JavaScript faults are DOM-related. Finally, most JavaScript faults originate from programmer mistakes committed in the JavaScript code itself, as opposed to other web application components such as the server-side or HTML code. Conclusion: Given the prevalence of DOM-related faults, JavaScript programmers need development tools that can help them reason about the DOM. Also, testers should prioritize detection of DOM-related faults as most high impact faults belong to this category. Finally, developers can use the error patterns we found to design more powerful static analysis tools for JavaScript.</p></blockquote></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Real Challenges in Mobile App Development (ESEM 2013)]]></title>
-    <link href="http://saltlab.github.io/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/"/>
-    <updated>2013-05-28T11:11:00-07:00</updated>
-    <id>http://saltlab.github.io/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013</id>
-    <content type="html"><![CDATA[<p> Mona Erfani Joorabchi, Ali Mesbah, and Philippe Kruchten. <strong>Real challenges in mobile app development</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
-
-<p><blockquote><p>Abstract—Context: Mobile app development is a relatively new phenomenon that is increasing rapidly due to the ubiquity and popularity of smartphones among end-users. Objective: The goal of our study is to gain an understanding of the main challenges developers face in practice when they build apps for different mobile devices. Method: We conducted a qualitative study, following a Grounded Theory approach, in which we interviewed 12 senior mobile developers from 9 different companies, followed by a semi-structured survey, with 188 respondents from the mobile development community. Results: The outcome is an overview of the current challenges faced by mobile developers in practice, such as developing apps across multiple platforms, lack of robust monitoring, analysis, and testing tools, and emulators that are slow or miss many features of mobile devices. Conclusion: Based on our findings of the current practices and challenges, we highlight areas that require more attention from the research and development community.</p></blockquote></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-03-04T23:50:32-08:00</updated>
+  <updated>2014-03-11T07:55:54-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Two papers at MSR 2014]]></title>
+    <link href="http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/"/>
+    <updated>2014-03-11T07:43:19-07:00</updated>
+    <id>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014</id>
+    <content type="html"><![CDATA[<p>Two papers accepted in the research track of <a href="http://2014.msrconf.org">MSR&#8217;14</a>:</p>
+
+<ul>
+<li><a href="http://saltlab.github.io/publications/mona_msr14.html"><strong>Works For Me! Characterizing Non-Reproducible Bug Reports</strong></a></li>
+<li><a href="http://saltlab.github.io/publications/kartik_msr14.html"><strong>Mining Questions Asked by Web Developers</strong></a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Two Papers at ICSE 2014]]></title>
