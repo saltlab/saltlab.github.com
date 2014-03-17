@@ -338,6 +338,39 @@ compared to classical exhaustive techniques such as depth-first,
 breadth-first, and random exploration.}
 }
 
+
+@inproceedings{kartik:msr14,
+        author = {Kartik Bajaj and Karthik Pattabiraman and Ali Mesbah},
+        title = {Mining Questions Asked by Web Developers},
+        booktitle = {Proceedings of the Working Conference on Mining Software Repositories (MSR)},
+        publisher = {ACM},
+        pages = {10 pages},
+        year = {2014},
+    abstract = {Modern web applications consist of a significant amount of client- side code, written in JavaScript, HTML, and CSS. In this paper, we present a study of common challenges and misconceptions among web developers, by mining related questions asked on StackOver- flow. We use unsupervised learning to categorize the mined questions and define a ranking algorithm to rank all the StackOverflow questions based on their importance. We analyze the top 50 questions qualitatively. The results indicate that (1) the overall share of web development related discussions is increasing among developers, (2) browser related discussions are prevalent; however, this share is decreasing with time, (3) form validation and other DOM related discussions have been discussed consistently over time, (4) web related discussions are becoming more prevalent in mobile development, and (5) developers face implementation issues with new HTML5 features such as Canvas. We examine the implications of the results on the development, research, and standardization communities.}        
+}
+
+@inproceedings{mona:msr14,
+	author = {Erfani Joorabchi, Mona and Mehdi Mirzaaghaei and Ali Mesbah},
+	title = {Works For Me! {C}haracterizing Non-Reproducible Bug Reports},
+    booktitle = {Proceedings of the Working Conference on Mining Software Repositories (MSR)}, 
+	publisher = {ACM},
+	pages = {10 pages},
+    year = {2014},
+    abstract = {Bug repository systems have become an integral component of software development activities. Ideally, each bug report should help developers to find and fix a software fault. However, there is a subset of reported bugs that is not (easily) re- producible, on which developers spend considerable amounts of time and effort. We present an empirical analysis of non- reproducible bug reports to characterize their rate, nature, and root causes. We mine one industrial and five open-source bug repositories, resulting in 32K non-reproducible bug reports. We (1) compare properties of non-reproducible reports with their counterparts such as active time and number of authors, (2) investigate their life-cycle patterns, and (3) examine 120 Fixed non-reproducible reports. In addition, we qualitatively classify a set of randomly selected non- reproducible bug reports (1,643) into six common categories. Our results show that, on average, non-reproducible bug re- ports pertain to 17\% of all bug reports, remain active three months longer than their counterparts, can be mainly (45\%) classified as "Interbug Dependencies", and 66\% of Fixed non-reproducible reports were indeed reproduced and fixed.}
+}
+
+@inproceedings{icse14seip,
+	author = {Alex Nederlof and Ali Mesbah and van Deursen, Arie},
+	title = {Software Engineering for the Web: The State of the Practice},
+        booktitle = {Proceedings of the ACM/IEEE International Conference on Software Engineering, Software Engineering In Practice (ICSE SEIP)},
+        publisher = {ACM},
+        pages = {10 pages},
+        year = {2014},
+        url = {http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf},
+        abstract = {Today's web applications increasingly rely on client-side code execution. HTML is not just created on the server, but manipulated extensively within the browser through JavaScript code. In this paper, we seek to understand the software engineering implications of this. We look at deviations from many known best practices in such areas of performance, accessibility, and correct structuring of HTML documents. Furthermore, we assess to what extent such deviations manifest themselves through client-side code manipulation only. To answer these questions, we conducted a large scale experiment, involving automated client-enabled crawling of over 4000 web applications, resulting in over 100,000,000 pages analyzed, and close to 1,000,000 unique client-side user interface states. Our findings show that the majority of sites contain a substantial number of problems, making sites unnecessarily slow, inaccessible for the visually impaired, and with layout that is unpredictable due to errors in the dynamically modified DOM trees.}
+}
+
+
 @inproceedings{frolin:vejovis,
         author = {Frolin Ocariza and Karthik Pattabiraman and Ali Mesbah},
         title = {Vejovis: Suggesting Fixes for JavaScript Faults},
@@ -360,3 +393,7 @@ breadth-first, and random exploration.}
         year = {2014},
         abstract = {Web applications have become one of the fastest growing types of software systems today. Despite their popularity, understanding the behaviour of modern web applications is still a challenging endeavour for developers during development and maintenance tasks. The challenges mainly stem from the dynamic, event-driven, and asynchronous nature of the JavaScript language. We propose a generic technique for capturing low-level event-based interactions in a web application and mapping those to a higher-level behavioural model. This model is then transformed into an interactive visualization, representing episodes of triggered causal and temporal events, related JavaScript code executions, and their impact on the dynamic DOM state. Our approach, implemented in a tool called Clematis, allows developers to easily understand the complex dynamic behaviour of their application at three different semantic levels of granularity. The results of our industrial controlled experiment show that Clematis is capable of improving the task accuracy by 61\%, while reducing the task completion time by 47\%.}
 }
+
+
+
+

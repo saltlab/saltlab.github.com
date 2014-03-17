@@ -33,16 +33,20 @@ no_sidebar: true
         {% endif %}
     </h3>
 </header>
-    
+   
+   {% if page.entry.citeproc %} 
     <h3>Citation</h3>
     <div id="publications">
-        <p>{{page.entry.citeproc}}</p>
+        <p>{{ page.entry.citeproc }}</p>
+    </div>       
+   {% endif %}
+    
+     
 		{% if page.entry.note %}
 		<p>{{ page.entry.note }}</p>
 		{% endif %}
 	    
-    </div>   
-
+   
    {% if page.entry.abstract %}
     <h3>Abstract</h3>
 
