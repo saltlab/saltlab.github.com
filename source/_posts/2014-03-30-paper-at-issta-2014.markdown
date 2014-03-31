@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Paper at ISSTA 2014"
+date: 2014-03-30 17:50:06 -0700
+comments: false
+categories: papers
+---
+
+Our paper [**DOM-Based Test Adequacy Criteria for Web Applications**](/publications/domcovery_issta14.html) accepted in the research track of [ISSTA'14](http://issta2014.org).
