@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-03-30T16:00:17-07:00</updated>
+  <updated>2014-03-30T17:52:59-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Paper at ISSTA 2014]]></title>
+    <link href="http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014/"/>
+    <updated>2014-03-30T17:50:06-07:00</updated>
+    <id>http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014</id>
+    <content type="html"><![CDATA[<p>Our paper <a href="/publications/domcovery_issta14.html"><strong>DOM-Based Test Adequacy Criteria for Web Applications</strong></a> accepted in the research track of <a href="http://issta2014.org">ISSTA'14</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Two papers at MSR 2014]]></title>
@@ -25,6 +34,15 @@
 <li><a href="/publications/kartik_msr14.html"><strong>Mining Questions Asked by Web Developers</strong></a></li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Paper at ICSE SEIP 2014]]></title>
+    <link href="http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014/"/>
+    <updated>2014-02-18T16:42:59-08:00</updated>
+    <id>http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014</id>
+    <content type="html"><![CDATA[<p>The paper <a href="/publications/icse14seip.html"><strong>Software Engineering for the Web: The State of the Practice</strong></a> accepted in the Software Engineering in Practice (SEIP) track of <a href="http://2014.icse-conferences.org">ICSE'14</a>.</p>
 ]]></content>
   </entry>
   
@@ -49,26 +67,6 @@
     <updated>2013-09-22T12:35:00-07:00</updated>
     <id>http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13</id>
     <content type="html"><![CDATA[<p><a href="/publications/amin_issre13.html"><strong>Feedback-directed Exploration of Web Applications to Derive Test Models</strong></a> accepted at ISSRE 2013.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JSNose: Detecting JavaScript Code  Smells (SCAM 2013)]]></title>
-    <link href="http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/"/>
-    <updated>2013-06-25T15:38:00-07:00</updated>
-    <id>http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013</id>
-    <content type="html"><![CDATA[<p><a href="/publications/amin_scam13.html"><strong>JSNose: Detecting JavaScript Code  Smells</strong></a> accepted at SCAM 2013.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)]]></title>
-    <link href="http://saltlab.github.io/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/"/>
-    <updated>2013-05-28T11:25:00-07:00</updated>
-    <id>http://saltlab.github.io/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013</id>
-    <content type="html"><![CDATA[<p>Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. <strong>An empirical study of client-side JavaScript bugs</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
-
-<p><blockquote><p>Abstract—Context: Client-side JavaScript is widely used in web applications to improve user-interactivity and minimize clientserver communications. Unfortunately, web applications are prone to JavaScript faults. While prior studies have demonstrated the prevalence of these faults, no attempts have been made to determine their root causes and consequences. Objective: The goal of our study is to understand the root causes and impacts of JavaScript faults and how the results can impact JavaScript programmers, testers and tool developers. Method: We perform an empirical study of 317 bug reports from 12 bug repositories. The bug reports are thoroughly examined to classify and extract information about the fault’s cause (the error) and consequence (the failure and impact). Result: The majority (65%) of JavaScript faults are DOM-related, meaning they are caused by faulty interactions of the JavaScript code with the Document Object Model (DOM). Further, 80% of the highest impact JavaScript faults are DOM-related. Finally, most JavaScript faults originate from programmer mistakes committed in the JavaScript code itself, as opposed to other web application components such as the server-side or HTML code. Conclusion: Given the prevalence of DOM-related faults, JavaScript programmers need development tools that can help them reason about the DOM. Also, testers should prioritize detection of DOM-related faults as most high impact faults belong to this category. Finally, developers can use the error patterns we found to design more powerful static analysis tools for JavaScript.</p></blockquote></p>
 ]]></content>
   </entry>
   
