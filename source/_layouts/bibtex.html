@@ -1,22 +1,32 @@
 ---
-layout: default
+layout: page
 comments: false
 sharing: false
 footer: false
-no_sidebar: true
+sidebar: false
 ---
 
 <div>
 <article role="article">
     <header>
-    <h2 class="entry-title">
+    <strong>
         {% if site.titlecase and page.titlecase != false %}
-            {{ page.entry.title | titlecase }}
+            {{ page.entry.title | titlecase }}.
         {% else %}
-            {{ page.entry.title }}
+            {{ page.entry.title }}.
         {% endif %} 
-    </h2>
-    <h3> 
+    </strong>
+    <div> 
+     {% if page.entry.booktitle == empty or page.entry.booktitle == nil %}
+        {% else %}
+         In <em>{{ page.entry.booktitle }}</em>
+        {% endif %}
+     {% if page.entry.journal == empty or page.entry.journal == nil %}
+        {% else %}
+         <em>{{ page.entry.journal }}</em>
+        {% endif %}   
+    </div> 
+    <span>   
         {% if page.entry.url == empty or page.entry.url == nil %}
         {% else %}
         [<a href="{{page.entry.url}}">PDF</a>]&nbsp;
@@ -31,7 +41,7 @@ no_sidebar: true
         {% else %}
         [<a href="{{page.entry.pptlink1}}">PPT</a>]
         {% endif %}
-    </h3>
+    </span>
 </header>
    
    {% if page.entry.citeproc %} 
