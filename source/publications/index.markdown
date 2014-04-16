@@ -10,6 +10,5 @@ sidebar: false
 <div id="publications">
     
 {% bibliography %}
-
-        
+       
 </div>

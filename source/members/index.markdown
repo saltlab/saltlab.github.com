@@ -29,7 +29,6 @@ footer: false
 <strong>PhD Students</strong>
 
 <ul>
-	<li><a href="http://www.cs.ubc.ca/~tklo/">James Lo</a> (Jan 2013), co-supervised with Prof. <a href="http://www.cs.ubc.ca/~wohlstad/">Eric Wohlstadter</a></li> 
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012)</li>
 	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012)</li>
 	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012)</li>
@@ -54,7 +53,7 @@ footer: false
 <strong>Alumni</strong>
 <ul>
 	<li>Alireza Zarei (<a href="https://circle.ubc.ca/bitstream/handle/2429/46072/ubc_2014_spring_zarei_alireza.pdf?sequence=1">MASc 2014</a>)</li>
-	<li>Zahra Behfarshad (MASc 2013)</li>
+	<li>Zahra Behfarshad (<a href="http://www.ece.ubc.ca/~amesbah/docs/icwe13.pdf">MASc 2013</a>)</li>
 	<li><a href="http://alex.nederlof.com">Alex Nederlof</a> (<a href="http://repository.tudelft.nl/assets/uuid:58c61966-0d87-4479-8b4e-ea2fa71a4d82/thesis.pdf">MSc 2013</a>), co-supervised with Prof. <a href="http://www.st.ewi.tudelft.nl/~arie/">Arie van Deursen</a></li>
 	<li>Jeremy Hewett (MEng 2013)</li>
 	<li>Prabhjot Singh (MEng 2013)</li> 
