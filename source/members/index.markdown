@@ -46,25 +46,26 @@ footer: false
 
 <strong>MEng Students</strong>
 <ul>
-	<li>Charanpreet Toor (Sep 2012)</li>
 	<li>Andy Hu (Sep 2011)</li>
-</ul>
-
-<strong>Alumni</strong>
-<ul>
-	<li>Alireza Zarei (<a href="https://circle.ubc.ca/bitstream/handle/2429/46072/ubc_2014_spring_zarei_alireza.pdf?sequence=1">MASc 2014</a>)</li>
-	<li>Zahra Behfarshad (<a href="http://www.ece.ubc.ca/~amesbah/docs/icwe13.pdf">MASc 2013</a>)</li>
-	<li><a href="http://alex.nederlof.com">Alex Nederlof</a> (<a href="http://repository.tudelft.nl/assets/uuid:58c61966-0d87-4479-8b4e-ea2fa71a4d82/thesis.pdf">MSc 2013</a>), co-supervised with Prof. <a href="http://www.st.ewi.tudelft.nl/~arie/">Arie van Deursen</a></li>
-	<li>Jeremy Hewett (MEng 2013)</li>
-	<li>Prabhjot Singh (MEng 2013)</li> 
 </ul>
 
 <strong>Visitors/Internships</strong>
 <ul>
+	<li>Erin Bush (2014), NSERC USRA</li>
+	<li>Joseph Hejderup (2014), TU Delft</li>
 	<li>Mohamed Ali (2013), NSERC USRA</li>
 	<li>Nainy Argawal (2013), Mitacs Global Link</li>
 </ul>
 
+<strong>Alumni</strong>
+<ul>
+	<li>Charanpreet Toor (MEng 2014)</li>
+	<li>Alireza Zarei (<a href="https://circle.ubc.ca/bitstream/handle/2429/46072/ubc_2014_spring_zarei_alireza.pdf?sequence=1">MASc 2014</a>)</li>
+	<li>Zahra Behfarshad (<a href="http://www.ece.ubc.ca/~amesbah/docs/icwe13.pdf">MASc 2013</a>)</li>
+	<li><a href="http://alex.nederlof.com">Alex Nederlof</a> (<a href="http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf">MSc 2013</a>), co-supervised with Prof. <a href="http://www.st.ewi.tudelft.nl/~arie/">Arie van Deursen</a></li>
+	<li>Jeremy Hewett (MEng 2013)</li>
+	<li>Prabhjot Singh (MEng 2013)</li> 
+</ul>
 
 <p>
 
