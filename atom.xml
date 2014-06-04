@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-05-16T21:05:54-07:00</updated>
+  <updated>2014-06-04T18:21:37+05:30</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paper at ISSTA 2014]]></title>
-    <link href="http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014/"/>
-    <updated>2014-03-30T17:50:06-07:00</updated>
-    <id>http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014</id>
+    <link href="http://saltlab.github.io/blog/2014/03/31/paper-at-issta-2014/"/>
+    <updated>2014-03-31T06:20:06+05:30</updated>
+    <id>http://saltlab.github.io/blog/2014/03/31/paper-at-issta-2014</id>
     <content type="html"><![CDATA[<p>Our paper <a href="http://saltlab.github.io/publications/domcovery_issta14.html"><strong>DOM-Based Test Adequacy Criteria for Web Applications</strong></a> accepted in the research track of <a href="http://issta2014.org">ISSTA&#8217;14</a>.</p>
 ]]></content>
   </entry>
@@ -25,7 +25,7 @@
   <entry>
     <title type="html"><![CDATA[Two papers at MSR 2014]]></title>
     <link href="http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/"/>
-    <updated>2014-03-11T07:43:19-07:00</updated>
+    <updated>2014-03-11T20:13:19+05:30</updated>
     <id>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014</id>
     <content type="html"><![CDATA[<p>Two papers accepted in the research track of <a href="http://2014.msrconf.org">MSR&#8217;14</a>:</p>
 
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paper at ICSE SEIP 2014]]></title>
-    <link href="http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014/"/>
-    <updated>2014-02-18T16:42:59-08:00</updated>
-    <id>http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014</id>
+    <link href="http://saltlab.github.io/blog/2014/02/19/paper-at-icse-seip-2014/"/>
+    <updated>2014-02-19T06:12:59+05:30</updated>
+    <id>http://saltlab.github.io/blog/2014/02/19/paper-at-icse-seip-2014</id>
     <content type="html"><![CDATA[<p>The paper <a href="http://saltlab.github.io/publications/icse14seip.html"><strong>Software Engineering for the Web: The State of the Practice</strong></a> accepted in the Software Engineering in Practice (SEIP) track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>.</p>
 ]]></content>
   </entry>
@@ -49,7 +49,7 @@
   <entry>
     <title type="html"><![CDATA[Two Papers at ICSE 2014]]></title>
     <link href="http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014/"/>
-    <updated>2014-01-15T22:32:00-08:00</updated>
+    <updated>2014-01-15T22:32:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014</id>
     <content type="html"><![CDATA[<p>We have two papers accepted in the research track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>:</p>
 
@@ -64,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[Feedback-directed Exploration of Web Applications to Derive Test Models (ISSRE'13)]]></title>
     <link href="http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13/"/>
-    <updated>2013-09-22T12:35:00-07:00</updated>
+    <updated>2013-09-22T12:35:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13</id>
     <content type="html"><![CDATA[<p><a href="http://saltlab.github.io/publications/amin_issre13.html"><strong>Feedback-directed Exploration of Web Applications to Derive Test Models</strong></a> accepted at ISSRE 2013.</p>
 ]]></content>
@@ -73,7 +73,7 @@
   <entry>
     <title type="html"><![CDATA[Best Paper Award at ICWE'13]]></title>
     <link href="http://saltlab.github.io/blog/2013/07/12/best-paper-award-at-icwe-13/"/>
-    <updated>2013-07-12T09:56:00-07:00</updated>
+    <updated>2013-07-12T09:56:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/07/12/best-paper-award-at-icwe-13</id>
     <content type="html"><![CDATA[<p>Our <a href="http://salt.ece.ubc.ca/publications/jana_icwe13.html">paper</a> received the <a href="http://icwe2013.webengineering.org/Contents/Item/Display/257">Best Paper Award</a> at ICWE 2013.</p>
 ]]></content>
@@ -82,7 +82,7 @@
   <entry>
     <title type="html"><![CDATA[JSNose: Detecting JavaScript Code  Smells (SCAM 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/"/>
-    <updated>2013-06-25T15:38:00-07:00</updated>
+    <updated>2013-06-25T15:38:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013</id>
     <content type="html"><![CDATA[<p><a href="http://saltlab.github.io/publications/amin_scam13.html"><strong>JSNose: Detecting JavaScript Code  Smells</strong></a> accepted at SCAM 2013.</p>
 ]]></content>
@@ -91,7 +91,7 @@
   <entry>
     <title type="html"><![CDATA[An Empirical Study of Client-Side JavaScript Bugs (ESEM 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/"/>
-    <updated>2013-05-28T11:25:00-07:00</updated>
+    <updated>2013-05-28T11:25:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013</id>
     <content type="html"><![CDATA[<p>Frolin Ocariza, Kartik Bajaj, Karthik Pattabiraman, and Ali Mesbah. <strong>An empirical study of client-side JavaScript bugs</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
 
@@ -105,7 +105,7 @@
   <entry>
     <title type="html"><![CDATA[Real Challenges in Mobile App Development (ESEM 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/"/>
-    <updated>2013-05-28T11:11:00-07:00</updated>
+    <updated>2013-05-28T11:11:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013</id>
     <content type="html"><![CDATA[<p> Mona Erfani Joorabchi, Ali Mesbah, and Philippe Kruchten. <strong>Real challenges in mobile app development</strong>. In <em>Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</em>, 10 pages. IEEE Computer Society, 2013.</p>
 
@@ -119,7 +119,7 @@
   <entry>
     <title type="html"><![CDATA[Hidden-web induced by client-side scripting: An empirical study (ICWE 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/04/30/recent-updates/"/>
-    <updated>2013-04-30T13:43:00-07:00</updated>
+    <updated>2013-04-30T13:43:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/04/30/recent-updates</id>
     <content type="html"><![CDATA[<p>Zahra Behfarshad and Ali Mesbah. <strong>Hidden-web induced by client-side scripting: An empirical study</strong>. In <em>Proceedings of the International Conference on Web Engineering (ICWE)</em>, 15 pages. Springer, 2013.</p>
 
@@ -133,7 +133,7 @@
   <entry>
     <title type="html"><![CDATA[Efficient JavaScript Mutation Testing (ICST 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/01/04/icst13/"/>
-    <updated>2013-01-04T17:42:00-08:00</updated>
+    <updated>2013-01-04T17:42:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/01/04/icst13</id>
     <content type="html"><![CDATA[<p>Shabnam Mirshokraie, Ali Mesbah, and Karthik Pattabiraman (2013). <strong>Efficient JavaScript Mutation Testing</strong>. In <em>Proceedings of the 6th IEEE International Conference on Software Testing, Verification and Validation, (ICST’13)</em>.</p>
 
@@ -147,7 +147,7 @@
   <entry>
     <title type="html"><![CDATA[Octopress]]></title>
     <link href="http://saltlab.github.io/blog/2013/01/02/Octopress/"/>
-    <updated>2013-01-02T06:29:00-08:00</updated>
+    <updated>2013-01-02T06:29:00+05:30</updated>
     <id>http://saltlab.github.io/blog/2013/01/02/Octopress</id>
     <content type="html"><![CDATA[<p>SALT lab&rsquo;s website is migrated to GitHub and is now based on Octopress!</p>
 ]]></content>
