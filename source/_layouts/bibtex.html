@@ -37,9 +37,14 @@ sidebar: false
         [<a href="{{page.entry.report}}">Technical Report</a>]
         {% endif %}
 
-        {% if page.entry.pptlink1 == empty or page.entry.pptlink1 == nil %}
+        {% if page.entry.slides == empty or page.entry.slides == nil %}
         {% else %}
-        [<a href="{{page.entry.pptlink1}}">PPT</a>]
+        [<a href="{{page.entry.slides}}">Slides</a>]
+        {% endif %}
+
+        {% if page.entry.tool == empty or page.entry.tool == nil %}
+        {% else %}
+        [<a href="{{page.entry.tool}}">Tool</a>]
         {% endif %}
     </span>
 </header>
