@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-06-06T09:29:53+05:30</updated>
+  <updated>2014-06-10T13:09:04-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paper at ISSTA 2014]]></title>
-    <link href="http://saltlab.github.io/blog/2014/03/31/paper-at-issta-2014/"/>
-    <updated>2014-03-31T06:20:06+05:30</updated>
-    <id>http://saltlab.github.io/blog/2014/03/31/paper-at-issta-2014</id>
+    <link href="http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014/"/>
+    <updated>2014-03-30T17:50:06-07:00</updated>
+    <id>http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014</id>
     <content type="html"><![CDATA[<p>Our paper <a href="/publications/domcovery_issta14.html"><strong>DOM-Based Test Adequacy Criteria for Web Applications</strong></a> accepted in the research track of <a href="http://issta2014.org">ISSTA'14</a>.</p>
 ]]></content>
   </entry>
@@ -25,7 +25,7 @@
   <entry>
     <title type="html"><![CDATA[Two papers at MSR 2014]]></title>
     <link href="http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/"/>
-    <updated>2014-03-11T20:13:19+05:30</updated>
+    <updated>2014-03-11T07:43:19-07:00</updated>
     <id>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014</id>
     <content type="html"><![CDATA[<p>Two papers accepted in the research track of <a href="http://2014.msrconf.org">MSR'14</a>:</p>
 
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paper at ICSE SEIP 2014]]></title>
-    <link href="http://saltlab.github.io/blog/2014/02/19/paper-at-icse-seip-2014/"/>
-    <updated>2014-02-19T06:12:59+05:30</updated>
-    <id>http://saltlab.github.io/blog/2014/02/19/paper-at-icse-seip-2014</id>
+    <link href="http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014/"/>
+    <updated>2014-02-18T16:42:59-08:00</updated>
+    <id>http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014</id>
     <content type="html"><![CDATA[<p>The paper <a href="/publications/icse14seip.html"><strong>Software Engineering for the Web: The State of the Practice</strong></a> accepted in the Software Engineering in Practice (SEIP) track of <a href="http://2014.icse-conferences.org">ICSE'14</a>.</p>
 ]]></content>
   </entry>
@@ -49,7 +49,7 @@
   <entry>
     <title type="html"><![CDATA[Two Papers at ICSE 2014]]></title>
     <link href="http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014/"/>
-    <updated>2014-01-15T22:32:00+05:30</updated>
+    <updated>2014-01-15T22:32:00-08:00</updated>
     <id>http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014</id>
     <content type="html"><![CDATA[<p>We have two papers accepted in the research track of <a href="http://2014.icse-conferences.org">ICSE'14</a>:</p>
 
@@ -64,7 +64,7 @@
   <entry>
     <title type="html"><![CDATA[Feedback-directed Exploration of Web Applications to Derive Test Models (ISSRE'13)]]></title>
     <link href="http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13/"/>
-    <updated>2013-09-22T12:35:00+05:30</updated>
+    <updated>2013-09-22T12:35:00-07:00</updated>
     <id>http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13</id>
     <content type="html"><![CDATA[<p><a href="/publications/amin_issre13.html"><strong>Feedback-directed Exploration of Web Applications to Derive Test Models</strong></a> accepted at ISSRE 2013.</p>
 ]]></content>
