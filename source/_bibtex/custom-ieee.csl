@@ -55,7 +55,7 @@
 
   <macro name="award">
     <text variable="award" 
-    prefix="&lt;span id='paper-notes' style='color:red; font-weight:bold' &gt;" 
+    prefix="&lt;br/&gt;&lt;span id='paper-notes' style='color:red; font-weight:bold' &gt;" 
     suffix="&lt;/span&gt;"/> 
   </macro>
 

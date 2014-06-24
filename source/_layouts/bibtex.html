@@ -11,21 +11,30 @@ sidebar: false
     <header>
     <strong>
         {% if site.titlecase and page.titlecase != false %}
-            {{ page.entry.title | titlecase }}.
+            "{{ page.entry.title | titlecase }}"
         {% else %}
-            {{ page.entry.title }}.
+            "{{ page.entry.title }}"
         {% endif %} 
     </strong>
+    <div>
+      {{ page.entry.author }}
+    <div>    
     <div> 
      {% if page.entry.booktitle == empty or page.entry.booktitle == nil %}
         {% else %}
-         In <em>{{ page.entry.booktitle }}</em>
+         In <em>{{ page.entry.booktitle }}</em>,
         {% endif %}
      {% if page.entry.journal == empty or page.entry.journal == nil %}
         {% else %}
-         <em>{{ page.entry.journal }}</em>
+         <em>{{ page.entry.journal }}</em>,
         {% endif %}   
+        {{ page.entry.year }}
     </div> 
+      {% if page.entry.url == empty or page.entry.url == nil %}
+        {% else %}
+        <div style='color:red; font-weight:bold'>{{ page.entry.award }}</div>
+        {% endif %}
+   
     <span>   
         {% if page.entry.url == empty or page.entry.url == nil %}
         {% else %}
