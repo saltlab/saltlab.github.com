@@ -9,7 +9,7 @@ categories: awards
 
 ACM SIGSOFT Distinguished Paper Award for our ICSE'14 [paper](http://salt.ece.ubc.ca/publications/saba_clematis.html) on understanding JavaScript event-based interactions. 
 
-![ICSE 2014 Award](/images/icse14award.png "Awards Ceremony at ICSE 2014")
+![ICSE 2014 Award](/images/icse14award3.JPG "Awards Ceremony at ICSE 2014")
 
 {% blockquote %} 
 Web applications have become one of the fastest growing types of software system today. Despite their popularity, understanding the behaviour of modern web applications is still challenging for developers during development and maintenance tasks. The challenges mainly stem from the dynamic, event-driven, and asynchronous nature of the JavaScript language.
