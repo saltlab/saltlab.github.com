@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-07-01T10:01:21-07:00</updated>
+  <updated>2014-07-01T10:18:44-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2 X ASE 2014, 1 X FSE 2014]]></title>
+    <link href="http://saltlab.github.io/blog/2014/07/01/1-x-fse-2014-2-x-ase-2014/"/>
+    <updated>2014-07-01T10:09:08-07:00</updated>
+    <id>http://saltlab.github.io/blog/2014/07/01/1-x-fse-2014-2-x-ase-2014</id>
+    <content type="html"><![CDATA[<p>We have two full papers accepted at <a href="http://ase2014.org">ASE 2014</a>:</p>
+
+<ul>
+<li><a href="/publications/amin_ase14.html"><strong>Leveraging existing tests in automated test generation for web applications</strong></a></li>
+<li><a href="/publications/kartik_ase14.html"><strong>Dompletion: DOM-Aware JavaScript Code Completion</strong></a></li>
+</ul>
+
+
+<p>And one full paper accepted at <a href="http://fse22.gatech.edu">FSE 2014</a>:</p>
+
+<ul>
+<li><a href="/publications/css_refactoring.html"><strong>Discovering Refactoring Opportunities in Cascading Style Sheets</strong></a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Paper at ISSTA 2014]]></title>
@@ -58,15 +80,6 @@
 <li><a href="/publications/frolin_vejovis.html"><strong>Vejovis: Suggesting Fixes for JavaScript Faults</strong></a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Feedback-directed Exploration of Web Applications to Derive Test Models (ISSRE'13)]]></title>
-    <link href="http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13/"/>
-    <updated>2013-09-22T12:35:00-07:00</updated>
-    <id>http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13</id>
-    <content type="html"><![CDATA[<p><a href="/publications/amin_issre13.html"><strong>Feedback-directed Exploration of Web Applications to Derive Test Models</strong></a> accepted at ISSRE 2013.</p>
 ]]></content>
   </entry>
   
