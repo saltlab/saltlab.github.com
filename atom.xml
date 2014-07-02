@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-07-01T23:38:44-07:00</updated>
+  <updated>2014-07-01T23:39:55-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>We have two full papers accepted at <a href="http://ase2014.org">ASE 2014</a>:</p>
 
 <ul>
-<li><a href="http://saltlab.github.io/publications/amin_ase14.html"><strong>Leveraging existing tests in automated test generation for web applications</strong></a></li>
+<li><a href="http://saltlab.github.io/publications/amin_ase14.html"><strong>Leveraging Existing Tests in Automated Test Generation for Web Applications</strong></a></li>
 <li><a href="http://saltlab.github.io/publications/kartik_ase14.html"><strong>Dompletion: DOM-Aware JavaScript Code Completion</strong></a></li>
 </ul>
 
