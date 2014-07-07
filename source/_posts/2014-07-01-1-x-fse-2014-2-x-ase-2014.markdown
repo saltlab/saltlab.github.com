@@ -9,7 +9,7 @@ categories: papers
 
 We have two full papers accepted at [ASE 2014](http://ase2014.org):
 
-* [**Leveraging existing tests in automated test generation for web applications**](/publications/amin_ase14.html)
+* [**Leveraging Existing Tests in Automated Test Generation for Web Applications**](/publications/amin_ase14.html)
 * [**Dompletion: DOM-Aware JavaScript Code Completion**](/publications/kartik_ase14.html)
 
 

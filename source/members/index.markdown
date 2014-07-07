@@ -7,7 +7,7 @@ sharing: false
 footer: false
 ---
 
-<img src="/members/group-photo.png" border="0"/>
+<img src="/members/group-photo-2014.jpg" border="0" title="SALT Lab Group Photo, 2014" alt="SALT Lab Group Photo, 2014"/>
 
 <strong>Faculty</strong>
 
