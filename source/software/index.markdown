@@ -39,6 +39,12 @@ Most of the software tools resulting from our research projects are open-sourced
 		<a href="/software/clematis/">Clematis</a>: Understanding JavaScript Event-based Interactions</li>	 
 	
 	<li>
-		<a href="/software/domcovery/">Domcovery</a>: Measuring DOM coverarage</li>
+		<a href="/software/domcovery/">DOMCovery</a>: Measuring DOM coverarage</li>
+
+	<li><a href="https://github.com/saltlab/dompletion/">DOMPletion</a>: DOM-Aware JavaScript Code Completion</li>
+	
+	<li><a href="https://github.com/saltlab/Testilizer/">Testilizer</a>: reuses and extends Selenium test suites</li>
+
+	
 </ul>
 </p>

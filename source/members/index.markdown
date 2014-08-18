@@ -51,6 +51,7 @@ footer: false
 
 <strong>Visitors/Interns</strong>
 <ul>
+	<li>Gregory Zhang (2014)</li>
 	<li>Erin Bush, NSERC USRA (2014)</li>
 	<li>Aakanksha Saha, Mitacs Global Link (2014)</li>
 	<li>Joseph Hejderup, TU Delft (2014)</li>

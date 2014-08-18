@@ -7,12 +7,9 @@ sharing: false
 footer: false
 ---
 
-<p>
-	SALT lab is always interested in motivated, bright students to work with on a variety of software engineering projects.</p>
+
 <h3>
 	Graduate Students</h3>
-<p>
-	Visit <a href="http://www.ece.ubc.ca/admissions/graduate">this page</a> for general information about admission requirements and deadlines.</p>
 <p>
 	We currently have a number of exciting projects for graduate students with strong academic background and experience in software engineering, software testing, web engineering, and related areas of research. Interested candidates may contact <a href="http://www.ece.ubc.ca/~amesbah/">me</a> provided they meet the following criteria:</p>
 <ul>
@@ -23,13 +20,23 @@ footer: false
 	<li>
 		PhD applicants: Published or submitted ACM/IEEE conference/journal papers from your Master&#39;s work. Having publications will strengthen your case.</li>
 </ul>
+
+<p> 
+	Visit <a href="http://www.ece.ubc.ca/admissions/graduate">this page</a> for general information about admission requirements and deadlines.</p>
+
+
 <h3>
-	Undergraduate Students</h3>
+	Undergraduate Students</h3> 
 <ul>
 	<li>
-		We have a number of exciting <strong>496</strong> projects. See the list <a href="/prospectivestudents/496.html">here</a>.</li>
+		Each year, we have a number of <a href="http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp" target="_blank">USRA</a> (Undergraduate Student Research Awards) interns in the SALT lab. If you are interested, send <a href="http://www.ece.ubc.ca/~amesbah/">me</a> an email before the <a href="http://www.ece.ubc.ca/academic-programs/undergraduate/nserc-usra-information">departmental deadline</a>.
+	</li> 
 	<li>
-		International undergraduate students should consider the MITACS <a href="http://www.mitacs.ca/globalink">Global Link</a> projects. These are fully funded summer research projects. We are offering a number of research projects there for top international students.</li>
+		We also have a number of exciting EECE 496 thesis projects for strong undergrad students. 
+	</li>
+	<li>
+		International undergraduate students should consider the MITACS <a href="http://www.mitacs.ca/globalink">Global Link</a> projects. These are fully funded summer research projects. We are offering a number of research projects there for top international students.
+	</li>
 </ul>
 <p>
 	&nbsp;</p>

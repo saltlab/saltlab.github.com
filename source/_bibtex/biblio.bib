@@ -127,6 +127,7 @@ of Ajax Applications},
   year = 	 {2010},
   publisher = {IEEE Computer Society},
   pages = {128--136},
+  url = {http://salt.ece.ubc.ca/publications/docs/icst10.pdf},
 }
 
 @ARTICLE{mesbah:tse12,
@@ -412,7 +413,8 @@ breadth-first, and random exploration.}
     booktitle = {Proceedings of the International Symposium on Software Testing and Analysis (ISSTA)},
     publisher = {ACM},
     pages = {71--81},
-            url = {http://salt.ece.ubc.ca/publications/docs/issta14.pdf},
+    url = {http://salt.ece.ubc.ca/publications/docs/issta14.pdf},
+    slides = {http://salt.ece.ubc.ca/slides/issta14.pdf},	    
     year = {2014},
     abstract = {To assess the quality of web application test cases, web developers currently measure code coverage. Although code coverage has traditionally been a popular test adequacy criterion, we believe it alone is not adequate for assessing the quality of web application test cases. We propose a set of novel DOM-based test adequacy criteria for web applications. These criteria aim at measuring coverage at two granularity levels, (1) the percentage of DOM states and transitions covered in the total state space of the web application under test, and (2) the percentage of elements covered in each particular DOM state. We present a technique and tool, called DomCovery, which automatically extracts and measures the proposed adequacy criteria and generates a visual DOM coverage report. Our evaluation shows that there is no correlation between code coverage and DOM coverage. A controlled experiment illustrates that participants using DOMCovery completed coverage related tasks 22 percent more accurately and 66 percent faster.}
 }
@@ -420,10 +422,12 @@ breadth-first, and random exploration.}
 @inproceedings{css:refactoring,
 	author = {Davood Mazinanian and Nikolaos Tsantalis and Ali Mesbah},
 	title = {Discovering Refactoring Opportunities in Cascading Style Sheets},
-        booktitle = {Proceedings of the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)},
-        publisher = {ACM},
-        pages = {11 pages},
-        year = {2014},
+    booktitle = {Proceedings of the ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE)},
+    publisher = {ACM},
+    pages = {11 pages},
+    year = {2014},
+    url = {http://salt.ece.ubc.ca/publications/docs/fse14.pdf},
+    abstract = {Cascading Style Sheets (CSS) is a language used for describing the look and formatting of HTML documents. CSS has been widely adopted in web and mobile development practice, since it enables a clean separation of content from presentation. The language exhibits complex features, such as inheritance, cascading and specificity, which make CSS code hard to maintain. Therefore, it is important to find ways to improve the maintainability of CSS code. In this paper, we propose an automated approach to remove duplication in CSS code. More specifically, we have developed a technique that detects three types of CSS declaration duplication and recommends refactoring opportunities to eliminate those duplications. Our approach uses preconditions that ensure the application of a refactoring will preserve the original document styling. We evaluate our technique on 38 real-world web systems and 91 CSS files, in total. Our findings show that duplication in CSS code is widely prevalent. Additionally, there is a significant number of presentation-preserving refactoring opportunities that can reduce the size of the CSS files and increase the maintainability of the code.}
 }
 
 @inproceedings{kartik:ase14,
@@ -433,6 +437,10 @@ breadth-first, and random exploration.}
         publisher = {ACM},
         pages = {11 pages},
         year = {2014},
+        url = {http://salt.ece.ubc.ca/publications/docs/dompletion-ase14.pdf},
+        report = {http://salt.ece.ubc.ca/publications/docs/UBC-SALT-2014-002.pdf},
+        abstract = {JavaScript is a scripting language that plays a prominent role in modern web applications. It is dynamic in nature and interacts heavily with the Document Object Model (DOM) at runtime. These characteristics make providing code completion support to JavaScript programmers particularly challenging. We propose an automated technique that reasons about existing DOM structures, dynamically analyzes the JavaScript code, and provides code completion suggestions for JavaScript code that interacts with the DOM through its APIs. Our automated code completion scheme is implemented in an open source tool called DOMPLETION. The results of our empirical evaluation indicate that (1) DOM structures exhibit patterns, which can be extracted and reasoned about in the context of code completion suggestions; (2) DOMPLETION can provide code completion suggestions with a recall of 89 precent, precision of 90 precent, and an average time of 2.8 seconds.}
+
 }
 
 @inproceedings{amin:ase14,
@@ -442,4 +450,6 @@ breadth-first, and random exploration.}
         publisher = {ACM},
         pages = {12 pages},
         year = {2014},   
+        url = {http://salt.ece.ubc.ca/publications/docs/testilizer-ase14.pdf},
+        abstract = {To test web applications, developers currently write test cases in frameworks such as Selenium. On the other hand, most web test generation techniques rely on a crawler to explore the dynamic states of the application. The first approach requires much manual effort, but benefits from the domain knowledge of the developer writing the test cases. The second one is automated and systematic, but lacks the domain knowledge required to be as effective. We believe combining the two can be advantageous. In this paper, we propose to (1) mine the human knowledge present in the form of input values, event sequences, and assertions, in the human-written test suites, (2) combine that inferred knowledge with the power of automated crawling, and (3) extend the test suite for uncovered/unchecked portions of the web application under test. Our approach is implemented in a tool called Testilizer. An evaluation of our approach indicates that Testilizer (1) outperforms a random test generator, and (2) on average, can generate test suites with improvements of up to 150 percent in fault detection rate and up to 30 precent in code coverage, compared to the original test suite.}
 }
