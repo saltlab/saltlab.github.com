@@ -38,18 +38,14 @@ footer: false
 
 <strong>MASc Students</strong></p>
 <ul>
-	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (Jan 2014)</li>
+	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (Jan 2014, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
 	<li>Kartik Bajaj (Jan 2013)</li>
 	<li>Golnaz Gharachorlu (Sep 2012)</li>
     <li>Sheldon Sequeira (Sep 2012)</li> 
 </ul>
+ 
 
-<strong>MEng Students</strong>
-<ul>
-	<li>Andy Hu (Sep 2011)</li>
-</ul>
-
-<strong>Visitors/Interns</strong>
+<strong>Interns/Visitors</strong>
 <ul>
 	<li>Gregory Zhang (2014)</li>
 	<li>Erin Bush, NSERC USRA (2014)</li>
