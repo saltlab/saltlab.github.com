@@ -18,14 +18,6 @@ footer: false
 </ul>
 
 
-<strong>Post-Doctoral Fellows</strong>
-
-<ul>
-	<li><a href="
-	http://www.ece.ubc.ca/~mehdi/">Mehdi Mirzaaghaei</a></li>
-</ul>
-
-
 <strong>PhD Students</strong>
 
 <ul>
@@ -38,8 +30,11 @@ footer: false
 
 <strong>MASc Students</strong></p>
 <ul>
+	<li>Yucheng Zhang (Sep 2014)</li>
+	<li>Mohamed Ali (Sep 2014)</li>
+	<li>Arash Vahabzadeh (Sep 2014)</li>
 	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (Jan 2014, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
-	<li>Kartik Bajaj (Jan 2013)</li>
+	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (Jan 2013)</li>
 	<li>Golnaz Gharachorlu (Sep 2012)</li>
     <li>Sheldon Sequeira (Sep 2012)</li> 
 </ul>
@@ -57,6 +52,8 @@ footer: false
 
 <strong>Alumni</strong>
 <ul>
+	<li><a href="
+	http://www.ece.ubc.ca/~mehdi/">Mehdi Mirzaaghaei</a> (post-doc 2014, now at Amazon)</li>
 	<li>Charanpreet Toor (MEng 2014)</li>
 	<li>Alireza Zarei (<a href="https://circle.ubc.ca/bitstream/handle/2429/46072/ubc_2014_spring_zarei_alireza.pdf?sequence=1">MASc 2014</a>)</li>
 	<li>Zahra Behfarshad (<a href="http://circle.ubc.ca/bitstream/handle/2429/46671/ubc_2014_september_behfarshad_zahra.pdf?sequence=4">MASc 2013</a>)</li>
