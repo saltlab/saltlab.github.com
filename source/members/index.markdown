@@ -51,7 +51,7 @@ footer: false
 
 <strong>Alumni</strong>
 <ul>
-	<li>Sheldon Sequeira (MASc 2014)</li> 
+	<li>Sheldon Sequeira (<a href="http://circle.ubc.ca/bitstream/handle/2429/50814/ubc_2014_november_sequeira_sheldon.pdf?sequence=7">MASc 2014</a>)</li> 
 	<li><a href="
 	http://www.ece.ubc.ca/~mehdi/">Mehdi Mirzaaghaei</a> (post-doc 2014, now at Amazon)</li>
 	<li>Charanpreet Toor (MEng 2014)</li>

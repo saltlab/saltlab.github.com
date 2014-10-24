@@ -1,19 +1,19 @@
 ---
 layout: page
-title: "Pythia"
-date: 2013-05-19 12:36
+title: "JSeft"
+date: 2014-10-19 12:36
 comments: false
 sharing: false
 footer: false
 ---
 
 <h4>
-Pythia: Generating Test Cases with Strong Oracles for JavaScript Applications
+JSeft: JavaScript Event and Function Testing
 </h4>
 
 <p>
   
-  * Implementation of Pythia on <a href="https://github.com/saltlab/Pythia">GitHub</a>.
+  * Implementation of JSeft on <a href="https://github.com/saltlab/jseft">GitHub</a>.
   * The experimental data is available for <a href="http://www.ece.ubc.ca/~shabnamm/data/pythiaData.zip">download</a> (zip).
   
 <p> 
