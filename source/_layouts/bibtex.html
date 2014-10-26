@@ -46,17 +46,23 @@ sidebar: false
         [<a href="{{page.entry.report}}">Technical Report</a>]
         {% endif %}
 
-        {% if page.entry.slides == empty or page.entry.slides == nil %}
-        {% else %}
-        [<a href="{{page.entry.slides}}">Slides</a>]
-        {% endif %}
-
         {% if page.entry.tool == empty or page.entry.tool == nil %}
         {% else %}
         [<a href="{{page.entry.tool}}">Tool</a>]
         {% endif %}
+
+        {% if page.entry.slides == empty or page.entry.slides == nil %}
+        {% else %}
+        [<a href="http://www.slideshare.net/slideshow/embed_code/{{page.entry.slides}}">Slides</a>]
+        {% endif %}
     </span>
 </header>
+
+        {% if page.entry.slides == empty or page.entry.slides == nil %}
+        {% else %}
+        <div><iframe src="//www.slideshare.net/slideshow/embed_code/{{page.entry.slides}}" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></div>
+        {% endif %}
+
    
    {% if page.entry.citeproc %} 
     <h3>Citation</h3>

@@ -191,6 +191,7 @@ of Ajax Applications},
   pages = {408--418},
 	publisher = {IEEE Computer Society},
 	url = {http://www.ece.ubc.ca/~amesbah/docs/icse12.pdf},
+	slides = {40727471},
 	abstract = {CSS is a widely used language for describing the presentation semantics of HTML elements on the web. The language has a number of characteristics, such as inheritance and cascading order, which makes maintaining CSS code a challenging task for web developers. As a result, it is common for unused rules to be accumulated over time. Despite these challenges, CSS analysis has not received much attention from the research community. We propose an automated technique to support styling code maintenance, which (1) analyzes the
 runtime relationship between the CSS rules and DOM elements of a given web application (2) detects unmatched and ineffective selectors, overridden declaration properties, and unde?ned
 class values. Our technique, implemented in an open source tool called CILLA, has a high precision and recall rate. The results of our case study, conducted on fifteen open source and
@@ -240,8 +241,8 @@ industrial web-based systems, show an average of 60 precent unused CSS selectors
 	year = {2013},
 	pages = {74--83},
 	url = {http://ece.ubc.ca/~amesbah/docs/icst13.pdf},
-       note = {[Acceptance rate 25%]},
-       award = {[Best Paper Runner-up Award]}
+    slides = {40727518},   
+    award = {[Best Paper Runner-up Award]}
 }
 
 @inproceedings{jana:icwe13,
@@ -254,6 +255,7 @@ industrial web-based systems, show an average of 60 precent unused CSS selectors
   publisher = {Springer},
   pages     = {52--67},
   url = {http://www.ece.ubc.ca/~amesbah/docs/icwe13.pdf},
+  slides = {40727637},
   award = {[Best Paper Award]},
   abstract = {Client-side JavaScript is increasingly used for enhancing web application functionality, interactivity, and responsiveness. Through the execution of JavaScript code in browsers, the DOM tree representing a webpage at runtime, can be incrementally updated without requiring a URL change. This dynamically updated content is hidden from general search engines. In this paper, we present the first empirical study on measuring and characterizing the hidden-web induced as a result of client-side JavaScript execution. Our study reveals that this type of hidden-web content is prevalent in online web applications today: from the 500 websites we analyzed, 95\% contain client-side hidden-web content; On those websites that contain client-side hidden-web content, (1) on average, 62\% of the web states are hidden, (2) per hidden state, there is an average of 19 kilobytes of data that is hidden from which 0.6 kilobytes contain textual content, (3) the DIV element is the most common clickable element used (61\%) to initiate this type of hidden-web state transition, and (4) on average 25 minutes is required to dynamically crawl 50 DOM states. Further, our study indicates that there is a correlation between DOM tree size and hidden-web content, but no correlation exists between the amount of JavaScript code and client-side hidden-web.}
 }
@@ -353,7 +355,7 @@ breadth-first, and random exploration.}
         pages = {112--121},
         year = {2014},
     	url = {http://salt.ece.ubc.ca/publications/docs/kartik-msr14.pdf},
-    	slides = {http://salt.ece.ubc.ca/slides/msr14-so.pdf},	
+    	slides = {40727407},	
     abstract = {Modern web applications consist of a significant amount of client-side code, written in JavaScript, HTML, and CSS. In this paper, we present a study of common challenges and misconceptions among web developers, by mining related questions asked on Stack Overflow. We use unsupervised learning to categorize the mined questions and define a ranking algorithm to rank all the Stack Overflow questions based on their importance. We analyze the top 50 questions qualitatively. The results indicate that (1) the overall share of web development related discussions is increasing among developers, (2) browser related discussions are prevalent; however, this share is decreasing with time, (3) form validation and other DOM related discussions have been discussed consistently over time, (4) web related discussions are becoming more prevalent in mobile development, and (5) developers face implementation issues with new HTML5 features such as Canvas. We examine the implications of the results on the development, research, and standardization communities.}        
 }
 
@@ -365,7 +367,7 @@ breadth-first, and random exploration.}
 	pages = {62--71},
     year = {2014},
     url = {http://salt.ece.ubc.ca/publications/docs/mona-msr14.pdf},    
-    slides = {http://salt.ece.ubc.ca/slides/msr14-nr.pdf},
+    slides = {40727387},
     abstract = {Bug repository systems have become an integral component of software development activities. Ideally, each bug report should help developers to find and fix a software fault. However, there is a subset of reported bugs that is not (easily) reproducible, on which developers spend considerable amounts of time and effort. We present an empirical analysis of non- reproducible bug reports to characterize their rate, nature, and root causes. We mine one industrial and five open-source bug repositories, resulting in 32K non-reproducible bug reports. We (1) compare properties of non-reproducible reports with their counterparts such as active time and number of authors, (2) investigate their life-cycle patterns, and (3) examine 120 Fixed non-reproducible reports. In addition, we qualitatively classify a set of randomly selected non-reproducible bug reports (1,643) into six common categories. Our results show that, on average, non-reproducible bug reports pertain to 17\% of all bug reports, remain active three months longer than their counterparts, can be mainly (45\%) classified as "Interbug Dependencies", and 66\% of Fixed non-reproducible reports were indeed reproduced and fixed.}
 }
 
@@ -377,7 +379,7 @@ breadth-first, and random exploration.}
         pages = {4--13},
         year = {2014},
         url = {http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf},
-       slides = {http://salt.ece.ubc.ca/slides/icse14-seip.pdf},
+       slides = {35488525},
         abstract = {Today's web applications increasingly rely on client-side code execution. HTML is not just created on the server, but manipulated extensively within the browser through JavaScript code. In this paper, we seek to understand the software engineering implications of this. We look at deviations from many known best practices in such areas of performance, accessibility, and correct structuring of HTML documents. Furthermore, we assess to what extent such deviations manifest themselves through client-side code manipulation only. To answer these questions, we conducted a large scale experiment, involving automated client-enabled crawling of over 4000 web applications, resulting in over 100,000,000 pages analyzed, and close to 1,000,000 unique client-side user interface states. Our findings show that the majority of sites contain a substantial number of problems, making sites unnecessarily slow, inaccessible for the visually impaired, and with layout that is unpredictable due to errors in the dynamically modified DOM trees.}
 }
 
@@ -389,7 +391,7 @@ breadth-first, and random exploration.}
         pages = {837--847},
         year = {2014},
         url = {http://salt.ece.ubc.ca/publications/docs/vejovis-icse14.pdf},
-    	slides = {http://salt.ece.ubc.ca/slides/icse14-vejovis.pdf},
+    	slides = {40727306},
         abstract = {JavaScript is used in web applications for achieving rich user interfaces and implementing core functionality. Unfortunately, JavaScript code is known to be prone to faults. In an earlier study, we found that over 65\% of such faults are caused by the interaction of JavaScript code with the DOM at runtime (DOM-related faults). In this paper, we first perform an analysis of 190 bug reports to understand fixes commonly applied by programmers to these DOM- related faults; we observe that parameter replacements and DOM element validations are common fix categories. Based on these findings, we propose an automated technique and tool, called Vejovis, for suggesting repairs for DOM-based JavaScript faults. To evaluate Vejovis, we conduct a case study in which we subject Vejovis to 22 real-world bugs across 11 applications. We find that Vejovis accurately suggests repairs for 20 out of the 22 bugs, and in 13 of the 20 cases, the correct fix was the top ranked one.}
 }
 
@@ -402,7 +404,7 @@ breadth-first, and random exploration.}
         url = {http://salt.ece.ubc.ca/publications/docs/clematis-icse14.pdf},
         report = {http://salt.ece.ubc.ca/publications/docs/UBC-SALT-2014-001.pdf},
         year = {2014},
-        slides = {http://salt.ece.ubc.ca/slides/icse14-clematis.pdf},
+        slides = {40727246},
         tool = {https://github.com/saltlab/clematis},
         award= {[ACM SIGSOFT Distinguished Paper Award]},
         abstract = {Web applications have become one of the fastest growing types of software systems today. Despite their popularity, understanding the behaviour of modern web applications is still a challenging endeavour for developers during development and maintenance tasks. The challenges mainly stem from the dynamic, event-driven, and asynchronous nature of the JavaScript language. We propose a generic technique for capturing low-level event-based interactions in a web application and mapping those to a higher-level behavioural model. This model is then transformed into an interactive visualization, representing episodes of triggered causal and temporal events, related JavaScript code executions, and their impact on the dynamic DOM state. Our approach, implemented in a tool called Clematis, allows developers to easily understand the complex dynamic behaviour of their application at three different semantic levels of granularity. The results of our industrial controlled experiment show that Clematis is capable of improving the task accuracy by 61\%, while reducing the task completion time by 47\%.}
@@ -415,7 +417,7 @@ breadth-first, and random exploration.}
     publisher = {ACM},
     pages = {71--81},
     url = {http://salt.ece.ubc.ca/publications/docs/issta14.pdf},
-    slides = {http://salt.ece.ubc.ca/slides/issta14.pdf},	    
+    slides = {40727046},
     year = {2014},
     abstract = {To assess the quality of web application test cases, web developers currently measure code coverage. Although code coverage has traditionally been a popular test adequacy criterion, we believe it alone is not adequate for assessing the quality of web application test cases. We propose a set of novel DOM-based test adequacy criteria for web applications. These criteria aim at measuring coverage at two granularity levels, (1) the percentage of DOM states and transitions covered in the total state space of the web application under test, and (2) the percentage of elements covered in each particular DOM state. We present a technique and tool, called DomCovery, which automatically extracts and measures the proposed adequacy criteria and generates a visual DOM coverage report. Our evaluation shows that there is no correlation between code coverage and DOM coverage. A controlled experiment illustrates that participants using DOMCovery completed coverage related tasks 22 percent more accurately and 66 percent faster.}
 }
@@ -440,7 +442,7 @@ breadth-first, and random exploration.}
         year = {2014},
         url = {http://salt.ece.ubc.ca/publications/docs/dompletion-ase14.pdf},
         report = {http://salt.ece.ubc.ca/publications/docs/UBC-SALT-2014-002.pdf},
-        slides = {http://www.slideshare.net/saltlab/dompletion-domaware-javascript-code-completion},
+        slides = {39264734},
         abstract = {JavaScript is a scripting language that plays a prominent role in modern web applications. It is dynamic in nature and interacts heavily with the Document Object Model (DOM) at runtime. These characteristics make providing code completion support to JavaScript programmers particularly challenging. We propose an automated technique that reasons about existing DOM structures, dynamically analyzes the JavaScript code, and provides code completion suggestions for JavaScript code that interacts with the DOM through its APIs. Our automated code completion scheme is implemented in an open source tool called Dompletion. The results of our empirical evaluation indicate that (1) DOM structures exhibit patterns, which can be extracted and reasoned about in the context of code completion suggestions; (2) Dompletion can provide code completion suggestions with a recall of 89 precent, precision of 90 precent, and an average time of 2.8 seconds.}
 
 }
@@ -453,7 +455,7 @@ breadth-first, and random exploration.}
         pages = {67--78},
         year = {2014},   
         url = {http://salt.ece.ubc.ca/publications/docs/testilizer-ase14.pdf},
-        slides = {http://www.slideshare.net/saltlab/testilizer-slides-ppt},	    
+        slides = {39262904},
         abstract = {To test web applications, developers currently write test cases in frameworks such as Selenium. On the other hand, most web test generation techniques rely on a crawler to explore the dynamic states of the application. The first approach requires much manual effort, but benefits from the domain knowledge of the developer writing the test cases. The second one is automated and systematic, but lacks the domain knowledge required to be as effective. We believe combining the two can be advantageous. In this paper, we propose to (1) mine the human knowledge present in the form of input values, event sequences, and assertions, in the human-written test suites, (2) combine that inferred knowledge with the power of automated crawling, and (3) extend the test suite for uncovered/unchecked portions of the web application under test. Our approach is implemented in a tool called Testilizer. An evaluation of our approach indicates that Testilizer (1) outperforms a random test generator, and (2) on average, can generate test suites with improvements of up to 150 percent in fault detection rate and up to 30 precent in code coverage, compared to the original test suite.}
 }
 
