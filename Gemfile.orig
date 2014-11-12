@@ -1,0 +1,27 @@
+source "http://rubygems.org"
+
+group :development do
+  gem 'rake', '~> 10.0'
+  gem 'jekyll', '~> 2.0'
+  gem 'octopress-hooks', '~> 2.2'
+  gem 'octopress-date-format', '~> 2.0'
+  gem 'jekyll-sitemap'
+  gem 'rdiscount', '~> 2.0'
+  gem 'RedCloth', '~> 4.2.9'
+  gem 'haml', '~> 4.0'
+  gem 'compass', '~> 0.12.2'
+  gem 'sass-globbing', '~> 1.0.0'
+  gem 'rubypants', '~> 0.2.0'
+  gem 'rb-fsevent', '~> 0.9'
+  gem 'stringex', '~> 1.4.0'
+<<<<<<< HEAD
+  gem 'liquid', '~> 2.3.0'
+  gem 'directory_watcher', '1.4.1'
+  gem 'bibtex-ruby', '~> 2.0.5'
+  gem 'citeproc-ruby', '~> 0.0.6'
+=======
+>>>>>>> c6c5b74f4d5dc4cc0a34e97c918e0b1a59954a16
+end
+
+gem 'sinatra', '~> 1.4.2'
+gem 'jekyll-scholar'

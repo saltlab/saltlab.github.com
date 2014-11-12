@@ -374,25 +374,25 @@ breadth-first, and random exploration.}
 @inproceedings{icse14seip,
 	author = {Alex Nederlof and Ali Mesbah and van Deursen, Arie},
 	title = {Software Engineering for the Web: The State of the Practice},
-    booktitle = {Proceedings of the ACM/IEEE International Conference on Software Engineering, Software Engineering In Practice (ICSE SEIP)},
-    publisher = {ACM},
-        pages = {4--13},
-        year = {2014},
-        url = {http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf},
-       slides = {35488525},
-        abstract = {Today's web applications increasingly rely on client-side code execution. HTML is not just created on the server, but manipulated extensively within the browser through JavaScript code. In this paper, we seek to understand the software engineering implications of this. We look at deviations from many known best practices in such areas of performance, accessibility, and correct structuring of HTML documents. Furthermore, we assess to what extent such deviations manifest themselves through client-side code manipulation only. To answer these questions, we conducted a large scale experiment, involving automated client-enabled crawling of over 4000 web applications, resulting in over 100,000,000 pages analyzed, and close to 1,000,000 unique client-side user interface states. Our findings show that the majority of sites contain a substantial number of problems, making sites unnecessarily slow, inaccessible for the visually impaired, and with layout that is unpredictable due to errors in the dynamically modified DOM trees.}
+  booktitle = {Proceedings of the ACM/IEEE International Conference on Software Engineering, Software Engineering In Practice (ICSE SEIP)},
+  publisher = {ACM},
+  pages = {4--13},
+  year = {2014},
+  url = {http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf},
+  slides = {35488525},
+  abstract = {Today's web applications increasingly rely on client-side code execution. HTML is not just created on the server, but manipulated extensively within the browser through JavaScript code. In this paper, we seek to understand the software engineering implications of this. We look at deviations from many known best practices in such areas of performance, accessibility, and correct structuring of HTML documents. Furthermore, we assess to what extent such deviations manifest themselves through client-side code manipulation only. To answer these questions, we conducted a large scale experiment, involving automated client-enabled crawling of over 4000 web applications, resulting in over 100,000,000 pages analyzed, and close to 1,000,000 unique client-side user interface states. Our findings show that the majority of sites contain a substantial number of problems, making sites unnecessarily slow, inaccessible for the visually impaired, and with layout that is unpredictable due to errors in the dynamically modified DOM trees.}
 }
 
 @inproceedings{frolin:vejovis,
-        author = {Frolin Ocariza and Karthik Pattabiraman and Ali Mesbah},
-        title = {Vejovis: Suggesting Fixes for JavaScript Faults},
-        booktitle = {Proceedings of the ACM/IEEE International Conference on Software Engineering (ICSE)},
-        publisher = {ACM},
-        pages = {837--847},
-        year = {2014},
-        url = {http://salt.ece.ubc.ca/publications/docs/vejovis-icse14.pdf},
-    	slides = {40727306},
-        abstract = {JavaScript is used in web applications for achieving rich user interfaces and implementing core functionality. Unfortunately, JavaScript code is known to be prone to faults. In an earlier study, we found that over 65\% of such faults are caused by the interaction of JavaScript code with the DOM at runtime (DOM-related faults). In this paper, we first perform an analysis of 190 bug reports to understand fixes commonly applied by programmers to these DOM- related faults; we observe that parameter replacements and DOM element validations are common fix categories. Based on these findings, we propose an automated technique and tool, called Vejovis, for suggesting repairs for DOM-based JavaScript faults. To evaluate Vejovis, we conduct a case study in which we subject Vejovis to 22 real-world bugs across 11 applications. We find that Vejovis accurately suggests repairs for 20 out of the 22 bugs, and in 13 of the 20 cases, the correct fix was the top ranked one.}
+    author = {Frolin Ocariza and Karthik Pattabiraman and Ali Mesbah},
+    title = {Vejovis: Suggesting Fixes for JavaScript Faults},
+    booktitle = {Proceedings of the ACM/IEEE International Conference on Software Engineering (ICSE)},
+    publisher = {ACM},
+    pages = {837--847},
+    year = {2014},
+    url = {http://salt.ece.ubc.ca/publications/docs/vejovis-icse14.pdf},
+	slides = {40727306},
+    abstract = {JavaScript is used in web applications for achieving rich user interfaces and implementing core functionality. Unfortunately, JavaScript code is known to be prone to faults. In an earlier study, we found that over 65\% of such faults are caused by the interaction of JavaScript code with the DOM at runtime (DOM-related faults). In this paper, we first perform an analysis of 190 bug reports to understand fixes commonly applied by programmers to these DOM- related faults; we observe that parameter replacements and DOM element validations are common fix categories. Based on these findings, we propose an automated technique and tool, called Vejovis, for suggesting repairs for DOM-based JavaScript faults. To evaluate Vejovis, we conduct a case study in which we subject Vejovis to 22 real-world bugs across 11 applications. We find that Vejovis accurately suggests repairs for 20 out of the 22 bugs, and in 13 of the 20 cases, the correct fix was the top ranked one.}
 }
 
 @inproceedings{saba:clematis,
@@ -460,23 +460,22 @@ breadth-first, and random exploration.}
 }
 
 @article{vanDeursen2014,
-title = {Crawl-based analysis of web applications: Prospects and challenges},
-journal = {Science of Computer Programming},
-volume = {},
-number = {},
-pages = {},
-year = {2014},
-doi = {http://dx.doi.org/10.1016/j.scico.2014.09.005},
-url = {http://www.sciencedirect.com/science/article/pii/S0167642314003815},
-author = {van Deursen, Arie and Ali Mesbah and Alex Nederlof},
-abstract = {In this paper we review five years of research in the field of automated crawling and testing of web applications. We describe the open source Crawljax tool, and the various extensions that have been proposed in order to address such issues as cross-browser compatibility testing, web application regression testing, and style sheet usage analysis. Based on that we identify the main challenges and future directions of crawl-based testing of web applications. In particular, we explore ways to reduce the exponential growth of the state space, as well as ways to involve the human tester in the loop, thus reconciling manual exploratory testing and automated test input generation. Finally, we sketch the future of crawl-based testing in the light of upcoming developments, such as the pervasive use of touch devices and mobile computing, and the increasing importance of cyber-security.}
+  title = {Crawl-based analysis of web applications: Prospects and challenges},
+  journal = {Science of Computer Programming},
+  volume = {97, Part 1},
+  pages = {173--180},
+  year = {2015},
+  doi = {http://dx.doi.org/10.1016/j.scico.2014.09.005},
+  url = {http://www.sciencedirect.com/science/article/pii/S0167642314003815},
+  author = {van Deursen, Arie and Ali Mesbah and Alex Nederlof},
+    abstract = {In this paper we review five years of research in the field of automated crawling and testing of web applications. We describe the open source Crawljax tool, and the various extensions that have been proposed in order to address such issues as cross-browser compatibility testing, web application regression testing, and style sheet usage analysis. Based on that we identify the main challenges and future directions of crawl-based testing of web applications. In particular, we explore ways to reduce the exponential growth of the state space, as well as ways to involve the human tester in the loop, thus reconciling manual exploratory testing and automated test input generation. Finally, we sketch the future of crawl-based testing in the light of upcoming developments, such as the pervasive use of touch devices and mobile computing, and the increasing importance of cyber-security.}
 }
 
 @ARTICLE{shabnam:tse13,
   author = {Shabnam Mirshokraie  and Ali Mesbah and Karthik Pattabiraman},
   title = {Guided Mutation Testing for JavaScript Web Applications},
   journal = {IEEE Transactions on Software Engineering (TSE)},
-  year = {2014},
+  year = {2015},
   volume={}, 
   number={}, 
   pages={19 pages},
