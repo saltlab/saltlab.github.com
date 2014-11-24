@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-11-23T13:14:50-08:00</updated>
+  <updated>2014-11-23T23:26:34-08:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -40,7 +40,7 @@
     <link href="http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014/"/>
     <updated>2014-03-30T17:50:06-07:00</updated>
     <id>http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014</id>
-    <content type="html"><![CDATA[<p>Our paper <a href="/publications/domcovery_issta14.html"><strong>DOM-Based Test Adequacy Criteria for Web Applications</strong></a> accepted in the research track of <a href="http://issta2014.org">ISSTA'14</a>.</p>
+    <content type="html"><![CDATA[<p>Our paper <a href="/publications/domcovery_issta14.html"><strong>DOM-Based Test Adequacy Criteria for Web Applications</strong></a> accepted in the research track of <a href="http://issta2014.org">ISSTA&#8217;14</a>.</p>
 ]]></content>
   </entry>
   
@@ -49,7 +49,7 @@
     <link href="http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/"/>
     <updated>2014-03-11T07:43:19-07:00</updated>
     <id>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014</id>
-    <content type="html"><![CDATA[<p>Two papers accepted in the research track of <a href="http://2014.msrconf.org">MSR'14</a>:</p>
+    <content type="html"><![CDATA[<p>Two papers accepted in the research track of <a href="http://2014.msrconf.org">MSR&#8217;14</a>:</p>
 
 <ul>
 <li><a href="/publications/mona_msr14.html"><strong>Works For Me! Characterizing Non-Reproducible Bug Reports</strong></a></li>
@@ -64,7 +64,7 @@
     <link href="http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014/"/>
     <updated>2014-02-18T16:42:59-08:00</updated>
     <id>http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014</id>
-    <content type="html"><![CDATA[<p>The paper <a href="/publications/icse14seip.html"><strong>Software Engineering for the Web: The State of the Practice</strong></a> accepted in the Software Engineering in Practice (SEIP) track of <a href="http://2014.icse-conferences.org">ICSE'14</a>.</p>
+    <content type="html"><![CDATA[<p>The paper <a href="/publications/icse14seip.html"><strong>Software Engineering for the Web: The State of the Practice</strong></a> accepted in the Software Engineering in Practice (SEIP) track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>.</p>
 ]]></content>
   </entry>
   
@@ -73,7 +73,7 @@
     <link href="http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014/"/>
     <updated>2014-01-15T22:32:00-08:00</updated>
     <id>http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014</id>
-    <content type="html"><![CDATA[<p>We have two papers accepted in the research track of <a href="http://2014.icse-conferences.org">ICSE'14</a>:</p>
+    <content type="html"><![CDATA[<p>We have two papers accepted in the research track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>:</p>
 
 <ul>
 <li><a href="/publications/saba_clematis.html"><strong>Understanding JavaScript Event-based Interactions</strong></a></li>

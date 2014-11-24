@@ -24,7 +24,7 @@
   <link href="/atom.xml" rel="alternate" title="SALT Lab" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
@@ -47,10 +47,12 @@
 
 <body   class="no-sidebar"  >
   <header role="banner"><hgroup>
-  <h1><!-- <img width="45px" border="0" style="vertical-align:middle;" src="/images/s4r.png"> -->
-  	<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a><!-- <a href="/">SALT Lab</a> --></h1>
+  <h1>
+    <img  border="0" height="70px" style="vertical-align:middle;align:left" src="/images/ubc-logo-white.png">&nbsp<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a>
+
+  </h1>
   
-    <!-- <h2>Software AnaLysis and Testing (SALT) Lab</h2>  --> 
+    
   
 </hgroup>
 
@@ -75,7 +77,7 @@
   <li><a href="/software">Software</a></li>
   <li><a href="/prospectivestudents">Prospective Students</a></li>
   <li><a href="/sponsors">Sponsors</a></li>
-<!--  <li><a href="/blog/archives">Archives</a></li> -->
+  <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
 </nav>
@@ -89,7 +91,7 @@
     <header>
     <strong>
         
-            "Dompletion: DOM-Aware JavaScript Code Completion"
+            &#8220;Dompletion: DOM-Aware JavaScript Code Completion&#8221;
          
     </strong>
     <div>
@@ -143,21 +145,17 @@
     
     
     <h3>BibTeX</h3>
-	<div>
-  <pre><code class='bash'>@inproceedings{kartik:ase14,
-  author = {Bajaj, Kartik and Pattabiraman, Karthik and Mesbah, Ali},
-  title = {Dompletion: DOM-Aware JavaScript Code Completion},
-  booktitle = {Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE)},
-  publisher = {ACM},
-  pages = {43–54},
-  year = {2014},
-  url = {http://salt.ece.ubc.ca/publications/docs/dompletion-ase14.pdf},
-  report = {http://salt.ece.ubc.ca/publications/docs/UBC-SALT-2014-002.pdf},
-  slides = {39264734},
-  abstract = {JavaScript is a scripting language that plays a prominent role in modern web applications. It is dynamic in nature and interacts heavily with the Document Object Model (DOM) at runtime. These characteristics make providing code completion support to JavaScript programmers particularly challenging. We propose an automated technique that reasons about existing DOM structures, dynamically analyzes the JavaScript code, and provides code completion suggestions for JavaScript code that interacts with the DOM through its APIs. Our automated code completion scheme is implemented in an open source tool called Dompletion. The results of our empirical evaluation indicate that (1) DOM structures exhibit patterns, which can be extracted and reasoned about in the context of code completion suggestions; (2) Dompletion can provide code completion suggestions with a recall of 89 precent, precision of 90 precent, and an average time of 2.8 seconds.}
-}</code></pre>
-</div>
-
+	<div class="highlight"><pre><code class="language-bash" data-lang="bash">@inproceedings<span class="o">{</span>kartik:ase14,
+  <span class="nv">author</span> <span class="o">=</span> <span class="o">{</span>Bajaj, Kartik and Pattabiraman, Karthik and Mesbah, Ali<span class="o">}</span>,
+  <span class="nv">title</span> <span class="o">=</span> <span class="o">{</span>Dompletion: DOM-Aware JavaScript Code Completion<span class="o">}</span>,
+  <span class="nv">booktitle</span> <span class="o">=</span> <span class="o">{</span>Proceedings of the IEEE/ACM International Conference on Automated Software Engineering <span class="o">(</span>ASE<span class="o">)}</span>,
+  <span class="nv">publisher</span> <span class="o">=</span> <span class="o">{</span>ACM<span class="o">}</span>,
+  <span class="nv">pages</span> <span class="o">=</span> <span class="o">{</span>43--54<span class="o">}</span>,
+  <span class="nv">year</span> <span class="o">=</span> <span class="o">{</span>2014<span class="o">}</span>,
+  <span class="nv">url</span> <span class="o">=</span> <span class="o">{</span>http://salt.ece.ubc.ca/publications/docs/dompletion-ase14.pdf<span class="o">}</span>,
+  <span class="nv">report</span> <span class="o">=</span> <span class="o">{</span>http://salt.ece.ubc.ca/publications/docs/UBC-SALT-2014-002.pdf<span class="o">}</span>,
+  <span class="nv">slides</span> <span class="o">=</span> <span class="o">{</span>39264734<span class="o">}</span>
+<span class="o">}</span></code></pre></div>
 
 
     
@@ -193,7 +191,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

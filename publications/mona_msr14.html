@@ -24,7 +24,7 @@
   <link href="/atom.xml" rel="alternate" title="SALT Lab" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
@@ -47,10 +47,12 @@
 
 <body   class="no-sidebar"  >
   <header role="banner"><hgroup>
-  <h1><!-- <img width="45px" border="0" style="vertical-align:middle;" src="/images/s4r.png"> -->
-  	<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a><!-- <a href="/">SALT Lab</a> --></h1>
+  <h1>
+    <img  border="0" height="70px" style="vertical-align:middle;align:left" src="/images/ubc-logo-white.png">&nbsp<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a>
+
+  </h1>
   
-    <!-- <h2>Software AnaLysis and Testing (SALT) Lab</h2>  --> 
+    
   
 </hgroup>
 
@@ -75,7 +77,7 @@
   <li><a href="/software">Software</a></li>
   <li><a href="/prospectivestudents">Prospective Students</a></li>
   <li><a href="/sponsors">Sponsors</a></li>
-<!--  <li><a href="/blog/archives">Archives</a></li> -->
+  <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
 </nav>
@@ -89,7 +91,7 @@
     <header>
     <strong>
         
-            "Works for Me! Characterizing Non-Reproducible Bug Reports"
+            &#8220;Works for Me! Characterizing Non-Reproducible Bug Reports&#8221;
          
     </strong>
     <div>
@@ -138,24 +140,20 @@
    
     <h3>Abstract</h3>
 
-    <p>Bug repository systems have become an integral component of software development activities. Ideally, each bug report should help developers to find and fix a software fault. However, there is a subset of reported bugs that is not (easily) reproducible, on which developers spend considerable amounts of time and effort. We present an empirical analysis of non- reproducible bug reports to characterize their rate, nature, and root causes. We mine one industrial and five open-source bug repositories, resulting in 32K non-reproducible bug reports. We (1) compare properties of non-reproducible reports with their counterparts such as active time and number of authors, (2) investigate their life-cycle patterns, and (3) examine 120 Fixed non-reproducible reports. In addition, we qualitatively classify a set of randomly selected non-reproducible bug reports (1,643) into six common categories. Our results show that, on average, non-reproducible bug reports pertain to 17% of all bug reports, remain active three months longer than their counterparts, can be mainly (45%) classified as "Interbug Dependencies", and 66% of Fixed non-reproducible reports were indeed reproduced and fixed.</p>
+    <p>Bug repository systems have become an integral component of software development activities. Ideally, each bug report should help developers to find and fix a software fault. However, there is a subset of reported bugs that is not (easily) reproducible, on which developers spend considerable amounts of time and effort. We present an empirical analysis of non- reproducible bug reports to characterize their rate, nature, and root causes. We mine one industrial and five open-source bug repositories, resulting in 32K non-reproducible bug reports. We (1) compare properties of non-reproducible reports with their counterparts such as active time and number of authors, (2) investigate their life-cycle patterns, and (3) examine 120 Fixed non-reproducible reports. In addition, we qualitatively classify a set of randomly selected non-reproducible bug reports (1,643) into six common categories. Our results show that, on average, non-reproducible bug reports pertain to 17% of all bug reports, remain active three months longer than their counterparts, can be mainly (45%) classified as &#8220;Interbug Dependencies&#8221;, and 66% of Fixed non-reproducible reports were indeed reproduced and fixed.</p>
     
     
     <h3>BibTeX</h3>
-	<div>
-  <pre><code class='bash'>@inproceedings{mona:msr14,
-  author = {Erfani Joorabchi, Mona and Mirzaaghaei, Mehdi and Mesbah, Ali},
-  title = {Works For Me! Characterizing Non-Reproducible Bug Reports},
-  booktitle = {Proceedings of the Working Conference on Mining Software Repositories (MSR)},
-  publisher = {ACM},
-  pages = {62–71},
-  year = {2014},
-  url = {http://salt.ece.ubc.ca/publications/docs/mona-msr14.pdf},
-  slides = {40727387},
-  abstract = {Bug repository systems have become an integral component of software development activities. Ideally, each bug report should help developers to find and fix a software fault. However, there is a subset of reported bugs that is not (easily) reproducible, on which developers spend considerable amounts of time and effort. We present an empirical analysis of non- reproducible bug reports to characterize their rate, nature, and root causes. We mine one industrial and five open-source bug repositories, resulting in 32K non-reproducible bug reports. We (1) compare properties of non-reproducible reports with their counterparts such as active time and number of authors, (2) investigate their life-cycle patterns, and (3) examine 120 Fixed non-reproducible reports. In addition, we qualitatively classify a set of randomly selected non-reproducible bug reports (1,643) into six common categories. Our results show that, on average, non-reproducible bug reports pertain to 17% of all bug reports, remain active three months longer than their counterparts, can be mainly (45%) classified as &quot;Interbug Dependencies&quot;, and 66% of Fixed non-reproducible reports were indeed reproduced and fixed.}
-}</code></pre>
-</div>
-
+	<div class="highlight"><pre><code class="language-bash" data-lang="bash">@inproceedings<span class="o">{</span>mona:msr14,
+  <span class="nv">author</span> <span class="o">=</span> <span class="o">{</span>Erfani Joorabchi, Mona and Mirzaaghaei, Mehdi and Mesbah, Ali<span class="o">}</span>,
+  <span class="nv">title</span> <span class="o">=</span> <span class="o">{</span>Works For Me! <span class="o">{</span>C<span class="o">}</span>haracterizing Non-Reproducible Bug Reports<span class="o">}</span>,
+  <span class="nv">booktitle</span> <span class="o">=</span> <span class="o">{</span>Proceedings of the Working Conference on Mining Software Repositories <span class="o">(</span>MSR<span class="o">)}</span>,
+  <span class="nv">publisher</span> <span class="o">=</span> <span class="o">{</span>ACM<span class="o">}</span>,
+  <span class="nv">pages</span> <span class="o">=</span> <span class="o">{</span>62--71<span class="o">}</span>,
+  <span class="nv">year</span> <span class="o">=</span> <span class="o">{</span>2014<span class="o">}</span>,
+  <span class="nv">url</span> <span class="o">=</span> <span class="o">{</span>http://salt.ece.ubc.ca/publications/docs/mona-msr14.pdf<span class="o">}</span>,
+  <span class="nv">slides</span> <span class="o">=</span> <span class="o">{</span>40727387<span class="o">}</span>
+<span class="o">}</span></code></pre></div>
 
 
     
@@ -191,7 +189,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

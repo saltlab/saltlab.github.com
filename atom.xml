@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-11-23T13:14:50-08:00</updated>
+  <updated>2014-11-23T23:26:34-08:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -61,7 +61,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Two papers at MSR 2014]]></title>
+    <title type="html"><![CDATA[Two Papers at MSR 2014]]></title>
     <link href="http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/"/>
     <updated>2014-03-11T07:43:19-07:00</updated>
     <id>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014</id>
@@ -118,7 +118,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[JSNose: Detecting JavaScript Code  Smells (SCAM 2013)]]></title>
+    <title type="html"><![CDATA[JSNose: Detecting JavaScript Code Smells (SCAM 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/"/>
     <updated>2013-06-25T15:38:00-07:00</updated>
     <id>http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013</id>
@@ -155,7 +155,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hidden-web induced by client-side scripting: An empirical study (ICWE 2013)]]></title>
+    <title type="html"><![CDATA[Hidden-web Induced by Client-side Scripting: An Empirical Study (ICWE 2013)]]></title>
     <link href="http://saltlab.github.io/blog/2013/04/30/recent-updates/"/>
     <updated>2013-04-30T13:43:00-07:00</updated>
     <id>http://saltlab.github.io/blog/2013/04/30/recent-updates</id>

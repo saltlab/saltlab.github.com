@@ -24,7 +24,7 @@
   <link href="/atom.xml" rel="alternate" title="SALT Lab" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
@@ -47,10 +47,12 @@
 
 <body   class="no-sidebar"  >
   <header role="banner"><hgroup>
-  <h1><!-- <img width="45px" border="0" style="vertical-align:middle;" src="/images/s4r.png"> -->
-  	<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a><!-- <a href="/">SALT Lab</a> --></h1>
+  <h1>
+    <img  border="0" height="70px" style="vertical-align:middle;align:left" src="/images/ubc-logo-white.png">&nbsp<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a>
+
+  </h1>
   
-    <!-- <h2>Software AnaLysis and Testing (SALT) Lab</h2>  --> 
+    
   
 </hgroup>
 
@@ -75,7 +77,7 @@
   <li><a href="/software">Software</a></li>
   <li><a href="/prospectivestudents">Prospective Students</a></li>
   <li><a href="/sponsors">Sponsors</a></li>
-<!--  <li><a href="/blog/archives">Archives</a></li> -->
+  <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
 </nav>
@@ -89,7 +91,7 @@
     <header>
     <strong>
         
-            "Software Engineering for the Web: The State of the Practice"
+            &#8220;Software Engineering for the Web: The State of the Practice&#8221;
          
     </strong>
     <div>
@@ -142,20 +144,16 @@
     
     
     <h3>BibTeX</h3>
-	<div>
-  <pre><code class='bash'>@inproceedings{icse14seip,
-  author = {Nederlof, Alex and Mesbah, Ali and van Deursen, Arie},
-  title = {Software Engineering for the Web: The State of the Practice},
-  booktitle = {Proceedings of the ACM/IEEE International Conference on Software Engineering, Software Engineering In Practice (ICSE SEIP)},
-  publisher = {ACM},
-  pages = {4–13},
-  year = {2014},
-  url = {http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf},
-  slides = {35488525},
-  abstract = {Today’s web applications increasingly rely on client-side code execution. HTML is not just created on the server, but manipulated extensively within the browser through JavaScript code. In this paper, we seek to understand the software engineering implications of this. We look at deviations from many known best practices in such areas of performance, accessibility, and correct structuring of HTML documents. Furthermore, we assess to what extent such deviations manifest themselves through client-side code manipulation only. To answer these questions, we conducted a large scale experiment, involving automated client-enabled crawling of over 4000 web applications, resulting in over 100,000,000 pages analyzed, and close to 1,000,000 unique client-side user interface states. Our findings show that the majority of sites contain a substantial number of problems, making sites unnecessarily slow, inaccessible for the visually impaired, and with layout that is unpredictable due to errors in the dynamically modified DOM trees.}
-}</code></pre>
-</div>
-
+	<div class="highlight"><pre><code class="language-bash" data-lang="bash">@inproceedings<span class="o">{</span>icse14seip,
+  <span class="nv">author</span> <span class="o">=</span> <span class="o">{</span>Nederlof, Alex and Mesbah, Ali and van Deursen, Arie<span class="o">}</span>,
+  <span class="nv">title</span> <span class="o">=</span> <span class="o">{</span>Software Engineering <span class="k">for</span> the Web: The State of the Practice<span class="o">}</span>,
+  <span class="nv">booktitle</span> <span class="o">=</span> <span class="o">{</span>Proceedings of the ACM/IEEE International Conference on Software Engineering, Software Engineering In Practice <span class="o">(</span>ICSE SEIP<span class="o">)}</span>,
+  <span class="nv">publisher</span> <span class="o">=</span> <span class="o">{</span>ACM<span class="o">}</span>,
+  <span class="nv">pages</span> <span class="o">=</span> <span class="o">{</span>4--13<span class="o">}</span>,
+  <span class="nv">year</span> <span class="o">=</span> <span class="o">{</span>2014<span class="o">}</span>,
+  <span class="nv">url</span> <span class="o">=</span> <span class="o">{</span>http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf<span class="o">}</span>,
+  <span class="nv">slides</span> <span class="o">=</span> <span class="o">{</span>35488525<span class="o">}</span>
+<span class="o">}</span></code></pre></div>
 
 
     
@@ -191,7 +189,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>

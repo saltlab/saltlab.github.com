@@ -24,7 +24,7 @@
   <link href="/atom.xml" rel="alternate" title="SALT Lab" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" type="text/css">
@@ -47,10 +47,12 @@
 
 <body   class="no-sidebar"  >
   <header role="banner"><hgroup>
-  <h1><!-- <img width="45px" border="0" style="vertical-align:middle;" src="/images/s4r.png"> -->
-  	<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a><!-- <a href="/">SALT Lab</a> --></h1>
+  <h1>
+    <img  border="0" height="70px" style="vertical-align:middle;align:left" src="/images/ubc-logo-white.png">&nbsp<a href="http://salt.ece.ubc.ca"><img  border="0" width="250px" style="vertical-align:middle;" src="/images/salt-logo.png"></a>
+
+  </h1>
   
-    <!-- <h2>Software AnaLysis and Testing (SALT) Lab</h2>  --> 
+    
   
 </hgroup>
 
@@ -75,7 +77,7 @@
   <li><a href="/software">Software</a></li>
   <li><a href="/prospectivestudents">Prospective Students</a></li>
   <li><a href="/sponsors">Sponsors</a></li>
-<!--  <li><a href="/blog/archives">Archives</a></li> -->
+  <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
 </nav>
@@ -89,7 +91,7 @@
     <header>
     <strong>
         
-            "Automated Security Testing of Web Widget Interactions"
+            &#8220;Automated Security Testing of Web Widget Interactions&#8221;
          
     </strong>
     <div>
@@ -138,19 +140,16 @@
    
     
     <h3>BibTeX</h3>
-	<div>
-  <pre><code class='bash'>@inproceedings{bezemer:esec09,
-  author = {Bezemer, Cor-Paul and Mesbah, Ali and van Deursen, Arie},
-  title = {Automated Security Testing of Web Widget Interactions},
-  booktitle = {Proceedings of the joint meeting of the European Software Engineering Conference and the ACM SIGSOFT symposium on the Foundations of Software Engineering (ESEC-FSE)},
-  year = {2009},
-  pages = {81–91},
-  publisher = {ACM},
-  url = {http://www.ece.ubc.ca/~amesbah/docs/fse09.pdf},
-  note = {[Acceptance rate 14.7%]}
-}</code></pre>
-</div>
-
+	<div class="highlight"><pre><code class="language-bash" data-lang="bash">@inproceedings<span class="o">{</span>bezemer:esec09,
+  <span class="nv">author</span> <span class="o">=</span> <span class="o">{</span>Bezemer, Cor-Paul and Mesbah, Ali and van Deursen, Arie<span class="o">}</span>,
+  <span class="nv">title</span> <span class="o">=</span> <span class="o">{</span>Automated Security Testing of Web Widget Interactions<span class="o">}</span>,
+  <span class="nv">booktitle</span> <span class="o">=</span> <span class="o">{</span>Proceedings of the joint meeting of the European Software Engineering Conference and the ACM SIGSOFT symposium on the Foundations of Software Engineering <span class="o">(</span>ESEC-FSE<span class="o">)}</span>,
+  <span class="nv">year</span> <span class="o">=</span> <span class="o">{</span>2009<span class="o">}</span>,
+  <span class="nv">pages</span> <span class="o">=</span> <span class="o">{</span>81--91<span class="o">}</span>,
+  <span class="nv">publisher</span> <span class="o">=</span> <span class="o">{</span>ACM<span class="o">}</span>,
+  <span class="nv">url</span> <span class="o">=</span> <span class="o">{</span>http://www.ece.ubc.ca/~amesbah/docs/fse09.pdf<span class="o">}</span>,
+  <span class="nv">note</span> <span class="o">=</span> <span class="o">{[</span>Acceptance rate 14.7%<span class="o">]}</span>
+<span class="o">}</span></code></pre></div>
 
 
     
@@ -186,7 +185,7 @@
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
