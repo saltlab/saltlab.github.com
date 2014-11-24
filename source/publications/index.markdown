@@ -8,7 +8,10 @@ sidebar: false
 ---
 
 <div id="publications">
-    
-{% bibliography %}
-       
+
+{% for myyear in (2007..2015) reversed %}
+  <h3>{{myyear}}</h3>
+  {% bibliography --query @*[year={{myyear}}] %}
+{% endfor %}
+  
 </div>

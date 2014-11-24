@@ -39,12 +39,13 @@ rdiscount:
     - autolink
     - footnotes
     - smart
-pygments: false # default python pygments have been replaced by pygments.rb
+highlighter: pygments # default python pygments have been replaced by pygments.rb
 
-paginate: 6          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+paginate: 10          # Posts per page on the blog index
+paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+excerpt_separator: "<!--more-->"
 
 titlecase: true       # Converts page and post titles to titlecase
 
@@ -106,11 +107,16 @@ citation:
 
 # This plugin handles bibtex publications
 scholar:
-  #bibliography_template: biboverview
-  style: source/_bibtex/custom-ieee.csl
+  #style: source/_bibtex/custom-ieee.csl
+  bibliography_template: bibliography
+  #style: apa
   locale: en
   sort_by: year
   order: descending
+  bibliography_list_tag: ul
+  bibliography_item_tag: li  
+  #replace_strings: false
+  #join_strings:    true
 
   source: source/_bibtex
   bibliography: biblio
@@ -121,4 +127,4 @@ scholar:
   pdf_dir: publications
 
   query: "@*"      
-  #query: "@*[public!=no]"    
+  #query: "@*[public!=no]" 

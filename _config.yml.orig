@@ -14,7 +14,7 @@ title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: https://www.google.com/search
->>>>>>> c6c5b74f4d5dc4cc0a34e97c918e0b1a59954a16
+>>>>>>> 3345fa5897377c5a5aebc7c637ca985894cde88a
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -55,7 +55,7 @@ pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
 =======
 paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
->>>>>>> c6c5b74f4d5dc4cc0a34e97c918e0b1a59954a16
+>>>>>>> 3345fa5897377c5a5aebc7c637ca985894cde88a
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: "<!--more-->"

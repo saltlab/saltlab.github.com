@@ -1,24 +1,44 @@
 ---
 ---
-{{reference}}
+
  
 <div id="{{key}}-materials">
-  <ul class="nav nav-pills">
-    {% if entry.abstract %}
-    <li><a data-toggle="collapse" href="#{{key}}-abstract">Abstract</a></li>
+  <strong>{{entry.title}}</strong>, 
+  {% assign names = entry.author | split:"and" %}
+  {% assign seperator = "," %}
+  {% for name in names %}
+      {% assign firstlast = name | split:"," %}
+       {% if forloop.last %}
+          {% assign seperator = "." %}
+          {% if forloop.length > 1 %}
+            and 
+          {% endif %}     
+       {% endif %}   
+       {{firstlast[1]}} {{firstlast[0]}}{{seperator}}
+  {% endfor %}
+
+  <div> 
+     {% if entry.booktitle == empty or entry.booktitle == nil %}
+        {% else %}
+         In <em>{{ entry.booktitle }}</em>.
+        {% endif %}
+     {% if entry.journal == empty or entry.journal == nil %}
+        {% else %}
+         <em>{{ entry.journal }}</em>.
+        {% endif %}   
+     {% if entry.pages == empty or entry.pages == nil %}   
+        {% else %}
+         {{ entry.pages }},
+     {% endif %} 
+        {{ entry.year }}. 
+        {% if entry.url == empty or entry.url == nil %}
+        {% else %}
+          <a href="{{entry.url}}">PDF</a>
+        {% endif %}
+
+    </div> 
+    {% if entry.award == empty or entry.award == nil %}
+        {% else %}
+        <div style='color:red; font-weight:bold'>{{ entry.award }}</div>
     {% endif %}
- 
-    <li><a data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a></li>
- 
-    {% if link %}
-    <li><a href="{{link}}">Download</a></li>
-    {% endif %}
-  </ul>
- 
-  {% if entry.abstract %}
-  <p id="{{key}}-abstract" class="collapse">{{entry.abstract}}</p>
-  {% endif %}
- 
-  <pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
- 
 </div>
