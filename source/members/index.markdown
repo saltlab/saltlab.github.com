@@ -21,6 +21,7 @@ footer: false
 <strong>PhD Students</strong>
 
 <ul>
+	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (Jan 2014)</li>
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012)</li>
 	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012)</li>
 	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012)</li>
@@ -34,23 +35,13 @@ footer: false
 	<li>Mohamed Ali (Sep 2014)</li>
 	<li>Arash Vahabzadeh (Sep 2014)</li>
 	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (Jan 2014, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
-	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (Jan 2013)</li>
-	<li>Golnaz Gharachorlu (Sep 2012)</li>
 </ul>
  
 
-<strong>Interns/Visitors</strong>
-<ul>
-	<li>Gregory Zhang (2014)</li>
-	<li>Erin Bush, NSERC USRA (2014)</li>
-	<li>Aakanksha Saha, Mitacs Global Link (2014)</li>
-	<li>Joseph Hejderup, TU Delft (2014)</li>
-	<li>Mohamed Ali, NSERC USRA (2013)</li>
-	<li>Nainy Argawal, Mitacs Global Link (2013)</li>
-</ul>
-
 <strong>Alumni</strong>
 <ul>
+	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (MASc 2014)</li>
+	<li>Golnaz Gharachorlu (<a href="http://circle.ubc.ca/bitstream/handle/2429/51364/ubc_2015_february_gharachorlu_golnaz.pdf?sequence=1">MASc 2014</a>)</li>
 	<li>Sheldon Sequeira (<a href="http://circle.ubc.ca/bitstream/handle/2429/50814/ubc_2014_november_sequeira_sheldon.pdf?sequence=7">MASc 2014</a>)</li> 
 	<li><a href="
 	http://www.ece.ubc.ca/~mehdi/">Mehdi Mirzaaghaei</a> (post-doc 2014, now at Amazon)</li>
@@ -60,6 +51,16 @@ footer: false
 	<li><a href="http://alex.nederlof.com">Alex Nederlof</a> (<a href="http://salt.ece.ubc.ca/publications/docs/icse14-seip.pdf">MSc 2013</a>), co-supervised with <a href="http://www.st.ewi.tudelft.nl/~arie/">Arie van Deursen</a></li>
 	<li>Jeremy Hewett (MEng 2013)</li>
 	<li>Prabhjot Singh (MEng 2013)</li> 
+</ul>
+
+<strong>Interns/Visitors</strong>
+<ul>
+	<li>Gregory Zhang (2014)</li>
+	<li>Erin Bush, NSERC USRA (2014)</li>
+	<li>Aakanksha Saha, Mitacs Global Link (2014)</li>
+	<li>Joseph Hejderup, TU Delft (2014)</li>
+	<li>Mohamed Ali, NSERC USRA (2013)</li>
+	<li>Nainy Argawal, Mitacs Global Link (2013)</li>
 </ul>
 
 <p>
