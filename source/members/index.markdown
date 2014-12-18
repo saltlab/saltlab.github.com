@@ -21,7 +21,6 @@ footer: false
 <strong>PhD Students</strong>
 
 <ul>
-	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (Jan 2014)</li>
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012)</li>
 	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012)</li>
 	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012)</li>
@@ -40,7 +39,7 @@ footer: false
 
 <strong>Alumni</strong>
 <ul>
-	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (MASc 2014)</li>
+	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (<a href="https://circle.ubc.ca/bitstream/handle/2429/51459/ubc_2015_february_bajaj_kartik.pdf?sequence=4">MASc 2014</a>)</li>
 	<li>Golnaz Gharachorlu (<a href="http://circle.ubc.ca/bitstream/handle/2429/51364/ubc_2015_february_gharachorlu_golnaz.pdf?sequence=1">MASc 2014</a>)</li>
 	<li>Sheldon Sequeira (<a href="http://circle.ubc.ca/bitstream/handle/2429/50814/ubc_2014_november_sequeira_sheldon.pdf?sequence=7">MASc 2014</a>)</li> 
 	<li><a href="
