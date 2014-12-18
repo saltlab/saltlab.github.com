@@ -4,7 +4,7 @@
   <title><![CDATA[Category: papers | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/papers/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-12-11T13:24:44-08:00</updated>
+  <updated>2014-12-18T14:45:20-08:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Paper at ICSE 2015]]></title>
+    <link href="http://saltlab.github.io/blog/2014/12/18/paper-at-ICSE-2015/"/>
+    <updated>2014-12-18T13:40:06-08:00</updated>
+    <id>http://saltlab.github.io/blog/2014/12/18/paper-at-ICSE-2015</id>
+    <content type="html"><![CDATA[<p>Our paper <a href="/publications/frolin_icse15.html"><strong>Detecting Inconsistencies in JavaScript MVC Applications</strong></a> is accepted to <a href="http://2015.icse-conferences.org/">ICSE&#8217;15</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2 X ASE 2014, 1 X FSE 2014]]></title>
@@ -65,21 +74,6 @@
     <updated>2014-02-18T16:42:59-08:00</updated>
     <id>http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014</id>
     <content type="html"><![CDATA[<p>The paper <a href="/publications/icse14seip.html"><strong>Software Engineering for the Web: The State of the Practice</strong></a> accepted in the Software Engineering in Practice (SEIP) track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Two Papers at ICSE 2014]]></title>
-    <link href="http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014/"/>
-    <updated>2014-01-15T22:32:00-08:00</updated>
-    <id>http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014</id>
-    <content type="html"><![CDATA[<p>We have two papers accepted in the research track of <a href="http://2014.icse-conferences.org">ICSE&#8217;14</a>:</p>
-
-<ul>
-<li><a href="/publications/saba_clematis.html"><strong>Understanding JavaScript Event-based Interactions</strong></a></li>
-<li><a href="/publications/frolin_vejovis.html"><strong>Vejovis: Suggesting Fixes for JavaScript Faults</strong></a></li>
-</ul>
-
 ]]></content>
   </entry>
   
