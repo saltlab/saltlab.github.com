@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Paper at ICSE 2015"
-date: 2014-12-18 14:40:06 -0700
+title: "Papers at ICSE 2015 and ICST 2015"
+date: 2014-12-21 11:29:06 -0700
 comments: false
 categories: papers
 ---
 
 Our paper [**Detecting Inconsistencies in JavaScript MVC Applications**](/publications/frolin_icse15.html) is accepted to [ICSE'15](http://2015.icse-conferences.org/).
+
+Also, the paper [**JSEFT: Automated JavaScript Unit Test Generation**](/publications/shabnam_icst15.html) is accepted to [ICST'15](http://icst2015.ist.tu-graz.ac.at).
 
