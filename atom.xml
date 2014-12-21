@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2014-12-19T10:41:24-08:00</updated>
+  <updated>2014-12-21T11:33:22-08:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Paper at ICSE 2015]]></title>
-    <link href="http://saltlab.github.io/blog/2014/12/18/paper-at-ICSE-2015/"/>
-    <updated>2014-12-18T13:40:06-08:00</updated>
-    <id>http://saltlab.github.io/blog/2014/12/18/paper-at-ICSE-2015</id>
+    <title type="html"><![CDATA[Papers at ICSE 2015 and ICST 2015]]></title>
+    <link href="http://saltlab.github.io/blog/2014/12/21/paper-at-ICSE-2015/"/>
+    <updated>2014-12-21T10:29:06-08:00</updated>
+    <id>http://saltlab.github.io/blog/2014/12/21/paper-at-ICSE-2015</id>
     <content type="html"><![CDATA[<p>Our paper <a href="http://saltlab.github.io/publications/frolin_icse15.html"><strong>Detecting Inconsistencies in JavaScript MVC Applications</strong></a> is accepted to <a href="http://2015.icse-conferences.org/">ICSE&#8217;15</a>.</p>
+
+<p>Also, the paper <a href="http://saltlab.github.io/publications/shabnam_icst15.html"><strong>JSEFT: Automated JavaScript Unit Test Generation</strong></a> is accepted to <a href="http://icst2015.ist.tu-graz.ac.at">ICST&#8217;15</a>.</p>
 ]]></content>
   </entry>
   
