@@ -17,7 +17,18 @@ sidebar: false
         {% endif %} 
     </strong>
     <div>
-      {{ page.entry.author }}
+    {% assign names = page.entry.author | split:"and" %}
+    {% assign seperator = "," %}
+    {% for name in names %}
+      {% assign firstlast = name | split:"," %}
+       {% if forloop.last %}
+          {% assign seperator = "." %}
+          {% if forloop.length > 1 %}
+            and 
+          {% endif %}     
+       {% endif %}   
+       {{firstlast[1]}} {{firstlast[0]}}{{seperator}}
+    {% endfor %}
     <div>    
     <div> 
      {% if page.entry.booktitle == empty or page.entry.booktitle == nil %}
@@ -28,6 +39,10 @@ sidebar: false
         {% else %}
          <em>{{ page.entry.journal }}</em>,
         {% endif %}   
+         {% if page.entry.pages == empty or page.entry.pages == nil %}   
+        {% else %}
+         {{ page.entry.pages }},
+        {% endif %} 
         {{ page.entry.year }}
     </div> 
       {% if page.entry.url == empty or page.entry.url == nil %}
