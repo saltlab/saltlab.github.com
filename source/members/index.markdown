@@ -21,6 +21,7 @@ footer: false
 <strong>PhD Students</strong>
 
 <ul>
+	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015)</li>
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012)</li>
 	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012)</li>
 	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012)</li>
