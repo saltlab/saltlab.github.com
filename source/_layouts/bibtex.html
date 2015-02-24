@@ -11,12 +11,12 @@ sidebar: false
     <header>
     <strong>
         {% if site.titlecase and page.titlecase != false %}
-            "{{ page.entry.title | titlecase }}"
+            "{{ page.entry.title | titlecase }}",
         {% else %}
-            "{{ page.entry.title }}"
+            "{{ page.entry.title }}",
         {% endif %} 
     </strong>
-    <div>
+    
     {% assign names = page.entry.author | split:"and" %}
     {% assign seperator = "," %}
     {% for name in names %}
@@ -39,6 +39,10 @@ sidebar: false
         {% else %}
          <em>{{ page.entry.journal }}</em>,
         {% endif %}   
+        {% if page.entry.series == empty or page.entry.series == nil %}
+        {% else %}
+         <em>{{ page.entry.series }}</em>. 
+        {% endif %}      
          {% if page.entry.pages == empty or page.entry.pages == nil %}   
         {% else %}
          {{ page.entry.pages }},

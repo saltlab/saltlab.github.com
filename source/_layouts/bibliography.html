@@ -26,6 +26,10 @@
         {% else %}
          <em>{{ entry.journal }}</em>.
         {% endif %}   
+     {% if entry.series == empty or entry.series == nil %}
+        {% else %}
+         <em>{{ entry.series }}</em>.
+        {% endif %}      
      {% if entry.pages == empty or entry.pages == nil %}   
         {% else %}
          {{ entry.pages }},
