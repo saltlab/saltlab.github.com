@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2015-04-07T13:08:34-07:00</updated>
+  <updated>2015-04-29T15:27:00-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ECOOP 2015]]></title>
+    <link href="http://saltlab.github.io/blog/2015/04/29/ecoop-2015/"/>
+    <updated>2015-04-29T15:16:18-07:00</updated>
+    <id>http://saltlab.github.io/blog/2015/04/29/ecoop-2015</id>
+    <content type="html"><![CDATA[<p>Our paper <a href="http://saltlab.github.io/publications/ecoop15.html"><strong>Hybrid DOM-Sensitive Change Impact Analysis for JavaScript</strong></a> is accepted to <a href="http://2015.ecoop.org">ECOOP&#8217;15</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Papers at ICSE 2015 and ICST 2015]]></title>
