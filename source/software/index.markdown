@@ -44,6 +44,8 @@ Most of the software tools resulting from our research projects are open-sourced
 
 	<li><a href="https://github.com/saltlab/JSeft">JSeft</a>: generates function- and event-level test cases for JavaScript</li>
 	
+	<li><a href="https://github.com/saltlab/tochal">ToChal</a>: performs JavaScript hybrid change impact analysis</li>
+	
 
 	
 </ul>

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "ECOOP 2015"
+date: 2015-04-29 15:16:18 -0700
+comments: false
+categories: papers
+---
+
+Our paper [**Hybrid DOM-Sensitive Change Impact Analysis for JavaScript**](/publications/ecoop15.html) is accepted to [ECOOP'15](http://2015.ecoop.org).
+
