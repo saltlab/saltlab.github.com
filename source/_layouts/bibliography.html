@@ -3,20 +3,21 @@
 
  
 <div id="{{key}}-materials">
-  <strong>{{entry.title}}</strong>, 
+  <strong>{{entry.title}}</strong>
+  <div> 
   {% assign names = entry.author | split:"and" %}
   {% assign seperator = "," %}
   {% for name in names %}
       {% assign firstlast = name | split:"," %}
        {% if forloop.last %}
-          {% assign seperator = "." %}
+          {% assign seperator = "" %}
           {% if forloop.length > 1 %}
             and 
           {% endif %}     
        {% endif %}   
        {{firstlast[1]}} {{firstlast[0]}}{{seperator}}
   {% endfor %}
-
+  </div>
   <div> 
      {% if entry.booktitle == empty or entry.booktitle == nil %}
         {% else %}
