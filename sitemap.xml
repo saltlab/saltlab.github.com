@@ -1,232 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://saltlab.github.io/blog/2015/04/30/ecoop-2015/</loc>
-    <lastmod>2015-04-30T02:46:18+04:30</lastmod>
+    <loc>http://saltlab.github.io/blog/2015/04/29/ecoop-2015/</loc>
+    <lastmod>2015-04-29T15:16:18-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2014/12/21/paper-at-ICSE-2015/</loc>
-    <lastmod>2014-12-21T21:59:06+03:30</lastmod>
+    <lastmod>2014-12-21T10:29:06-08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2014/07/01/1-x-fse-2014-2-x-ase-2014/</loc>
-    <lastmod>2014-07-01T21:39:08+04:30</lastmod>
+    <lastmod>2014-07-01T10:09:08-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://saltlab.github.io/blog/2014/06/11/distinguished-paper-award-at-icse-2014/</loc>
-    <lastmod>2014-06-11T00:32:39+04:30</lastmod>
+    <loc>http://saltlab.github.io/blog/2014/06/10/distinguished-paper-award-at-icse-2014/</loc>
+    <lastmod>2014-06-10T13:02:39-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://saltlab.github.io/blog/2014/03/31/paper-at-issta-2014/</loc>
-    <lastmod>2014-03-31T05:20:06+04:30</lastmod>
+    <loc>http://saltlab.github.io/blog/2014/03/30/paper-at-issta-2014/</loc>
+    <lastmod>2014-03-30T17:50:06-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2014/03/11/two-papers-at-msr-2014/</loc>
-    <lastmod>2014-03-11T18:13:19+03:30</lastmod>
+    <lastmod>2014-03-11T07:43:19-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://saltlab.github.io/blog/2014/02/19/paper-at-icse-seip-2014/</loc>
-    <lastmod>2014-02-19T04:12:59+03:30</lastmod>
+    <loc>http://saltlab.github.io/blog/2014/02/18/paper-at-icse-seip-2014/</loc>
+    <lastmod>2014-02-18T16:42:59-08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2014/01/15/two-papers-at-icse-2014/</loc>
-    <lastmod>2014-01-15T22:32:00+03:30</lastmod>
+    <lastmod>2014-01-15T22:32:00-08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/09/22/feedback-directed-exploration-of-web-applications-to-derive-test-models-issre-13/</loc>
-    <lastmod>2013-09-22T12:35:00+03:30</lastmod>
+    <lastmod>2013-09-22T12:35:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/07/12/best-paper-award-at-icwe-13/</loc>
-    <lastmod>2013-07-12T09:56:00+04:30</lastmod>
+    <lastmod>2013-07-12T09:56:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/06/25/jsnose-detecting-javascript-code-smells-scam-2013/</loc>
-    <lastmod>2013-06-25T15:38:00+04:30</lastmod>
+    <lastmod>2013-06-25T15:38:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/05/28/an-empirical-study-of-client-side-javascript-bugs-esem-2013/</loc>
-    <lastmod>2013-05-28T11:25:00+04:30</lastmod>
+    <lastmod>2013-05-28T11:25:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/05/28/real-challenges-in-mobile-app-development-esem-2013/</loc>
-    <lastmod>2013-05-28T11:11:00+04:30</lastmod>
+    <lastmod>2013-05-28T11:11:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/04/30/recent-updates/</loc>
-    <lastmod>2013-04-30T13:43:00+04:30</lastmod>
+    <lastmod>2013-04-30T13:43:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/01/04/icst13/</loc>
-    <lastmod>2013-01-04T17:42:00+03:30</lastmod>
+    <lastmod>2013-01-04T17:42:00-08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/2013/01/02/Octopress/</loc>
-    <lastmod>2013-01-02T06:29:00+03:30</lastmod>
+    <lastmod>2013-01-02T06:29:00-08:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/prospectivestudents/496.html</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/blog/archives/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/testilizer/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/content/feedex/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/content/cilla/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/content/jsnose/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/members/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/mission/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/content/javis/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/confix/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/domcovery/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/testbugs-study/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/tochal/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/sponsors/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/publications/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/cssnose/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/jseft/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/content/jsart/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/assertion-study/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/slicejs/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/prospectivestudents/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/camellia/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://saltlab.github.io/software/clematis/</loc>
-    <lastmod>2015-06-03T12:34:43+04:30</lastmod>
+    <lastmod>2015-06-10T14:29:15-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
