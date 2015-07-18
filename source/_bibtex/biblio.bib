@@ -520,8 +520,6 @@ breadth-first, and random exploration.}
   title = {Automatic Fault Localization for Client-Side {JavaScript}},
   journal = {Journal of Software Testing, Verification and Reliability (STVR)},
   year = {2015},
-  volume={}, 
-  number={}, 
   pages={20 pages}, 
   publisher = {Wiley},
   url = {http://salt.ece.ubc.ca/publications/docs/stvr15-frolin.pdf},
@@ -534,7 +532,7 @@ breadth-first, and random exploration.}
     title = {Hybrid {DOM}-Sensitive Change Impact Analysis for {JavaScript}},
     booktitle = {Proceedings of the European Conference on Object-Oriented Programming (ECOOP)},
     publisher = {LIPIcs},
-    pages = {25 pages},
+    pages = {321--345},
     year = {2015},
     url = {http://salt.ece.ubc.ca/publications/docs/ecoop15.pdf},
     abstract = {JavaScript has grown to be among the most popular programming languages. However, performing change impact analysis on JavaScript applications is challenging due to features such as the seamless interplay with the DOM, event-driven and dynamic function calls, and asynchronous client/server communication. We first perform an empirical study of change propagation, the results of which show that the DOM-related and dynamic features of JavaScript need to be taken into consideration in the analysis since they affect change impact propagation. We propose a DOM-sensitive hybrid change impact analysis technique for JavaScript through a combination of static and dynamic analysis. The proposed approach incorporates a novel ranking algorithm for indicating the importance of each entity in the impact set. Our approach is implemented in a tool called Tochal. The results of our evaluation reveal that Tochal provides a more complete analysis compared to static or dynamic methods. Moreover, through an industrial controlled experiment, we find that Tochal helps developers by improving their task completion duration by 78% and accuracy by 223%.}
@@ -545,8 +543,10 @@ breadth-first, and random exploration.}
         title = {Assertions Are Strongly Correlated with Test Suite Effectiveness},
         booktitle = {Proceedings of the joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE)},
         publisher = {ACM},
-        pages = {11 pages},
+        pages = {618--624},
         year = {2015},
+        url = {http://salt.ece.ubc.ca/publications/docs/fse15.pdf},
+        abstract = {Code coverage is a popular test adequacy criterion in practice. Code coverage, however, remains controversial as there is a lack of coherent empirical evidence for its relation with test suite effectiveness. More recently, test suite size has been shown to be highly correlated with effectiveness. However, previous studies treat test methods as the smallest unit of interest, and ignore potential factors influencing this relationship. We propose to go beyond test suite size, by investigating test assertions inside test methods. We empirically evaluate the relationship between a test suite?s effectiveness and the (1) number of assertions, (2) assertion coverage, and (3) different types of assertions. We compose 6,700 test suites in total, using 24,000 assertions of five real-world Java projects. We find that the number of assertions in a test suite strongly correlates with its effectiveness, and this factor directly influences the relationship between test suite size and effectiveness. Our results also indicate that assertion coverage is strongly correlated with effectiveness and different types of assertions can influence the effectiveness of their containing test suites.}
 }
 
 @inproceedings{icsme15,
@@ -556,6 +556,7 @@ breadth-first, and random exploration.}
         publisher = {IEEE Computer Society},
         pages = {10 pages},
         year = {2015},
+        abstract = {Unit testing aims at detecting (regression) bugs in production code. However, testing code is just as likely to contain bugs as the code it tests. Buggy test cases can silently miss bugs in the production code or loudly ring false alarms when the production code is correct. We present the first empirical study of bugs in test code to characterize their prevalence and root cause categories. We mine the bug repositories and version control systems of 211 Apache Software Foundation (ASF) projects and find 5,556 test-related bug reports. We (1) compare properties of test bugs with production bugs, such as active time and fixing effort needed, (2) qualitatively study 443 randomly sampled test bug reports in detail and categorize them based on their impact and root causes, (3) run FindBugs on the test code of the latest version of the projects to discover potential (undiscovered) bugs. Our results show that (1) around half of all the projects had bugs in their test code; (2) the majority of test bugs are false alarms, i.e., test fails while the production code is correct, while a minority of these bugs result in silent horrors, i.e., test passes while the production code is incorrect; (3) incorrect and missing assertions are the dominant root cause of silent horror bugs; (4) semantic (25\%), flaky (21\%), environment-related (18\%) bugs are the dominant root cause categories of false alarms; (5) the majority of false alarm bugs happen in the exercise portion of the tests, and (6) developers contribute more actively to fixing test bugs and test bugs are fixed sooner compared to production bugs.}
 }
 
 @inproceedings{esem15,
@@ -564,5 +565,24 @@ breadth-first, and random exploration.}
         booktitle = {Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
         publisher = {IEEE Computer Society},
         pages = {10 pages},
+        year = {2015},
+        abstract = {JavaScript is a popular language for developing web applications and is increasingly used for both client-side and server-side application logic. The JavaScript runtime is inherently event-driven and callbacks are a key language feature. Unfortunately, callbacks induce a non-linear control flow and can be deferred to execute asynchronously, declared anonymously, and may be nested to arbitrary levels. All of these features make callbacks difficult to understand and maintain. We perform an empirical study to characterize js callback usage across a representative corpus of 138 js programs, with over 5 million lines of js code. We find that on average, every 10th function definition takes a callback argument, and that over 43\% of all callback-accepting function callsites are anonymous. Furthermore, the majority of callbacks are nested, more than half of all callbacks are asynchronous, and asynchronous callbacks, on average, appear more frequently in client-side code (72\%) than server-side (55\%). We also study three well-known solutions designed to help with the complexities associated with callbacks, including the error-first callback convention, Async.js library, and Promises. Our results inform the design of future js analysis and code comprehension tools.}
+}
+
+@inproceedings{kartik:ase15,
+        author = {Kartik Bajaj and Karthik Pattabiraman and Ali Mesbah},
+        title = {Synthesizing Web Element Locators},
+        booktitle = {Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+        publisher = {IEEE Computer Society},
+        pages = {11 pages},
+        year = {2015},
+}
+
+@inproceedings{amin:ase15,
+        author = {Amin Milani Fard and Ali Mesbah and Eric Wohlstadter},
+        title = {Automated Fixture Generation for {JavaScript} Unit Testing},
+        booktitle = {Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+        publisher = {IEEE Computer Society},
+        pages = {11 pages},
         year = {2015},
 }
