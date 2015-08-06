@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2015-08-07T00:26:52+04:30</updated>
+  <updated>2015-08-07T00:34:29+04:30</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Paper Updates]]></title>
+    <link href="http://saltlab.github.io/blog/2015/08/07/paper-updates/"/>
+    <updated>2015-08-07T00:31:01+04:30</updated>
+    <id>http://saltlab.github.io/blog/2015/08/07/paper-updates</id>
+    <content type="html"><![CDATA[<p>Our group has 6 full technical papers appearing at ESEC/FSE&#8217;15, ESEM&#8217;15, ICSME&#8217;15, ASE&#8217;15 (two papers), and ISSRE&#8217;15. See our <a href="http://saltlab.github.io/publications/">publications page</a> for more details.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ECOOP 2015]]></title>
