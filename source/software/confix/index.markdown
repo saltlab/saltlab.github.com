@@ -9,8 +9,10 @@ footer: false
 
 
 <p>
-  
-  * The implementation of ConFix and our experimental results are available on  <a href="http://www.ece.ubc.ca/~aminmf/confix.html">this page</a>
-  
-<p> 
+Paper <a href="http://salt.ece.ubc.ca/publications/amin_ase15.html">“Generating Fixtures for JavaScript Unit Testing”</a>, ASE'15
+</p>
+ 
+  * The <a href="https://github.com/saltlab/Confix">implementation of ConFix</a> is on GitHub
+  * Our experimental results are available <a href="/software/confix/experiments.zip">here</a>  
+
  

@@ -543,7 +543,7 @@ breadth-first, and random exploration.}
         title = {Assertions Are Strongly Correlated with Test Suite Effectiveness},
         booktitle = {Proceedings of the joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE)},
         publisher = {ACM},
-        pages = {618--624},
+        pages = {214--224},
         year = {2015},
         url = {http://salt.ece.ubc.ca/publications/docs/fse15.pdf},
         abstract = {Code coverage is a popular test adequacy criterion in practice. Code coverage, however, remains controversial as there is a lack of coherent empirical evidence for its relation with test suite effectiveness. More recently, test suite size has been shown to be highly correlated with effectiveness. However, previous studies treat test methods as the smallest unit of interest, and ignore potential factors influencing this relationship. We propose to go beyond test suite size, by investigating test assertions inside test methods. We empirically evaluate the relationship between a test suite?s effectiveness and the (1) number of assertions, (2) assertion coverage, and (3) different types of assertions. We compose 6,700 test suites in total, using 24,000 assertions of five real-world Java projects. We find that the number of assertions in a test suite strongly correlates with its effectiveness, and this factor directly influences the relationship between test suite size and effectiveness. Our results also indicate that assertion coverage is strongly correlated with effectiveness and different types of assertions can influence the effectiveness of their containing test suites.}
@@ -577,6 +577,9 @@ breadth-first, and random exploration.}
         publisher = {IEEE Computer Society},
         pages = {11 pages},
         year = {2015},
+       url = {http://salt.ece.ubc.ca/publications/docs/ase15-led.pdf},
+       abstract = {To programmatically interact with the user interface of a web application, element locators are used to select and retrieve elements from the Document Object Model (DOM). Element locators are used in JavaScript code, Cascading stylesheets, and test cases to interact with the runtime DOM of the webpage. Constructing these element locators is, however, challenging due to the dynamic nature of the DOM. We find that locators written by web developers can be quite complex, and involve selecting multiple DOM elements. We present an automated technique for synthesizing DOM element locators using examples provided interactively by the developer. The main insight in our approach is that the problem of synthesizing complex multi-element locators can be expressed as a constraint solving problem over the domain of valid DOM states in a web application. We implemented our synthesis technique in a tool called LED, which provides an interactive drag and drop support inside the browser for selecting positive and negative examples. We find that LED supports at least 86\% of the locators used in the JavaScript code of deployed web applications, and that the locators synthesized by LED have a recall of 98\% and a precision of 63\%. LED is fast, taking only 0.23 seconds on average to synthesize a locator.}
+        
 }
 
 @inproceedings{amin:ase15,
@@ -586,6 +589,8 @@ breadth-first, and random exploration.}
         publisher = {IEEE Computer Society},
         pages = {11 pages},
         year = {2015},
+        abstract = {In today's web applications, JavaScript code interacts with the Document Object Model (DOM) at runtime. This runtime interaction between JavaScript and the DOM is error-prone and challenging to test. In order to unit test a JavaScript function that has read/write DOM operations, a DOM instance has to be provided as a test fixture. This DOM fixture needs to be in the exact structure expected by the function under test. Otherwise, the test case can terminate prematurely due to a null exception. Generating these fixtures is challenging due to the dynamic nature of JavaScript and the hierarchical structure of the DOM. We present an automated technique, based on dynamic symbolic execution, which generates test fixtures for unit testing JavaScript functions. Our approach is implemented in a tool called Confix. Our empirical evaluation shows that Confix can effectively generate tests that cover DOM-dependent paths. We also find that Confix yields considerably higher coverage compared to an existing JavaScript input generation technique.},
+         url = {http://salt.ece.ubc.ca/publications/docs/ase15-confix.pdf},
 }
 
 @inproceedings{issre15,
