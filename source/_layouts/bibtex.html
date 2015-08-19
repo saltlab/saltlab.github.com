@@ -77,6 +77,11 @@ sidebar: false
     </span>
 </header>
 
+        {% if page.entry.youtube == empty or page.entry.youtube == nil %}
+        {% else %}
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.entry.youtube}}" frameborder="0" allowfullscreen></iframe>
+        {% endif %}
+
         {% if page.entry.slides == empty or page.entry.slides == nil %}
         {% else %}
         <div><iframe src="//www.slideshare.net/slideshow/embed_code/{{page.entry.slides}}" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></div>
