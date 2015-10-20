@@ -7,26 +7,27 @@ sharing: false
 footer: false
 ---
 
-<img src="/members/group-photo-2014.jpg" border="0" title="SALT Lab Group Photo, 2014" alt="SALT Lab Group Photo, 2014"/>
+<img src="/members/group-photo-2015.jpg" border="0" title="SALT Lab Group Photo, 2015" alt="SALT Lab Group Photo, 2015"/>
 
 <strong>Faculty</strong>
 
 
 <ul>
-	<li><a href="http://www.ece.ubc.ca/~amesbah/">Ali Mesbah</a></li>
-	<li><a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a></li>
+	<li><a href="http://www.ece.ubc.ca/~amesbah/">Ali Mesbah</a>, Principal Investigator</li>
+	<li><a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>, Associate Member</li>
 </ul>
 
 
 <strong>PhD Students</strong>
 
 <ul>
-	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015)</li>
-	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012)</li>
-	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012)</li>
-	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012)</li>
-	<li><a href="http://www.ece.ubc.ca/~merfani/">Mona Erfani Joorabchi</a> (Jan 2012)</li>
-	<li><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a> (Sep 2011)</li>		
+	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (Sep 2015 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012 -- present)</li> 
+	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~merfani/">Mona Erfani Joorabchi</a> (Jan 2012 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a> (Sep 2011 -- present)</li>		
 </ul>
 
 <strong>MASc Students</strong></p>
