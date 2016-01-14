@@ -21,7 +21,6 @@ footer: false
 <strong>PhD Students</strong>
 
 <ul>
-	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (Sep 2015 -- present)</li>
 	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015 -- present)</li>
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li>
 	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012 -- present)</li> 
@@ -34,12 +33,12 @@ footer: false
 	<li>Yucheng Zhang (Sep 2014)</li>
 	<li>Mohamed Ali (Sep 2014)</li>
 	<li>Arash Vahabzadeh (Sep 2014)</li>
-	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (Jan 2014, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
 </ul>
  
 
 <strong>Graduated</strong>
 <ul>
+	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (MASc  2015, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
 	<li><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a>  (October 2015, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0167728">PhD dissertation</a>)</li>
 	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (<a href="https://circle.ubc.ca/bitstream/handle/2429/51459/ubc_2015_february_bajaj_kartik.pdf?sequence=4">MASc 2014</a>)</li>
 	<li>Golnaz Gharachorlu (<a href="http://circle.ubc.ca/bitstream/handle/2429/51364/ubc_2015_february_gharachorlu_golnaz.pdf?sequence=1">MASc 2014</a>)</li>
@@ -56,6 +55,7 @@ footer: false
 
 <strong>Interns/Visitors</strong>
 <ul>
+	<li>Fernando Brito, Mitacs Global Link (2015)</li>
 	<li>Gregory Zhang (2014)</li>
 	<li>Erin Bush, NSERC USRA (2014)</li>
 	<li>Aakanksha Saha, Mitacs Global Link (2014)</li>
