@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2016-03-24T16:10:17-07:00</updated>
+  <updated>2016-03-29T10:58:00-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Software Analysis for the Web: Achievements and Prospects]]></title>
+    <link href="http://saltlab.github.io/blog/2016/03/29/software-analysis-for-the-web-achievements-and-prospects/"/>
+    <updated>2016-03-29T10:51:29-07:00</updated>
+    <id>http://saltlab.github.io/blog/2016/03/29/software-analysis-for-the-web-achievements-and-prospects</id>
+    <content type="html"><![CDATA[<p>Invited <a href="http://saltlab.github.io/publications/saner16.html">vision paper</a> and talk at the Leaders of Tomorrow: Future of Software Engineering (FOSE), SANER&#8217;16</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-cF32DpQ4I" frameborder="0" allowfullscreen></iframe>
+
+
+<p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Best Full Paper Award at ESEM'15]]></title>
