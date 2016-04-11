@@ -4,7 +4,7 @@
   <title><![CDATA[SALT Lab]]></title>
   <link href="http://saltlab.github.io/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2016-04-11T10:56:35-07:00</updated>
+  <updated>2016-04-11T11:14:22-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post-doc and PhD Positions]]></title>
+    <link href="http://saltlab.github.io/blog/2016/04/11/post-doct-and-phd-positions/"/>
+    <updated>2016-04-11T12:00:22-07:00</updated>
+    <id>http://saltlab.github.io/blog/2016/04/11/post-doct-and-phd-positions</id>
+    <content type="html"><![CDATA[<p>We have one Post-doc and two PhD positions in the SALT lab @ UBC. For more details, please visit the <a href="http://salt.ece.ubc.ca/open-positions/">Open Positions</a> page.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[NSERC DAS]]></title>
+    <link href="http://saltlab.github.io/blog/2016/04/11/nserc-das/"/>
+    <updated>2016-04-11T11:07:58-07:00</updated>
+    <id>http://saltlab.github.io/blog/2016/04/11/nserc-das</id>
+    <content type="html"><![CDATA[<p>Dr. Mesbah receives an NSERC Discovery Accelerator (DAS) Award for 2016-2019. &ldquo;The <a href="http://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGAS-SGSA_eng.asp">DAS Program</a> provides substantial and timely resources to researchers who have a superior research program that is highly rated in terms of originality and innovation, and who show strong potential to become international leaders within their field.”</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Software Analysis for the Web: Achievements and Prospects]]></title>
@@ -238,15 +256,6 @@
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress]]></title>
-    <link href="http://saltlab.github.io/blog/2013/01/02/Octopress/"/>
-    <updated>2013-01-02T06:29:00-08:00</updated>
-    <id>http://saltlab.github.io/blog/2013/01/02/Octopress</id>
-    <content type="html"><![CDATA[<p>SALT lab&rsquo;s website is migrated to GitHub and is now based on Octopress!</p>
 ]]></content>
   </entry>
   
