@@ -28,7 +28,7 @@ Most of the software tools resulting from our research projects are open-sourced
 	<li>
 		<a href="/content/javis">Javis</a>: Client-side hidden-web analyzer</li>	
 	<li>
-		<a href="/content/jsnose">JSNose</a>: JavaScript Code Smell Detector</li>	
+		<a href="https://github.com/saltlab/JSNose">JSNose</a>: JavaScript Code Smell Detector</li>	
 	<li>
 		<a href="/content/feedex">FeedEx</a>: Feedback-directed exploration of web applications</li>	
 	
