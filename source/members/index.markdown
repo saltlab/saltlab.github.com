@@ -25,7 +25,7 @@ footer: false
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li>
 	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012 -- present)</li> 
 	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012 -- present)</li>
-	<li><a href="http://www.ece.ubc.ca/~merfani/">Mona Erfani Joorabchi</a> (Jan 2012 -- present)</li>
+	
 </ul>
 
 <strong>MASc Students</strong></p>
@@ -38,8 +38,10 @@ footer: false
 
 <strong>Graduated</strong>
 <ul>
+	<li><a href="http://www.ece.ubc.ca/~merfani/">Mona Erfani Joorabchi</a> (PhD, April 2016, <a href=" http://hdl.handle.net/2429/57542
+">dissertation</a>)</li>
 	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0223155">MASc  2015</a>, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
-	<li><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a>  (October 2015, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0167728">PhD dissertation</a>)</li>
+	<li><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a>  (PhD, October 2015, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0167728">dissertation</a>)</li>
 	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (<a href="https://circle.ubc.ca/bitstream/handle/2429/51459/ubc_2015_february_bajaj_kartik.pdf?sequence=4">MASc 2014</a>)</li>
 	<li>Golnaz Gharachorlu (<a href="http://circle.ubc.ca/bitstream/handle/2429/51364/ubc_2015_february_gharachorlu_golnaz.pdf?sequence=1">MASc 2014</a>)</li>
 	<li>Sheldon Sequeira (<a href="http://circle.ubc.ca/bitstream/handle/2429/50814/ubc_2014_november_sequeira_sheldon.pdf?sequence=7">MASc 2014</a>)</li> 
