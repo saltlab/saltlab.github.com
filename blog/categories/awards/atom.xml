@@ -4,7 +4,7 @@
   <title><![CDATA[Category: awards | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/awards/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2016-04-11T11:39:38-07:00</updated>
+  <updated>2016-05-27T09:25:25+04:30</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[NSERC DAS]]></title>
     <link href="http://saltlab.github.io/blog/2016/04/11/nserc-das/"/>
-    <updated>2016-04-11T11:07:58-07:00</updated>
+    <updated>2016-04-11T22:37:58+04:30</updated>
     <id>http://saltlab.github.io/blog/2016/04/11/nserc-das</id>
     <content type="html"><![CDATA[<p>Dr. Mesbah receives an NSERC Discovery Accelerator (DAS) Award for 2016-2019. &ldquo;The <a href="http://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/DGAS-SGSA_eng.asp">DAS Program</a> provides substantial and timely resources to researchers who have a superior research program that is highly rated in terms of originality and innovation, and who show strong potential to become international leaders within their field.”</p>
 ]]></content>
@@ -25,7 +25,7 @@
   <entry>
     <title type="html"><![CDATA[Best Full Paper Award at ESEM'15]]></title>
     <link href="http://saltlab.github.io/blog/2015/10/23/best-full-paper-award-at-esem-15/"/>
-    <updated>2015-10-23T09:58:05-07:00</updated>
+    <updated>2015-10-23T20:28:05+03:30</updated>
     <id>http://saltlab.github.io/blog/2015/10/23/best-full-paper-award-at-esem-15</id>
     <content type="html"><![CDATA[<p>Best Full Paper Award for the paper <a href="/publications/esem15.html">&ldquo;Don&rsquo;t Call Us, We&rsquo;ll Call Y ou: Characterizing Callbacks in JavaScript&rdquo;</a>, by Keheliya Gallaba, Ali Mesbah, and Ivan Beschastnikh, at the 9th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2015).</p>
 
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[Distinguished Paper Award at ICSE 2014]]></title>
-    <link href="http://saltlab.github.io/blog/2014/06/10/distinguished-paper-award-at-icse-2014/"/>
-    <updated>2014-06-10T13:02:39-07:00</updated>
-    <id>http://saltlab.github.io/blog/2014/06/10/distinguished-paper-award-at-icse-2014</id>
+    <link href="http://saltlab.github.io/blog/2014/06/11/distinguished-paper-award-at-icse-2014/"/>
+    <updated>2014-06-11T00:32:39+04:30</updated>
+    <id>http://saltlab.github.io/blog/2014/06/11/distinguished-paper-award-at-icse-2014</id>
     <content type="html"><![CDATA[<p>ACM SIGSOFT Distinguished Paper Award for our ICSE&#8217;14 <a href="http://salt.ece.ubc.ca/publications/saba_clematis.html">paper</a> on understanding JavaScript event-based interactions.</p>
 
 <p><img src="/images/icse14award3.JPG" title="Awards Ceremony at ICSE 2014" alt="ICSE 2014 Award" /></p>
@@ -53,7 +53,7 @@
   <entry>
     <title type="html"><![CDATA[Best Paper Award at ICWE'13]]></title>
     <link href="http://saltlab.github.io/blog/2013/07/12/best-paper-award-at-icwe-13/"/>
-    <updated>2013-07-12T09:56:00-07:00</updated>
+    <updated>2013-07-12T09:56:00+04:30</updated>
     <id>http://saltlab.github.io/blog/2013/07/12/best-paper-award-at-icwe-13</id>
     <content type="html"><![CDATA[<p>Our <a href="http://salt.ece.ubc.ca/publications/jana_icwe13.html">paper</a> received the <a href="http://icwe2013.webengineering.org/Contents/Item/Display/257">Best Paper Award</a> at ICWE 2013.</p>
 ]]></content>
