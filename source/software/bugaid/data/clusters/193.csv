@@ -1,0 +1,6 @@
+27731,BUG_FIX,UglifyJS2,https://github.com/mishoo/UglifyJS2/commit/11e24d53a195685578abe76b6ef34cb80f3a5730,0f509f8336b2cacff664f29255534f49c3f8b109,11e24d53a195685578abe76b6ef34cb80f3a5730,'\'ClassNA\'','\'MethodNA\'',cluster193
+29271,BUG_FIX,shields,https://github.com/badges/shields/commit/e7a4d93ee3ab781d21e7f2df937d3f2d44a6c86c,b6ccb95b6afb074a962611232a1bd8c445a76296,e7a4d93ee3ab781d21e7f2df937d3f2d44a6c86c,'\'ClassNA\'','\'MethodNA\'',cluster193
+41545,BUG_FIX,socket.io,https://github.com/Automattic/socket.io/commit/57b0ce73c7cec569b2cb77b0914899f07b75cd5a,25f97431d44ff4d14767a04e36e2248866fd73bc,57b0ce73c7cec569b2cb77b0914899f07b75cd5a,'\'ClassNA\'','\'MethodNA\'',cluster193
+91262,OTHER,tagspaces,https://github.com/tagspaces/tagspaces/commit/20d5585c94cd96f55178301dafaef97f83c4d7ed,d179958e2c0bf92b73049a7efa2dcd206e4b2f9b,20d5585c94cd96f55178301dafaef97f83c4d7ed,'\'ClassNA\'','\'MethodNA\'',cluster193
+91960,OTHER,react,https://github.com/facebook/react/commit/58c392ae3b539ef1c5fbb1baef020ec3b92c44b1,4549fd7510fe752b98c7b77d9817d4300c9d824c,58c392ae3b539ef1c5fbb1baef020ec3b92c44b1,'\'ClassNA\'','\'MethodNA\'',cluster193
+98265,OTHER,jquery,https://github.com/jquery/jquery/commit/d1f3dc9a04225b327b6fd6deb9d3913918054a9f,99fcf3babbba8b794fe8b0b2e20d517156cfd4d2,d1f3dc9a04225b327b6fd6deb9d3913918054a9f,'\'ClassNA\'','\'MethodNA\'',cluster193

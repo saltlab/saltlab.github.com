@@ -1,0 +1,5 @@
+53573,BUG_FIX,pm2,https://github.com/Unitech/pm2/commit/157c478ecd96e1cd100249d0b97d4ce19245c1c7,d8cad65849cde2a83bd4555155c335c63046ac63,157c478ecd96e1cd100249d0b97d4ce19245c1c7,'\'ClassNA\'','\'MethodNA\'',cluster5
+54047,BUG_FIX,pm2,https://github.com/Unitech/pm2/commit/96c4403f2b77d31818ef650d9b494b57bbb8b2dc,85e6142b9e260a0f97947a13cc0b6800129a3803,96c4403f2b77d31818ef650d9b494b57bbb8b2dc,'\'ClassNA\'','\'MethodNA\'',cluster5
+75647,BUG_FIX,sails,https://github.com/balderdashy/sails/commit/42cdd4f14dfcc4d6e46be48bbc276e03a5ff570d,95dd624ef7197822e5650c81260024f91f8acbd4,42cdd4f14dfcc4d6e46be48bbc276e03a5ff570d,'\'ClassNA\'','\'MethodNA\'',cluster5
+84657,BUG_FIX,npm,https://github.com/npm/npm/commit/d8e6560d9686287ad908099abed8ee3154f97171,e1798024064cc0e4c5cb213dbdf684ae190fad80,d8e6560d9686287ad908099abed8ee3154f97171,'\'ClassNA\'','\'MethodNA\'',cluster5
+90108,OTHER,npm,https://github.com/npm/npm/commit/289ca2cee081a433f07582802fa1ed855d8b07f0,a1dd90d73697daa04fd4eef2d592e1ce8b7be18d,289ca2cee081a433f07582802fa1ed855d8b07f0,'\'ClassNA\'','\'MethodNA\'',cluster5

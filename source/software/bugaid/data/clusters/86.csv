@@ -1,0 +1,5 @@
+78404,BUG_FIX,underscore,https://github.com/jashkenas/underscore/commit/5edc3761c683e0f64688fa9f8dc3a156702b7241,174c897fced7bdfd4841103dcb53c468c79ffe37,5edc3761c683e0f64688fa9f8dc3a156702b7241,'\'ClassNA\'','\'MethodNA\'',cluster86
+78771,OTHER,underscore,https://github.com/jashkenas/underscore/commit/6f25ccae31be7464a4069e0ccbb612502caa06da,ea44179d810ee8e551d783056d989c2b29de0ad2,6f25ccae31be7464a4069e0ccbb612502caa06da,'\'ClassNA\'','\'MethodNA\'',cluster86
+87215,BUG_FIX,tagspaces,https://github.com/tagspaces/tagspaces/commit/be2450c6c17fadad6a3af4316280ed88d67aff9f,14acb946020f439b32c4f2970fd6ea9ded1bb6f7,be2450c6c17fadad6a3af4316280ed88d67aff9f,'\'ClassNA\'','\'MethodNA\'',cluster86
+89575,OTHER,npm,https://github.com/npm/npm/commit/ef4760736d703e9b013f8607096c3761796b8cf7,2389bfd496387ced93ea02d0e56682951b1fe832,ef4760736d703e9b013f8607096c3761796b8cf7,'\'ClassNA\'','\'MethodNA\'',cluster86
+94587,OTHER,node-mongodb-native,https://github.com/mongodb/node-mongodb-native/commit/b9623967e6a53b0e002ec0a58b5a185d346064db,2ce05bc36b3c33b24da1ac3817a7b0605939d024,b9623967e6a53b0e002ec0a58b5a185d346064db,'\'ClassNA\'','\'MethodNA\'',cluster86

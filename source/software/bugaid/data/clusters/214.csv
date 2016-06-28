@@ -1,0 +1,6 @@
+9309,BUG_FIX,rimraf,https://github.com/isaacs/rimraf/commit/1c9d344f228fa43e936206c5c89f0aa7c83885ba,3d11bf57ba27c9d97054fa0fca5b078e69d954e5,1c9d344f228fa43e936206c5c89f0aa7c83885ba,'\'ClassNA\'','\'MethodNA\'',cluster214
+64847,BUG_FIX,tagspaces,https://github.com/tagspaces/tagspaces/commit/48382fb5af54284a0b24454d578511b791fdfaf4,e5287928d95fd0ed8768705eac5c2e9b7afd0f79,48382fb5af54284a0b24454d578511b791fdfaf4,'\'ClassNA\'','\'MethodNA\'',cluster214
+77778,OTHER,npm,https://github.com/npm/npm/commit/f9280d488b1e364e52fb00a5f821760d8a98e653,e380dc5aab34f60e43442c58dc608f9d513969fc,f9280d488b1e364e52fb00a5f821760d8a98e653,'\'ClassNA\'','\'MethodNA\'',cluster214
+79173,OTHER,npm,https://github.com/npm/npm/commit/d714dbdbda57e30e52cec153013f704646b0f764,e6e6a3e873ff3335367a9e4f193b8719cf7bcfcb,d714dbdbda57e30e52cec153013f704646b0f764,'\'ClassNA\'','\'MethodNA\'',cluster214
+79459,OTHER,npm,https://github.com/npm/npm/commit/ce725453152db8eacd9c5c729729f8f7369cf6b0,9f9c8f2c8d29143a9d044d205d82b98c5ae6b337,ce725453152db8eacd9c5c729729f8f7369cf6b0,'\'ClassNA\'','\'MethodNA\'',cluster214
+83777,BUG_FIX,npm,https://github.com/npm/npm/commit/a73862532b0525ebb85f1898c87179f231bd3528,3b8466d16a7ed68314f371f07c98cbfc42ccbe72,a73862532b0525ebb85f1898c87179f231bd3528,'\'ClassNA\'','\'MethodNA\'',cluster214
