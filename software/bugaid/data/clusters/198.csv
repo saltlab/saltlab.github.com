@@ -1,0 +1,5 @@
+34411,BUG_FIX,q,https://github.com/kriskowal/q/commit/027c1bb51cf0f6e478704ab8a45c00830b03cc87,7cdfe9f883cd8d843644c110090c5ad79116dcca,027c1bb51cf0f6e478704ab8a45c00830b03cc87,'\'ClassNA\'','\'MethodNA\'',cluster198
+41724,BUG_FIX,mocha,https://github.com/mochajs/mocha/commit/c66bc8354bac5f9bc43de7575f4bfe3ecc470801,3af1b8a54d7c17fceccf10f4fe02fd03000841c5,c66bc8354bac5f9bc43de7575f4bfe3ecc470801,'\'ClassNA\'','\'MethodNA\'',cluster198
+60298,OTHER,request,https://github.com/request/request/commit/243a56563f1014318a467e46113b2c61b485f377,4d7a6d46fa481e43fe873b8c8fad2f7dd816dbb5,243a56563f1014318a467e46113b2c61b485f377,'\'ClassNA\'','\'MethodNA\'',cluster198
+69069,OTHER,less.js,https://github.com/less/less.js/commit/c5c1031402734e3a96b3a2e0bcc8094610c9d73d,a3384fa922b55e00e9ad76d3fc6a1d23220721b6,c5c1031402734e3a96b3a2e0bcc8094610c9d73d,'\'ClassNA\'','\'MethodNA\'',cluster198
+70645,BUG_FIX,less.js,https://github.com/less/less.js/commit/93d2a56f2359b62c5f71b4303d0bc839440bee91,63bfdbfe4b57b8f8dd0e5af12274313fb2b3457c,93d2a56f2359b62c5f71b4303d0bc839440bee91,'\'ClassNA\'','\'MethodNA\'',cluster198

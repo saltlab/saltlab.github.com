@@ -1,0 +1,6 @@
+5620,BUG_FIX,Gisto,https://github.com/Gisto/Gisto/commit/9bcdd03359b3e58be76defc52f4f7d82e3aeb3d2,6e6b43c567d254f4ac1963873b421725c9c97689,9bcdd03359b3e58be76defc52f4f7d82e3aeb3d2,'\'ClassNA\'','\'MethodNA\'',cluster141
+33386,OTHER,grunt,https://github.com/gruntjs/grunt/commit/e3a1b33864eb20983b83dcfbb83c71bed4848730,826445aa33d0c9ad232eb3c179f1a01973c79d9d,e3a1b33864eb20983b83dcfbb83c71bed4848730,'\'ClassNA\'','\'MethodNA\'',cluster141
+34506,BUG_FIX,karma,https://github.com/karma-runner/karma/commit/655599ad295b3d3aa58aaa1ebf8ee5aa7ea9059b,def226fd2c46bb3c4ba955262f0d9495b348b39d,655599ad295b3d3aa58aaa1ebf8ee5aa7ea9059b,'\'ClassNA\'','\'MethodNA\'',cluster141
+51531,OTHER,connect,https://github.com/senchalabs/connect/commit/cb9051c64c496553546cd9b9efa62f498af52bf7,2b2e19ce25a8df932b58d976cdde46f562b1f4c6,cb9051c64c496553546cd9b9efa62f498af52bf7,'\'ClassNA\'','\'MethodNA\'',cluster141
+62025,OTHER,ejs,https://github.com/mde/ejs/commit/fe9dc60c26e4df170e0348dfa8fa92871a467e60,7070acc87eac4750b553f9dcf1a7cc3b4a491aaa,fe9dc60c26e4df170e0348dfa8fa92871a467e60,'\'ClassNA\'','\'MethodNA\'',cluster141
+101837,OTHER,hapi,https://github.com/hapijs/hapi/commit/352fea664440f904b8b408e021fa1c76f8be6bab,e6ea4676394051fc1d2a3dd1d120c2499b582a15,352fea664440f904b8b408e021fa1c76f8be6bab,'\'ClassNA\'','\'MethodNA\'',cluster141
