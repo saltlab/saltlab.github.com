@@ -17,29 +17,35 @@ footer: false
 	<li><a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>, Associate Member</li>
 </ul>
 
+<strong>Post-Doctoral Fellows</strong>
+
+<ul>
+<li>Andrea Stocco (Jan 2017 -- present)</li>
+</ul>
 
 <strong>PhD Students</strong>
 
 <ul>
+	<li>Mohammad Bajammal (Jan 2017 - present)</li>
 	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015 -- present)</li>
 	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li>
-	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012 -- present)</li> 
-	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (May 2012 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (May 2012 -- present)</li> 	
+</ul>
+
+
+<strong>Graduated (Alumni)</strong> 
+<ul>
+    <li>Mohamed Ali (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340560">MASc 2016</a>)</li> 
+
+	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (PhD, October 2016, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0319058">dissertation)</a></li>
+
+	<li>Arash Vahabzadeh (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0319208">MASc 2016</a>)</li>
+    
+    <li>Yucheng Zhang (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0319084">MASc 2016</a>)</li>
 	
-</ul>
-
-<strong>MASc Students</strong></p>
-<ul>
-	<li>Yucheng Zhang (Sep 2014)</li>
-	<li>Mohamed Ali (Sep 2014)</li>
-	<li>Arash Vahabzadeh (Sep 2014)</li>
-</ul>
- 
-
-<strong>Graduated</strong>
-<ul>
 	<li><a href="http://www.ece.ubc.ca/~merfani/">Mona Erfani Joorabchi</a> (PhD, April 2016, <a href=" http://hdl.handle.net/2429/57542
 ">dissertation</a>)</li>
+	 
 	<li><a href="http://ece.ubc.ca/~kgallaba/">Keheliya Gallaba</a> (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0223155">MASc  2015</a>, co-supervised with <a href="http://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>)</li>
 	<li><a href="http://www.ece.ubc.ca/~shabnamm/">Shabnam Mirshokraie</a>  (PhD, October 2015, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0167728">dissertation</a>)</li>
 	<li><a href="http://ece.ubc.ca/~kbajaj/">Kartik Bajaj</a> (<a href="https://circle.ubc.ca/bitstream/handle/2429/51459/ubc_2015_february_bajaj_kartik.pdf?sequence=4">MASc 2014</a>)</li>
