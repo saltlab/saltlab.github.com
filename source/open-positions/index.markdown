@@ -4,11 +4,11 @@ title: "Open Positions"
 date: 2013-01-03 12:36
 comments: false
 sharing: false
-footer: false
+footer: false 
 ---
 
 <h3>Postdoctoral Position</h3> 
-A postdoctoral position is available in the SALT lab starting September 1, 2016 (negotiable).  The term of the position is one year with a possible extension. 
+A postdoctoral position is available in the SALT lab starting January 1, 2018 (negotiable).  The term of the position is one year with a possible extension. 
 Strong applicants are solicited in the broad areas of software engineering, software analysis and testing, bug prediction/detection/repair, web and mobile engineering, and software maintenance and evolution.
 
 Applications for this position should: 
@@ -23,7 +23,7 @@ If interested, please send a CV and a brief research statement to <a href="http:
 
 <h3>PhD and Master Students</h3>
 <p>
-	We currently have two PhD positions in the SALT lab. There are a number of exciting projects for graduate students with strong academic background and experience in software engineering, software analysis and testing, web and mobile engineering, and/or related areas of research. Interested candidates may contact <a href="http://www.ece.ubc.ca/~amesbah/">Dr. Mesbah</a> provided they meet the following criteria:</p>
+	We currently have PhD and MSc positions in the SALT lab. There are a number of exciting projects for graduate students with strong academic background  and experience in software engineering, software analysis and testing, web and mobile engineering, and/or related areas of research. Interested candidates may contact <a href="http://www.ece.ubc.ca/~amesbah/">Dr. Mesbah</a> provided they meet the following criteria:</p>
 <ul>
 	<li>
 		Strong academic background</li>
