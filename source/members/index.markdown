@@ -7,9 +7,9 @@ sharing: false
 footer: false
 ---
 
-<img src="/members/group-photo-2015.jpg" border="0" title="SALT Lab Group Photo, 2015" alt="SALT Lab Group Photo, 2015"/>
+[comment]: <> (<img src="/members/group-photo-2015.jpg" border="0" title="SALT Lab Group Photo, 2015" alt="SALT Lab Group Photo, 2015"/>)
 
-<strong>Faculty</strong>
+<strong>Faculty</strong> 
 
 
 <ul>
@@ -26,16 +26,17 @@ footer: false
 <strong>PhD Students</strong>
 
 <ul>
+	<li>Rahul Krishna (Sep 2017 - present)</li>
 	<li>Mohammad Bajammal (Jan 2017 - present)</li>
 	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015 -- present)</li>
-	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li>
+	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li> 
 </ul>
 
 
 <strong>Graduated (Alumni)</strong> 
 <ul>
     <li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (PhD, January 2017, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340953">dissertation</a>)</li> 	  
-
+ 
     <li>Mohamed Ali (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340560">MASc 2016</a>)</li> 
 
 	<li><a href="http://ece.ubc.ca/~frolino/">Frolin Ocariza Jr.</a> (PhD, October 2016, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0319058">dissertation)</a></li>
