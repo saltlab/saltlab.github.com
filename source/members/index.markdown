@@ -20,7 +20,10 @@ footer: false
 <strong>Post-Doctoral Fellows</strong>
 
 <ul>
-<li>Andrea Stocco (Jan 2017 -- present)</li>
+<li><a href="http://dmazinanian.me">Davood Mazinanian</a> (October 2017 -- present)</li>
+
+<li><a href="https://www.ece.ubc.ca/~astocco/">Andrea Stocco</a> (Jan 2017 -- present)</li>
+
 </ul>
 
 <strong>PhD Students</strong>
@@ -29,12 +32,13 @@ footer: false
 	<li>Rahul Krishna (Sep 2017 - present)</li>
 	<li>Mohammad Bajammal (Jan 2017 - present)</li>
 	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015 -- present)</li>
-	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (Sep 2012 -- present)</li> 
 </ul>
 
 
 <strong>Graduated (Alumni)</strong> 
 <ul>
+	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (PhD, November 2017, <a href="http://hdl.handle.net/2429/63465">dissertation)</a></li> 
+
     <li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (PhD, January 2017, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340953">dissertation</a>)</li> 	  
  
     <li>Mohamed Ali (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340560">MASc 2016</a>)</li> 
