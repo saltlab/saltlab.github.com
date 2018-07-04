@@ -4,7 +4,7 @@
   <title><![CDATA[Category: awards | SALT Lab]]></title>
   <link href="http://saltlab.github.io/blog/categories/awards/atom.xml" rel="self"/>
   <link href="http://saltlab.github.io/"/>
-  <updated>2018-06-13T11:40:25-07:00</updated>
+  <updated>2018-07-03T17:14:26-07:00</updated>
   <id>http://saltlab.github.io/</id>
   <author>
     <name><![CDATA[SALT Lab]]></name>
@@ -31,9 +31,7 @@
 
 <p><img src="http://saltlab.github.io/images/esem15-award.jpg" title="Best Full Paper Award, ESEM 2015"></p>
 
-<p>{% blockquote %}
-Abstract: JavaScript is a popular language for developing web applications and is increasingly used for both client-side and server-side application logic. The JavaScript runtime is inherently event-driven and callbacks are a key language feature. Unfortunately, callbacks induce a non-linear control flow and can be deferred to execute asynchronously, declared anonymously, and may be nested to arbitrary levels. All of these features make callbacks difficult to understand and maintain. We perform an empirical study to characterize JavaScript callback usage across a representative corpus of 138 JavaScript programs, with over 5 million lines of JavaScript code. We find that on average, every 10th function definition takes a callback argument, and that over 43% of all callback-accepting function callsites are anonymous. Furthermore, the majority of callbacks are nested, more than half of all callbacks are asynchronous, and asynchronous callbacks, on average, appear more frequently in client-side code (72%) than server-side (55%). We also study three well-known solutions designed to help with the complexities associated with callbacks, including the error-first callback convention, Async.js library, and Promises. Our results inform the design of future JavaScript analysis and code comprehension tools.
-{% endblockquote %}</p>
+<p><blockquote><p>Abstract: JavaScript is a popular language for developing web applications and is increasingly used for both client-side and server-side application logic. The JavaScript runtime is inherently event-driven and callbacks are a key language feature. Unfortunately, callbacks induce a non-linear control flow and can be deferred to execute asynchronously, declared anonymously, and may be nested to arbitrary levels. All of these features make callbacks difficult to understand and maintain. We perform an empirical study to characterize JavaScript callback usage across a representative corpus of 138 JavaScript programs, with over 5 million lines of JavaScript code. We find that on average, every 10th function definition takes a callback argument, and that over 43% of all callback-accepting function callsites are anonymous. Furthermore, the majority of callbacks are nested, more than half of all callbacks are asynchronous, and asynchronous callbacks, on average, appear more frequently in client-side code (72%) than server-side (55%). We also study three well-known solutions designed to help with the complexities associated with callbacks, including the error-first callback convention, Async.js library, and Promises. Our results inform the design of future JavaScript analysis and code comprehension tools.</p></blockquote></p>
 ]]></content>
   </entry>
   
@@ -46,10 +44,7 @@ Abstract: JavaScript is a popular language for developing web applications and i
 
 <p><img src="/images/icse14award3.JPG" title="Awards Ceremony at ICSE 2014" alt="ICSE 2014 Award" /></p>
 
-<p>{% blockquote %}
-Web applications have become one of the fastest growing types of software system today. Despite their popularity, understanding the behaviour of modern web applications is still challenging for developers during development and maintenance tasks. The challenges mainly stem from the dynamic, event-driven, and asynchronous nature of the JavaScript language.
-In our paper, we proposed a generic technique for capturing low-level event-based interactions in a web application and mapping those to a higher-level behavioural model. This model is then transformed into an interactive visualization, representing episodes of triggered causal and temporal events, related JavaScript code executions, and their impact on the dynamic DOM state. The approach, implemented in a tool called Clematis, allows developers to easily understand the complex dynamic behaviour of their application at three different semantic levels. The results from experiments conducted in an industrial setting show that Clematis is capable of improving accuracy by 61%, while reducing completion time by 47%.
-{% endblockquote %}</p>
+<p><blockquote><p>Web applications have become one of the fastest growing types of software system today. Despite their popularity, understanding the behaviour of modern web applications is still challenging for developers during development and maintenance tasks. The challenges mainly stem from the dynamic, event-driven, and asynchronous nature of the JavaScript language.<br/>In our paper, we proposed a generic technique for capturing low-level event-based interactions in a web application and mapping those to a higher-level behavioural model. This model is then transformed into an interactive visualization, representing episodes of triggered causal and temporal events, related JavaScript code executions, and their impact on the dynamic DOM state. The approach, implemented in a tool called Clematis, allows developers to easily understand the complex dynamic behaviour of their application at three different semantic levels. The results from experiments conducted in an industrial setting show that Clematis is capable of improving accuracy by 61%, while reducing completion time by 47%.</p></blockquote></p>
 
 <p><img src="http://saltlab.github.io/images/clematis.png" align="middle"/></p>
 ]]></content>
