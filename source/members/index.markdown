@@ -17,26 +17,29 @@ footer: false
 	<li><a href="http://blogs.ubc.ca/karthik/">Karthik Pattabiraman</a>, Associate Member</li>
 </ul>
 
-<strong>Post-Doctoral Fellows</strong>
-
-<ul>
-<li><a href="http://dmazinanian.me">Davood Mazinanian</a> (October 2017 -- present)</li>
-</ul>
-
 <strong>PhD Students</strong>
 
 <ul>
-	<li>Rahul Krishna (Sep 2017 - present)</li>
+	<li>Nashid Noor (Jan 2020 - present)</li>
+	<li><a href="http://www.ece.ubc.ca/~rahulyk">Rahul Krishna</a> (Sep 2017 - present)</li>
 	<li>Mohammad Bajammal (Jan 2017 - present)</li>
 	<li><a href="http://www.ece.ubc.ca/~qhanam/">Quinn Hanam</a> (Jan 2015 -- present)</li>
 </ul>
+ 
+<strong>Master Students</strong>
 
+<ul>
+	<li>Marjane Namavar (Sep 2019 - present)</li>
+	<li>Amirhossein Abbasi Makhshari (Sep 2019 - present)</li>
+</ul>
 
 <strong>Graduated (Alumni)</strong> 
 <ul>
+	<li><a href="https://scholar.google.ca/citations?user=HVlCJYkAAAAJ&hl=en">Davood Mazinanian</a> (post-doc, Oct 2017 - May 2019)</li>
+	
 	<li><a href="https://www.ece.ubc.ca/~astocco/">Andrea Stocco</a> (post-doc, Jan 2017 - Jan 2019)</li>
 	
-	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (PhD, November 2017, <a href="http://hdl.handle.net/2429/63465">dissertation)</a></li> 
+	<li><a href="http://www.ece.ubc.ca/~saba/">Saba Alimadadi</a> (PhD, November 2017, <a href="http://hdl.handle.net/2429/63465">dissertation)</a>. Now Assistant Professor at SFU</li> 
 
     <li><a href="http://www.ece.ubc.ca/~aminmf/">Amin Milani Fard</a> (PhD, January 2017, <a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340953">dissertation</a>)</li> 	  
     <li>Mohamed Ali (<a href="https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0340560">MASc 2016</a>)</li> 
