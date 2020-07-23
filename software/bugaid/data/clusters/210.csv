@@ -1,5 +1,0 @@
-6602,BUG_FIX,newww,https://github.com/npm/newww/commit/601767c949aef78002380934dfd46faaeca8c7e4,349773e028c1b9c436573a336ba1ee2d2ed4daab,601767c949aef78002380934dfd46faaeca8c7e4,'\'ClassNA\'','\'MethodNA\'',cluster210
-53532,BUG_FIX,ejs,https://github.com/mde/ejs/commit/e73173c2dac4889b57a695de5e72499c37dda0f9,e028f161c3efb6a2f2b0b455bca4fe027fcc9263,e73173c2dac4889b57a695de5e72499c37dda0f9,'\'ClassNA\'','\'MethodNA\'',cluster210
-57886,BUG_FIX,connect,https://github.com/senchalabs/connect/commit/f6e416b872c0143d08683008c3430fb9a5979338,699d3118ebe04d5ed4843c9ef048204b0ac0b891,f6e416b872c0143d08683008c3430fb9a5979338,'\'ClassNA\'','\'MethodNA\'',cluster210
-67275,OTHER,mocha,https://github.com/mochajs/mocha/commit/d37af5323c53d37736e961e220c8e3c74ee6a4ce,7c7357a52e816f46817b9b6738d31f4aab1f6ee4,d37af5323c53d37736e961e220c8e3c74ee6a4ce,'\'ClassNA\'','\'MethodNA\'',cluster210
-72293,OTHER,sails,https://github.com/balderdashy/sails/commit/fdae41bd667047ab9611ab994986003b13d5670b,027a63f21afb33188c4386e857ab19c226b8676a,fdae41bd667047ab9611ab994986003b13d5670b,'\'ClassNA\'','\'MethodNA\'',cluster210

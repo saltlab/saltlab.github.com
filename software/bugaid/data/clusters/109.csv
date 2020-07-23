@@ -1,8 +1,0 @@
-20109,BUG_FIX,UglifyJS2,https://github.com/mishoo/UglifyJS2/commit/335e349314963e1761f7531656a64efaff548ceb,2a88d07b3a22095bc0e3f6038f57f73c52685b4a,335e349314963e1761f7531656a64efaff548ceb,'\'ClassNA\'','\'MethodNA\'',cluster109
-48047,OTHER,bower,https://github.com/bower/bower/commit/4148e0c7a9aab70a1653760955c1dfc502045201,729bdd9c6849fc584aca4dff30f7a051b702a570,4148e0c7a9aab70a1653760955c1dfc502045201,'\'ClassNA\'','\'MethodNA\'',cluster109
-67892,OTHER,sails,https://github.com/balderdashy/sails/commit/2cd5dccb19a1bccbc1b60baec42a4fd418215f88,5fb5eeb8db7d714ec4e9f0239bc10d40b58bcb03,2cd5dccb19a1bccbc1b60baec42a4fd418215f88,'\'ClassNA\'','\'MethodNA\'',cluster109
-68939,OTHER,npm,https://github.com/npm/npm/commit/e71410eedfe1f934972c62976b69ce7a206269b1,67c13e0dec3e3471390ac38290e67a11f6fdf6f9,e71410eedfe1f934972c62976b69ce7a206269b1,'\'ClassNA\'','\'MethodNA\'',cluster109
-85519,OTHER,npm,https://github.com/npm/npm/commit/8afa4b398c0db9e094c79b2f9c4f35bfa5e25256,94aeffe25ae1003289560d0ad6ef2371d32b2d9b,8afa4b398c0db9e094c79b2f9c4f35bfa5e25256,'\'ClassNA\'','\'MethodNA\'',cluster109
-86404,OTHER,react,https://github.com/facebook/react/commit/030071dd8b1eedb796747e51faaaa2b05e9e3c2d,9929f6de1e2de1744ba7db226001730c09ae577b,030071dd8b1eedb796747e51faaaa2b05e9e3c2d,'\'ClassNA\'','\'MethodNA\'',cluster109
-97244,BUG_FIX,hapi,https://github.com/hapijs/hapi/commit/7b946575d0956900aacbdea98d208b1a9b6eaf24,43121deac593c1d89129b7b7f8700181ef7e2e36,7b946575d0956900aacbdea98d208b1a9b6eaf24,'\'ClassNA\'','\'MethodNA\'',cluster109
-101312,OTHER,jquery,https://github.com/jquery/jquery/commit/c27cbdc4770e0641bff705599b3349e9d665246f,2fa855601e9ece6c0a240202b0534702b7e5c153,c27cbdc4770e0641bff705599b3349e9d665246f,'\'ClassNA\'','\'MethodNA\'',cluster109

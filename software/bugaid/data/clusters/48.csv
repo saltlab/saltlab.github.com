@@ -1,6 +1,0 @@
-2156,BUG_FIX,koala,https://github.com/oklai/koala/commit/fa94bfd3c22c5c57c074d7097ebf147ecc8fe9fd,c658e36dddd595296f24e2bfdf7ada9d9fecf970,fa94bfd3c22c5c57c074d7097ebf147ecc8fe9fd,'\'ClassNA\'','\'MethodNA\'',cluster48
-19156,OTHER,KiwiIRC,https://github.com/prawnsalad/KiwiIRC/commit/ad6e3f2ba3225185b6b94cb2ab25ff4e548a777b,1b48d21e8c18ef27ecdcae2d593d6d55e8da9dbd,ad6e3f2ba3225185b6b94cb2ab25ff4e548a777b,'\'ClassNA\'','\'MethodNA\'',cluster48
-36164,OTHER,generator,https://github.com/yeoman/generator/commit/e98b53fc06cab90edafe7b1fbb78cd57ac3db33a,b6f2def5bc34ef366e4c368315b382971180ea61,e98b53fc06cab90edafe7b1fbb78cd57ac3db33a,'\'ClassNA\'','\'MethodNA\'',cluster48
-44232,BUG_FIX,node-browserify,https://github.com/substack/node-browserify/commit/3ef6295ebf908eccbc83b71fe13f144d4f5f0ab8,0cb75b66113aec07608df689d9a066bbab0dacb2,3ef6295ebf908eccbc83b71fe13f144d4f5f0ab8,'\'ClassNA\'','\'MethodNA\'',cluster48
-92211,BUG_FIX,jquery,https://github.com/jquery/jquery/commit/9bea2167c434d5b97643f53da16b04927dc02a7d,605e4bb1e67975855cb212ce68941419fcf88cec,9bea2167c434d5b97643f53da16b04927dc02a7d,'\'ClassNA\'','\'MethodNA\'',cluster48
-94409,OTHER,hapi,https://github.com/hapijs/hapi/commit/b18955887745d75a778fb0895bdc41978c24c3a8,95a15217a2e4c25205755acab4bce4a3bfbf2979,b18955887745d75a778fb0895bdc41978c24c3a8,'\'ClassNA\'','\'MethodNA\'',cluster48

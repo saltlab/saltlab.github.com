@@ -1,5 +1,0 @@
-16819,BUG_FIX,forever,https://github.com/foreverjs/forever/commit/fefce03d0c6f139af8c43a0d23bc43ed01772305,a216e76189a80bb5c3194916d9259c1afacdb35b,fefce03d0c6f139af8c43a0d23bc43ed01772305,'\'ClassNA\'','\'MethodNA\'',cluster160
-43193,OTHER,karma,https://github.com/karma-runner/karma/commit/dabce73463966b326be946e452c5086d17ebc36b,290dc05a2db726ed197ee7daa65bfa16e806cb84,dabce73463966b326be946e452c5086d17ebc36b,'\'ClassNA\'','\'MethodNA\'',cluster160
-57699,BUG_FIX,pm2,https://github.com/Unitech/pm2/commit/4fd8351188a9adf6d15a4fce7e7089208fb988c8,e0704add535f19d99ffd59fd6648d1260ad62677,4fd8351188a9adf6d15a4fce7e7089208fb988c8,'\'ClassNA\'','\'MethodNA\'',cluster160
-63986,OTHER,react,https://github.com/facebook/react/commit/08499f9938f241e7277fab3c9608a0b356289021,d01188133e9e9195c2315a5c92e669d4edc15674,08499f9938f241e7277fab3c9608a0b356289021,'\'ClassNA\'','\'MethodNA\'',cluster160
-70156,BUG_FIX,npm,https://github.com/npm/npm/commit/c9fcf0d1b37c834857010d9cd671fd83dacddbc3,e2aeee74c2c1cb465d5e76f3dd38477c1e0d6e30,c9fcf0d1b37c834857010d9cd671fd83dacddbc3,'\'ClassNA\'','\'MethodNA\'',cluster160

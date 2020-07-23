@@ -1,8 +1,0 @@
-16775,BUG_FIX,forever,https://github.com/foreverjs/forever/commit/1102d1147a7473756dcf7487ef56d2edc96c6645,521d91a43baa30b40abe67a06e1a44ddf3dec21d,1102d1147a7473756dcf7487ef56d2edc96c6645,'\'ClassNA\'','\'MethodNA\'',cluster116
-38678,OTHER,socket.io,https://github.com/Automattic/socket.io/commit/d65635d212b7c3dbce50ce0d23a8ee21a4e515fc,dd0fd539e68b5851a2ea31c751a8b2074a7805f7,d65635d212b7c3dbce50ce0d23a8ee21a4e515fc,'\'ClassNA\'','\'MethodNA\'',cluster116
-54366,OTHER,ejs,https://github.com/mde/ejs/commit/014c84ab845ccc72659f9819e20529cf8ccd9d8d,f765dfef83d9426b6f4d1d6047e3c800aa650d96,014c84ab845ccc72659f9819e20529cf8ccd9d8d,'\'ClassNA\'','\'MethodNA\'',cluster116
-54383,OTHER,ejs,https://github.com/mde/ejs/commit/b582c7add5bdfa46032ab23a61e0bbe2aea068e8,f8fb02a850e19951ec3ecdd3541f94d495b4b4c5,b582c7add5bdfa46032ab23a61e0bbe2aea068e8,'\'ClassNA\'','\'MethodNA\'',cluster116
-60109,BUG_FIX,connect,https://github.com/senchalabs/connect/commit/8de3d3be3129e4f910c1b9fee38ba79315f6fc3d,80caa3b95336621deada37ff57861d1f3309a768,8de3d3be3129e4f910c1b9fee38ba79315f6fc3d,'\'ClassNA\'','\'MethodNA\'',cluster116
-60122,OTHER,connect,https://github.com/senchalabs/connect/commit/b784ef451f89841ac38de5c7a305c26675a747de,80caa3b95336621deada37ff57861d1f3309a768,b784ef451f89841ac38de5c7a305c26675a747de,'\'ClassNA\'','\'MethodNA\'',cluster116
-80179,OTHER,npm,https://github.com/npm/npm/commit/eca5f88a73b8f13ce36bea2604d1917bbe19a94e,9f3e663814dc9bf07a19a06567d15574431fe3be,eca5f88a73b8f13ce36bea2604d1917bbe19a94e,'\'ClassNA\'','\'MethodNA\'',cluster116
-97931,OTHER,hapi,https://github.com/hapijs/hapi/commit/374bac8434c7df3972630ca4e49c8ca55e0583a6,8441c195da47ffce2678923321f6ce05f8e05813,374bac8434c7df3972630ca4e49c8ca55e0583a6,'\'ClassNA\'','\'MethodNA\'',cluster116

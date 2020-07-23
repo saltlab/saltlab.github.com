@@ -1,6 +1,0 @@
-19084,BUG_FIX,underscore.string,https://github.com/epeli/underscore.string/commit/4a82f831b41e4d8d2d4ac8100f020589f4f0d27c,e1defd1470dc134c2df531933a1f7059d2c09130,4a82f831b41e4d8d2d4ac8100f020589f4f0d27c,'\'ClassNA\'','\'MethodNA\'',cluster83
-28934,BUG_FIX,superagent,https://github.com/visionmedia/superagent/commit/46bef96daa57dda5f4658a771723187634525eb0,31b8662776296a23b9434ecb9bab7b7d6a618dfe,46bef96daa57dda5f4658a771723187634525eb0,'\'ClassNA\'','\'MethodNA\'',cluster83
-36844,OTHER,grunt,https://github.com/gruntjs/grunt/commit/fabc37249f9c64565c8457971c88b466f9b8b636,00ed541b763d52814040f9540882ab19b17c71c2,fabc37249f9c64565c8457971c88b466f9b8b636,'\'ClassNA\'','\'MethodNA\'',cluster83
-94189,OTHER,hapi,https://github.com/hapijs/hapi/commit/c80b8239d0f2e2c95626e14492185036548c8ac4,3b29c604b2f744992a602ebf435c7bc46e601e6f,c80b8239d0f2e2c95626e14492185036548c8ac4,'\'ClassNA\'','\'MethodNA\'',cluster83
-94193,OTHER,hapi,https://github.com/hapijs/hapi/commit/2de593070e30503b40d3b3976266a54f61f57a47,3b29c604b2f744992a602ebf435c7bc46e601e6f,2de593070e30503b40d3b3976266a54f61f57a47,'\'ClassNA\'','\'MethodNA\'',cluster83
-94934,BUG_FIX,hapi,https://github.com/hapijs/hapi/commit/99fb7426334caa3e0e49ffa27e08d9ff85bc902d,0f02bf9c7ae81d34a7fbe522a3cc804b4c4b2f49,99fb7426334caa3e0e49ffa27e08d9ff85bc902d,'\'ClassNA\'','\'MethodNA\'',cluster83

@@ -1,6 +1,0 @@
-6529,BUG_FIX,KiwiIRC,https://github.com/prawnsalad/KiwiIRC/commit/20cc0f190d2e861c512f585aa051e8de56967676,05f268f0ed0cc39bcba7c1dcb3ed9c4a6d3638f2,20cc0f190d2e861c512f585aa051e8de56967676,'\'ClassNA\'','\'MethodNA\'',cluster136
-11776,BUG_FIX,debug,https://github.com/visionmedia/debug/commit/bea76f587b659320a181d568b9c7ad5c0a5a424c,3eebad470aafd4447cfa8afb6f37fe168d09dc86,bea76f587b659320a181d568b9c7ad5c0a5a424c,'\'ClassNA\'','\'MethodNA\'',cluster136
-19788,OTHER,winston,https://github.com/winstonjs/winston/commit/1868641304d18492a066c3d20269c3f5b4f39d91,6b00e1fba3b62902593a2b2579df829d06b9ffb3,1868641304d18492a066c3d20269c3f5b4f39d91,'\'ClassNA\'','\'MethodNA\'',cluster136
-26674,OTHER,node_redis,https://github.com/mranney/node_redis/commit/a4f266684edb3d63b68b982f17172b41a3a4838b,31c22be6b93b4bd4f4ada7c9382e0ecc19def456,a4f266684edb3d63b68b982f17172b41a3a4838b,'\'ClassNA\'','\'MethodNA\'',cluster136
-63043,BUG_FIX,ejs,https://github.com/mde/ejs/commit/d2581ec570be04a5e09662ecba7f44c2ef86eb71,8c467affea07d9ae7f724c90cc0ee5abb778b8f8,d2581ec570be04a5e09662ecba7f44c2ef86eb71,'\'ClassNA\'','\'MethodNA\'',cluster136
-100668,BUG_FIX,hapi,https://github.com/hapijs/hapi/commit/5dd8c73031cd2a7358ddc549cb88c77b4a8757a1,0b3a0a7b3addb1b76cb5a8af9285b13c37ca5d6e,5dd8c73031cd2a7358ddc549cb88c77b4a8757a1,'\'ClassNA\'','\'MethodNA\'',cluster136

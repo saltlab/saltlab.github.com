@@ -1,7 +1,0 @@
-16864,BUG_FIX,forever,https://github.com/foreverjs/forever/commit/23a217c588d4feb0c6bc685aea2d12b05fa98343,af83c0ed997141b041edbc2cfd6dd68cec494962,23a217c588d4feb0c6bc685aea2d12b05fa98343,'\'ClassNA\'','\'MethodNA\'',cluster153
-22823,BUG_FIX,nodemon,https://github.com/remy/nodemon/commit/7e6fe7c945e4a1b0c2a88106f4ddeee39bb3784b,53587d738041b88c128e2490b8e44c4eb18b3fdc,7e6fe7c945e4a1b0c2a88106f4ddeee39bb3784b,'\'ClassNA\'','\'MethodNA\'',cluster153
-47785,OTHER,bower,https://github.com/bower/bower/commit/063453b7447a06f483247cbc3334646ed561149f,3a0cb8b35c35e14483be290263215383a99b99f6,063453b7447a06f483247cbc3334646ed561149f,'\'ClassNA\'','\'MethodNA\'',cluster153
-89233,BUG_FIX,react,https://github.com/facebook/react/commit/f5a48f1ff4a06ed5d281b51a9ed422414f007cb2,e3e24500aeebd0c3da0822f50f299b79d9229565,f5a48f1ff4a06ed5d281b51a9ed422414f007cb2,'\'ClassNA\'','\'MethodNA\'',cluster153
-93598,OTHER,react,https://github.com/facebook/react/commit/4b81de93d3733ecc5d4dcaab7efad2a5eef1937d,93fc188afb016b44f0b4e464621bfca721979cc5,4b81de93d3733ecc5d4dcaab7efad2a5eef1937d,'\'ClassNA\'','\'MethodNA\'',cluster153
-96325,BUG_FIX,jquery,https://github.com/jquery/jquery/commit/9dc63971877d583dac5bb5c8b0c3d73d1127f144,f7ccec1b70a42de21b55dbb7b3d65da5628ade9e,9dc63971877d583dac5bb5c8b0c3d73d1127f144,'\'ClassNA\'','\'MethodNA\'',cluster153
-104685,BUG_FIX,strider,https://github.com/Strider-CD/strider/commit/2e5f3bf5561982dc894ce37b10b13324f26d3ce0,ab9145c79dbafe7eba85d570d03e5a714b3dab47,2e5f3bf5561982dc894ce37b10b13324f26d3ce0,'\'ClassNA\'','\'MethodNA\'',cluster153

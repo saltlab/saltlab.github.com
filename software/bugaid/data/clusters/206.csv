@@ -1,7 +1,0 @@
-19937,BUG_FIX,winston,https://github.com/winstonjs/winston/commit/70ca2ff6865ab615319dc432cfa79e4728010f57,5109493b1513ce6a28f73d13e86855d70144c81d,70ca2ff6865ab615319dc432cfa79e4728010f57,'\'ClassNA\'','\'MethodNA\'',cluster206
-45986,BUG_FIX,node-browserify,https://github.com/substack/node-browserify/commit/933ef667feec6dfd489272a00e5b33b801a4e81e,1484e5b940458f2a6ce922fa17614615ba0f7e13,933ef667feec6dfd489272a00e5b33b801a4e81e,'\'ClassNA\'','\'MethodNA\'',cluster206
-74414,BUG_FIX,jshint,https://github.com/jshint/jshint/commit/7f7aac298002fa9a22372c67f256f0cbc92959f7,6bf7653ec8eedcb35ea6825fd8b5a0abd2a4410e,7f7aac298002fa9a22372c67f256f0cbc92959f7,'\'ClassNA\'','\'MethodNA\'',cluster206
-75336,OTHER,npm,https://github.com/npm/npm/commit/88f51aa27eb9a958d1fa7ec50fee5cfdedd05110,2c501ddc103c3cd9a3d7ace161e8bad0070d4d98,88f51aa27eb9a958d1fa7ec50fee5cfdedd05110,'\'ClassNA\'','\'MethodNA\'',cluster206
-75341,OTHER,npm,https://github.com/npm/npm/commit/54cf62534e3331e3f454e609e44f0b944e819283,e410861c69a3799c1874614cb5b87af8124ff98d,54cf62534e3331e3f454e609e44f0b944e819283,'\'ClassNA\'','\'MethodNA\'',cluster206
-77262,BUG_FIX,moment,https://github.com/moment/moment/commit/ed6a2d4e1f3e32abce6939ef451f0cd4f8c54a1b,7d8ef1cd867d8a7f34db337f7b72f4944419e64c,ed6a2d4e1f3e32abce6939ef451f0cd4f8c54a1b,'\'ClassNA\'','\'MethodNA\'',cluster206
-86204,OTHER,npm,https://github.com/npm/npm/commit/a3ad3feaf0767deaba8627fef32530c26ec7ced8,3452c61651ce6bc3082406dcd3c7610a5cc99f7f,a3ad3feaf0767deaba8627fef32530c26ec7ced8,'\'ClassNA\'','\'MethodNA\'',cluster206
