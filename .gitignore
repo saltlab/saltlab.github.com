@@ -1,4 +1,8 @@
-www/
+.jekyll-cache/
+.jekyll-metadata
+
+.bundle/
+
 _site/
 .sass-cache/
 .DS_Store
