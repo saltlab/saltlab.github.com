@@ -1,0 +1,5 @@
+35299,BUG_FIX,karma,https://github.com/karma-runner/karma/commit/54dcce31ea59ba8a425ee656be8b507ffe7d8248,d83fab976fd4a14c6059372c68ab2d6c04e46b17,54dcce31ea59ba8a425ee656be8b507ffe7d8248,'\'ClassNA\'','\'MethodNA\'',cluster31
+45222,BUG_FIX,cordova-cli,https://github.com/apache/cordova-cli/commit/41816a6d452dd49b282d9369dfd2e116cd9beb01,bab6419a75db20c1cbd448d8e155e3e543967a94,41816a6d452dd49b282d9369dfd2e116cd9beb01,'\'ClassNA\'','\'MethodNA\'',cluster31
+79698,OTHER,underscore,https://github.com/jashkenas/underscore/commit/348147d8fbd53619ee4951df4bc0c3d5df6faea5,5984be70c1225f9165b5392d73f14be3ca6b5145,348147d8fbd53619ee4951df4bc0c3d5df6faea5,'\'ClassNA\'','\'MethodNA\'',cluster31
+88746,OTHER,npm,https://github.com/npm/npm/commit/0d4adf74854c37bba02a23566a4b2ec236580932,7daa66b1948cc05818927186b7f4a32b7791b6f3,0d4adf74854c37bba02a23566a4b2ec236580932,'\'ClassNA\'','\'MethodNA\'',cluster31
+91177,BUG_FIX,tagspaces,https://github.com/tagspaces/tagspaces/commit/216cfc4cc8e438fc760000bb7032049e2a18366e,7b60da39024045d08c07b5232a6f949038b2628e,216cfc4cc8e438fc760000bb7032049e2a18366e,'\'ClassNA\'','\'MethodNA\'',cluster31

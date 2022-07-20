@@ -1,0 +1,5 @@
+17611,BUG_FIX,KiwiIRC,https://github.com/prawnsalad/KiwiIRC/commit/4f19a296c1238dad36a2903d05e5be7f2f2640c1,fcf230a90fe91b05cea8c298f051278173800eb9,4f19a296c1238dad36a2903d05e5be7f2f2640c1,'\'ClassNA\'','\'MethodNA\'',cluster164
+28531,BUG_FIX,node-mysql,https://github.com/felixge/node-mysql/commit/57ac4b28e6dc6748d816744053175acbc30d46db,347b33e0b4cc06955568f335debb573a210f3c4f,57ac4b28e6dc6748d816744053175acbc30d46db,'\'ClassNA\'','\'MethodNA\'',cluster164
+29828,BUG_FIX,UglifyJS2,https://github.com/mishoo/UglifyJS2/commit/a90c1aeafe0ab94cb20e0f0f40fda2b740a3bb15,ff388a8d2d6f7777690e792e8cb497acb108e3e5,a90c1aeafe0ab94cb20e0f0f40fda2b740a3bb15,'\'ClassNA\'','\'MethodNA\'',cluster164
+53383,OTHER,request,https://github.com/request/request/commit/de8508e9feac10563596aeee26727567b3c2e33c,c12a116cde6ed06f849a26afda90f2d143216ea8,de8508e9feac10563596aeee26727567b3c2e33c,'\'ClassNA\'','\'MethodNA\'',cluster164
+62805,BUG_FIX,mongoose,https://github.com/Automattic/mongoose/commit/8c27f40760eab87f7f1c5559f07c06ba730db0bc,4237515684bbab8401e579125f2a3b204765bd83,8c27f40760eab87f7f1c5559f07c06ba730db0bc,'\'ClassNA\'','\'MethodNA\'',cluster164
